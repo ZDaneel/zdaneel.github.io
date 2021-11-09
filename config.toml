@@ -492,7 +492,7 @@ uglyURLs = false
     #      者依然可能以浅色模式模式阅读你的博客。
     #      除非，你开启下方这个选项。
 
-    overrideSystemPreferences = true
+    overrideSystemPreferences = false
 
 
     ######################################
