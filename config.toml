@@ -31,7 +31,7 @@ enableEmoji = false
 footnoteReturnLinkContents = "↩"
 
 # 是否启用 Git 版本信息
-enableGitInfo = false
+enableGitInfo = true
 
 # 是否生成 robots.txt 文件
 enableRobotsTXT = true
@@ -46,12 +46,12 @@ uglyURLs = false
 
 # URL 结构
 [permalinks]
-    categories = "/categories/:slug/"
+    # categories = "/categories/:slug/"
     tags = "/tags/:slug/"
 
 # 类别
 [taxonomies]
-    category = "categories"
+    # category = "categories"
     tag = "tags"
 
 # 修改时间
@@ -187,30 +187,30 @@ uglyURLs = false
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
-    [[menu.main]]
-        url = "/posts/"
-        name = "文章"
-        weight = 2
-        pre = "internal"
-        post = "archive"
-    [[menu.main]]
-        url = "/categories/"
-        name = "分类"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        url = "/tags/"
-        name = "标签"
-        weight = 4
-        pre = "internal"
-        post = "tags"
-    [[menu.main]]
-        url = "/about/"
-        name = "关于"
-        weight = 5
-        pre = "internal"
-        post = "user-circle"
+    #[[menu.main]]
+    #    url = "/posts/"
+    #    name = "文章"
+    #    weight = 2
+    #    pre = "internal"
+    #    post = "archive"
+    #[[menu.main]]
+    #    url = "/categories/"
+    #    name = "分类"
+    #    weight = 3
+    #    pre = "internal"
+    #    post = "th"
+    #[[menu.main]]
+    #    url = "/tags/"
+    #    name = "标签"
+    #    weight = 4
+    #    pre = "internal"
+    #    post = "tags"
+    #[[menu.main]]
+    #    url = "/about/"
+    #    name = "关于"
+    #    weight = 5
+    #    pre = "internal"
+    #   post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
@@ -221,6 +221,27 @@ uglyURLs = false
     #     weight = 8
     #     identifier = "search"
     #     post = "search"
+    [[menu.main]]
+        url = "/life/"
+        name = "生活"
+        weight = 1
+        pre = "internal"
+        post = "th"
+        identifier = "life"
+    [[menu.main]]
+        url = "/read/"
+        name = "阅读"
+        weight =2
+        pre = "internal"
+        post = "wpexplorer"
+        identifier = "read"
+    [[menu.main]]
+        url = "/about/"
+        name = "关于"
+        weight = 3
+        pre = "internal"
+        post = "user-circle"
+        identifier = "about"
 
 
 
@@ -249,7 +270,7 @@ uglyURLs = false
     # 在窄视图下隐藏菜单栏并显示一个按钮？
     enableNavToggle = true
 
-    navHeight = "10em"
+    navHeight = "9em"
     # 说明：菜单栏展开时的高度
 
 
@@ -274,11 +295,11 @@ uglyURLs = false
     # 菜单栏
 
     # 是否开启
-    enableMenu = true
+    enableMenu = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否在首页显示
-    displayMenuInHome = true
+    displayMenuInHome = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否按文章分区高亮当前菜单项
@@ -297,11 +318,21 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["我在黑暗中倾听你的歌声",
+    "我多次想到死亡，他可以给人安宁",
+    "我在诗歌里亲昵地向他呼唤",
+    "求他把我的生命化为青烟",
+    "现在我越发感到死亡的富丽",
+    "想在午夜安然地与世别离",
+    "但此刻你却以如此的狂喜",
+    "倾吐着你的胸臆",
+    "你将永远歌唱不息",
+    "我死了就不会再听见你--",
+    "你将唱给一堆草泥"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -356,7 +387,7 @@ uglyURLs = false
     # 的树状分类，故如需保留树状分类，建议适应
     # Hugo 的设计理念——分区。
 
-    categoryBy = "categories"
+    categoryBy = "sections"
     # 注意：如果你设置为 `sections`，请务必将
     #      此配置文件中的类别（taxonomies）中
     #      的 `categories` 删除，不然分类页
@@ -408,7 +439,7 @@ uglyURLs = false
     displayListTitle = true
 
     # 日期的格式
-    listDateFormat = "1 月 2 日"
+    listDateFormat = "2006-01-02"
     # 注意：请遵循格式 https://gohugo.io/functions/format/
 
     # 日期的位置
@@ -416,15 +447,15 @@ uglyURLs = false
     # 说明：left（左边）或 right（右边）
 
     # 是否按月份分隔列表
-    groupByMonth = true
+    groupByMonth = false
 
     # 是否开启十二生肖
     chineseZodiac = true
 
     # 是否翻译年份（仅对年份标题有效）
-    i18nYear = true
+    i18nYear = false
     # 是否翻译月份（仅对月份标题有效）
-    i18nMonth = true
+    i18nMonth = false
 
 
     ######################################
@@ -449,7 +480,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["posts"]
+    # mainSections = ["life", "read"]
 
 
     ######################################
@@ -492,7 +523,7 @@ uglyURLs = false
     #      者依然可能以浅色模式模式阅读你的博客。
     #      除非，你开启下方这个选项。
 
-    overrideSystemPreferences = true
+    overrideSystemPreferences = false
 
 
     ######################################
@@ -1204,7 +1235,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = true
+    enableSocials = false
     # 说明：见 data/Socials.toml
 
 
