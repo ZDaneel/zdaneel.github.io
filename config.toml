@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://zdaneel.icu/"
+baseURL = "https://zdaneel.github.io/"
 title = "leenadz"
 languageCode = "zh-CN"
 hasCJKLanguage = true
