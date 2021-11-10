@@ -6,7 +6,7 @@ title = "leenadz"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = "在保留本文作者及本文链接的前提下，非商业用途随意转载分享。"
 
 # 主题选择
 theme = "meme"
@@ -153,7 +153,7 @@ uglyURLs = false
 
 # RSS & Atom 文章数限制
 [services.rss]
-    limit = -1
+    limit = 10
 
 
 
@@ -226,12 +226,12 @@ uglyURLs = false
         name = "生活"
         weight = 1
         pre = "internal"
-        post = "th"
+        post = "grav"
         identifier = "life"
     [[menu.main]]
         url = "/read/"
         name = "阅读"
-        weight =2
+        weight = 2
         pre = "internal"
         post = "wpexplorer"
         identifier = "read"
@@ -256,7 +256,7 @@ uglyURLs = false
     enableHeader = true
 
     # 是否在首页显示
-    displayHeaderInHome = true
+    displayHeaderInHome = false
     # 说明：对弹性布局的顶栏无效
 
     # 背景
@@ -322,17 +322,13 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["我在黑暗中倾听你的歌声",
-    "我多次想到死亡，他可以给人安宁",
-    "我在诗歌里亲昵地向他呼唤",
-    "求他把我的生命化为青烟",
-    "现在我越发感到死亡的富丽",
-    "想在午夜安然地与世别离",
-    "但此刻你却以如此的狂喜",
-    "倾吐着你的胸臆",
-    "你将永远歌唱不息",
-    "我死了就不会再听见你--",
-    "你将唱给一堆草泥"]
+    homePoetry = ["我们生命中的每位过客都是独一无二的",
+    "他们会留下自己的一些印记",
+    "也会带走我们的部分气息",
+    "有人会带走很多",
+    "也有人什么也不留下",
+    "这恰好证明",
+    "两个灵魂不会偶然相遇"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -725,7 +721,7 @@ uglyURLs = false
     # 文章元信息
 
     # 是否开启（全局设置）
-    enablePostMeta = true
+    enablePostMeta = false
     # 说明：文章的 Front Matter 中的 `meta`
     #      的优先级高于此处
 
@@ -823,7 +819,7 @@ uglyURLs = false
     #      默认值：§
 
     # 锚点图标
-    anchorIcon = "link"
+    anchorIcon = ""
     # 说明：留空（""）则回退到锚点符号
 
     # 是否开启锚点链接
@@ -928,7 +924,7 @@ uglyURLs = false
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
-    fontFamilyFooter = ""
+    fontFamilyFooter = "'Source Code Pro', 'Noto Serif SC', monospace"
     # 主体
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 
@@ -977,7 +973,7 @@ uglyURLs = false
     ## 两端对齐
 
     # 是否开启（全局设置）
-    enableJustify = false
+    enableJustify = true
     # 说明：文章的 Front Matter 中的 `align`
     #      的优先级高于此处
 
@@ -1043,7 +1039,7 @@ uglyURLs = false
     enablePostUpdatedBadge = true
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # 说明：文章的 Front Matter 中的 `badge`
     #      的优先级高于此处
 
@@ -1158,7 +1154,7 @@ uglyURLs = false
     #      的是一篇更旧的文章。
 
     # 是否开启
-    enablePostNav = false
+    enablePostNav = true
 
     # 是否仅限于相同的文章分区
     postNavInSection = true
@@ -1168,7 +1164,7 @@ uglyURLs = false
     # 极简页脚
 
     # 是否开启
-    enableMinimalFooter = true
+    enableMinimalFooter = false
     enableVerticalBarStructure = true
     # 说明：如果开启此项，显示在右边的部类或分区
     #      将会包含全部的第一级部类或分区，并且
@@ -1200,6 +1196,9 @@ uglyURLs = false
     # 是否开启
     enableFooter = true
 
+    # 是否显示
+    displayFooter = false
+
     # 是否在首页显示
     displayFooterInHome = true
 
@@ -1220,7 +1219,7 @@ uglyURLs = false
     displayPoweredBy = true
 
     # 是否显示站点的版权信息
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
     customFooter = ""
