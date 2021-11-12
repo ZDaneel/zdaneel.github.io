@@ -222,23 +222,37 @@ uglyURLs = false
     #     identifier = "search"
     #     post = "search"
     [[menu.main]]
+        url = "/posts/"
+        name = "文章"
+        weight = 1
+        pre = "internal"
+        post = "archive"
+
+    [[menu.main]]
+        url = "/tech/"
+        name = "技术"
+        weight = 2
+        pre = "internal"
+        post = "archive"
+
+    [[menu.main]]
         url = "/life/"
         name = "生活"
-        weight = 1
+        weight = 3
         pre = "internal"
         post = "grav"
         identifier = "life"
     [[menu.main]]
         url = "/read/"
         name = "阅读"
-        weight = 2
+        weight = 4
         pre = "internal"
         post = "wpexplorer"
         identifier = "read"
     [[menu.main]]
         url = "/about/"
         name = "关于"
-        weight = 3
+        weight = 5
         pre = "internal"
         post = "user-circle"
         identifier = "about"
@@ -476,7 +490,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    # mainSections = ["life", "read"]
+    # mainSections = ["posts", "tech", "life", "read"]
 
 
     ######################################
