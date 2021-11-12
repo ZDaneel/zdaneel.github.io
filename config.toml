@@ -227,13 +227,15 @@ uglyURLs = false
         weight = 1
         pre = "internal"
         post = "archive"
+        identifier = "posts"
 
     [[menu.main]]
         url = "/tech/"
         name = "技术"
         weight = 2
         pre = "internal"
-        post = "archive"
+        post = "wpexplorer"
+        identifier = "tech"
 
     [[menu.main]]
         url = "/life/"
