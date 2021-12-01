@@ -34,37 +34,26 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 
 ## 一、入门
 
-- ### [女性主义有什么用](notes/女性主义有什么用.md)
-
-- ### 从零开始的女性主义
-
-- ### [我是男生，也是女性主义者](notes/我是男生，也是女性主义者.md)
-
-- ### 女孩别怕
-
-- ### 黑箱
-
-- ### 异见时刻
-
-- ### 天空的另一半
-
-- ### 基层女性
+- [女性主义有什么用](https://github.com/ZDaneel/Feminism/blob/main/notes/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8.md)
+- 从零开始的女性主义
+- [我是男生，也是女性主义者](https://github.com/ZDaneel/Feminism/blob/main/notes/%E6%88%91%E6%98%AF%E7%94%B7%E7%94%9F%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89%E8%80%85.md)
+- 女孩别怕
+- 黑箱
+- 异见时刻
+- 天空的另一半
+- 基层女性
 
 ## 二、小说
 
-- ### 82年生的金智英
-
-- ### 桶川跟踪狂杀人事件
-
-- ### 房思琪的初恋乐园
-
-- ### 你当像鸟飞往你的山
+- 82年生的金智英
+- 桶川跟踪狂杀人事件
+- 房思琪的初恋乐园
+- 你当像鸟飞往你的山
 
 ## 三、学术
 
-- ### 厌女
-
-- ### 女性主义
+- 厌女
+- 女性主义
 
 ## 在读或以后会读的一些书：
 
@@ -78,21 +67,22 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 
 # 文章
 
-- ### [关于“如果身边有朋友拟计划流产”](https://telegra.ph/%E5%85%B3%E4%BA%8E%E5%A6%82%E6%9E%9C%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%9C%8B%E5%8F%8B%E6%8B%9F%E8%AE%A1%E5%88%92%E6%B5%81%E4%BA%A7-10-02)
-
-- ### [对女性的蔑称](datas/对女性的蔑称.md)
+- [关于“如果身边有朋友拟计划流产”](https://telegra.ph/%E5%85%B3%E4%BA%8E%E5%A6%82%E6%9E%9C%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%9C%8B%E5%8F%8B%E6%8B%9F%E8%AE%A1%E5%88%92%E6%B5%81%E4%BA%A7-10-02)
+- [对女性的蔑称](https://github.com/ZDaneel/Feminism/blob/main/datas/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0.md)
 
 # 资料
 
-- ### [性与性别少数群体反家暴手册](datas/《性与性别少数群体反家暴手册》.pdf)
+- [性与性别少数群体反家暴手册](https://github.com/ZDaneel/Feminism/blob/main/datas/%E3%80%8A%E6%80%A7%E4%B8%8E%E6%80%A7%E5%88%AB%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%89%8B%E5%86%8C%E3%80%8B.pdf)
+- [反性骚扰手册](https://github.com/ZDaneel/Feminism/blob/main/datas/%E5%8F%8D%E6%80%A7%E9%AA%9A%E6%89%B0%E6%89%8B%E5%86%8C.pdf)
+- [如何友好地报道性别暴力案件媒体实务指南](https://github.com/ZDaneel/Feminism/blob/main/datas/%E5%A6%82%E4%BD%95%E5%8F%8B%E5%A5%BD%E5%9C%B0%E6%8A%A5%E9%81%93%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B6%E5%AA%92%E4%BD%93%E5%AE%9E%E5%8A%A1%E6%8C%87%E5%8D%97.pdf)
+- [性侵害幸存者自助手册2.0](https://github.com/ZDaneel/Feminism/blob/main/datas/%E6%80%A7%E4%BE%B5%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%E8%87%AA%E5%8A%A9%E6%89%8B%E5%86%8C2.0.pdf)
+- [中国米兔志](https://github.com/ZDaneel/Feminism/blob/main/datas/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%94%E5%BF%97%E3%80%8B.pdf)
 
-- ### [反性骚扰手册](datas/反性骚扰手册.pdf)
+下载方式：
 
-- ### [如何友好地报道性别暴力案件媒体实务指南](datas/如何友好地报道性别暴力案件媒体实务指南.pdf)
+需要用梯子打开，如图所示进行下载
 
-- ### [性侵害幸存者自助手册2.0](datas/性侵害幸存者自助手册2.0.pdf)
-
-- ### [中国米兔志](datas/《中国米兔志》.pdf)
+![femi-how-download](../../static/images/femi-how-download.png)
 
 # 相关推荐
 
@@ -107,6 +97,8 @@ MT和小姨共同录制的一档播客，4-50期之后主题集中在女性主�
 - ### [海马星球](https://anchor.fm/seahorseplanet)
 
 “发掘女性力量，构建母系社会”
+
+2021年12月1日晚被小宇宙平台封禁
 
 - ### [卡列班与女巫](https://shows.acast.com/calibanandthewitches/episodes)
 
