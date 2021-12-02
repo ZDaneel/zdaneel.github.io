@@ -82,7 +82,7 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 
 需要用梯子打开，如图所示进行下载
 
-![femi-how-download](../../static/images/femi-how-download.png)
+![femi-how-download](../../static/images/femi-how-download.png) 
 
 # 相关推荐
 
