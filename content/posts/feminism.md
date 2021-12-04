@@ -78,11 +78,7 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 - [性侵害幸存者自助手册2.0](https://github.com/ZDaneel/Feminism/blob/main/datas/%E6%80%A7%E4%BE%B5%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%E8%87%AA%E5%8A%A9%E6%89%8B%E5%86%8C2.0.pdf)
 - [中国米兔志](https://github.com/ZDaneel/Feminism/blob/main/datas/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%94%E5%BF%97%E3%80%8B.pdf)
 
-下载方式：
-
-需要用梯子打开，如图所示进行下载
-
-![how-to-download](https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/images/femi-how-download.png)
+![femi-how-download](https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112041451333.png)
 
 # 相关推荐
 
