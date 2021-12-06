@@ -235,4 +235,8 @@ blockquote.quote {
     }
 }
 
-
+.post-body a {
+    text-decoration: underline;
+    text-decoration-color: var(--color-contrast-low);
+    color: #58a6ff;
+}
