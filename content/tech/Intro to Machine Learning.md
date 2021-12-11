@@ -1,9 +1,8 @@
 ---
 title: "Intro to Machine Learning"
-date: 2021-12-11T15:50:36+08:00
+date: 2021-12-10T11:27:21+08:00
 draft: false
 ---
-
 # 
 # Intro to Machine Learning
 
