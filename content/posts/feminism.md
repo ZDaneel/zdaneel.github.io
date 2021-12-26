@@ -1,10 +1,12 @@
 ---
-title: "女性主义学习"
+title: "Feminism Learning"
 date: 2021-12-01T21:21:53+08:00
 draft: false
 ---
 
-# 女性主义学习 Feminism Learning
+# Feminism Learning
+
+## 女性主义学习
 
 **记录个人的女性主义学习**
 
