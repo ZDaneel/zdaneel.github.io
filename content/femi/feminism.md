@@ -88,15 +88,15 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 
 ## 随笔
 
-- [对“女士优先”的思考](对女士优先的思考.md)
-- [独生之国-反思计划生育](独生之国-反思计划生育.md)
+- [对“女士优先”的思考](https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E7%9A%84%E6%80%9D%E8%80%83/)
+- [独生之国-反思计划生育](https://zdaneel.github.io/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/)
 
 ## 分享
 
 ### 内链
 
-- [对女性的蔑称](对女性的蔑称.md)
-- [你男朋友](你男朋友.md)
+- [对女性的蔑称](https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/)
+- [你男朋友](https://zdaneel.github.io/femi/%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B/)
 
 ### 外链
 
@@ -114,7 +114,6 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 - [反性骚扰手册](https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E5%8F%8D%E6%80%A7%E9%AA%9A%E6%89%B0%E6%89%8B%E5%86%8C.pdf)
 - [如何友好地报道性别暴力案件媒体实务指南](https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E5%A6%82%E4%BD%95%E5%8F%8B%E5%A5%BD%E5%9C%B0%E6%8A%A5%E9%81%93%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B6%E5%AA%92%E4%BD%93%E5%AE%9E%E5%8A%A1%E6%8C%87%E5%8D%97.pdf)
 - [性侵害幸存者自助手册2.0](https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E6%80%A7%E4%BE%B5%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%E8%87%AA%E5%8A%A9%E6%89%8B%E5%86%8C2.0.pdf)
-- [中国米兔志](https://github.com/ZDaneel/Feminism/blob/main/datas/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%94%E5%BF%97%E3%80%8B.pdf)
 
 # 相关推荐
 
