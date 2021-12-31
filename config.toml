@@ -256,7 +256,7 @@ uglyURLs = false
     [[menu.main]]
         url = "/about/"
         name = "关于"
-        weight = 3
+        weight = 4
         pre = "internal"
         post = "user-circle"
         identifier = "about"
