@@ -1350,3 +1350,6 @@ uglyURLs = false
     fofVideoWebm = ""
     fofVideoMp4 = ""
     # 说明：视频地址可留空（""）
+
+    #支持字数统计和阅读时间
+    # page_view_conter=true

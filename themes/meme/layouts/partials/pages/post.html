@@ -11,7 +11,21 @@
         {{- if $attrs.indent }} data-indent="true"{{ end }}
         {{- if $attrs.tocNum }} data-toc-num="true"{{ end }}>
 
-            <h1 class="post-title">{{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}</h1>
+            <h1 class="post-title">
+                {{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}
+                <h5 id="h5" style="font-size: 1rem;text-align: center;">
+                    共
+                    {{ .FuzzyWordCount }} 
+                    字 <br>
+                    阅读约 
+                    {{ .ReadingTime }} 
+                    分钟 <br>
+                    本文总阅读量
+                    <span id="busuanzi_value_page_pv">
+                
+                    </span>次
+                </h5>
+            </h1>
 
             {{ with .Params.subtitle }}
                 {{- $raw := . -}}
@@ -63,6 +77,5 @@
         {{ partial "components/post-nav.html" . }}
 
         {{ partial "components/comments.html" . }}
-
     </div>
 </main>
