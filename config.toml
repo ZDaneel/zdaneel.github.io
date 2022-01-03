@@ -595,7 +595,7 @@ uglyURLs = false
     # KaTeX 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableKaTeX = true
+    enableKaTeX = false
     # 说明：文章的 Front Matter 中的 `katex`
     #      的优先级高于此处
 
@@ -616,7 +616,7 @@ uglyURLs = false
     # Mermaid (https://github.com/mermaid-js/mermaid)
 
     # 是否开启（全局设置）
-    enableMermaid = tru
+    enableMermaid = false
     # 说明：文章的 Front Matter 中的 `mermaid`
     #      的优先级高于此处
 
