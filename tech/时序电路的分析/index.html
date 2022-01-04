@@ -29,7 +29,7 @@
 <meta name=msapplication-TileImage content="../../icons/mstile-150x150.png">
 <link rel=manifest href=/manifest.json>
 <link rel=canonical href=https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"WebPage","datePublished":"2022-01-03T15:50:36+08:00","dateModified":"2022-01-03T16:50:51+00:00","url":"https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/","name":"同步时序电路分析","description":"本文尝试讲解同步时序电路分析题（我们的课程考试很有可能是最后一道大题） 因为是面向做题……\n    \n    ","image":"https://zdaneel.github.io/icons/apple-touch-icon.png","license":"在保留本文作者及本文链接的前提下，非商业用途随意转载分享。","publisher":{"@type":"Organization","name":"leenadz","logo":{"@type":"ImageObject","url":"https://zdaneel.github.io/icons/apple-touch-icon.png"},"url":"https://zdaneel.github.io/"},"mainEntityOfPage":{"@type":"WebSite","@id":"https://zdaneel.github.io/"}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"WebPage","datePublished":"2022-01-03T15:50:36+08:00","dateModified":"2022-01-04T02:16:54+00:00","url":"https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/","name":"同步时序电路分析","description":"本文尝试讲解同步时序电路分析题（我们的课程考试很有可能是最后一道大题） 因为是面向做题……\n    \n    ","image":"https://zdaneel.github.io/icons/apple-touch-icon.png","license":"在保留本文作者及本文链接的前提下，非商业用途随意转载分享。","publisher":{"@type":"Organization","name":"leenadz","logo":{"@type":"ImageObject","url":"https://zdaneel.github.io/icons/apple-touch-icon.png"},"url":"https://zdaneel.github.io/"},"mainEntityOfPage":{"@type":"WebSite","@id":"https://zdaneel.github.io/"}}</script>
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@ZDaneelZ">
 <meta name=twitter:creator content="@ZDaneelZ">
@@ -153,14 +153,15 @@ $$
 <p>最后，来看一下较为复杂的$FF_{3}$ 的$J_{3}$和$K_{3}$：</p>
 <img src=https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202201031857765.png style=zoom:50%>
 <center>图5 FF3的驱动方程确定</center>
-<p>其中的$K_{3}$可以很容易看出是等于$Q_{3}$的，而$J_{3}$则是由$Q_{1}$和$Q_{2}$经过一个与门得到，所以得出式子：
+<p>其中的$K_{3}$可以很容易看出是等于$Q_{3}$的，而$J_{3}$则是由$Q_{1}$和$Q_{2}$经过一个与门得到，所以得出式子：</p>
+<div>
 $$
-\begin{align*}
+\begin{aligned}
 & J_{3}=Q_{1}Q_{2} \\
-& K_{3}=Q_{3}
-\end{align*}
+  & K_{3}=Q_{3}\end{aligned}
 $$
-这就是$J_{3}$和$K_{3}$的驱动方程</p>
+</div>
+<p>这就是$J_{3}$和$K_{3}$的驱动方程</p>
 <h3 id=3状态方程><a href=#3状态方程 class=anchor-link>#</a>3、状态方程</h3>
 <p>ok，到现在我们得到了每个触发器对应的驱动方程，我们还知道JK触发器的特性方程，接下去一步就是把驱动方程代入特性方程中，具体如下：</p>
 <h4 id=31-ff_1触发器><a href=#31-ff_1触发器 class=anchor-link>#</a>3.1 $FF_{1}$触发器</h4>
@@ -194,16 +195,18 @@ Y=Q_{3}
 $$</p>
 <h2 id=三方程都写出来了但到底有啥用><a href=#三方程都写出来了但到底有啥用 class=anchor-link>#</a>三、方程都写出来了，但到底有啥用？</h2>
 <h3 id=1状态表><a href=#1状态表 class=anchor-link>#</a>1、状态表</h3>
-<p>我们已经得到了以下的三个状态方程和一个输出方程，接下去就是列出状态表
+<p>我们已经得到了以下的三个状态方程和一个输出方程，接下去就是列出状态表</p>
+<div>
 $$
-\begin{align*}
-& Q_{1}^{<em>}=Q_{3}\odot Q_{1} \\
-& Q_{2}^{</em>}=Q_{2}\oplus Q_{1} \\
-& Q_{3}^{<em>}=\bar{Q_{3}}Q_{2}Q_{1} \\
+\begin{aligned}
+& Q_{1}^{*}=Q_{3}\odot Q_{1} \\
+& Q_{2}^{*}=Q_{2}\oplus Q_{1} \\
+& Q_{3}^{*}=\bar{Q_{3}}Q_{2}Q_{1} \\
 & Y=Q_{3}
-\end{align</em>}
+\end{aligned}
 $$
-首先画出状态表的初始情况：</p>
+</div>
+<p>首先画出状态表的初始情况：</p>
 <div class=table-container><table>
 <thead>
 <tr>
@@ -391,7 +394,7 @@ $$
 <p>首先要确定每个状态对应的状态变量，即如下图所示（<strong>注意下标！</strong>）</p>
 <img src=https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202201032018844.png alt="截屏2022-01-03 下午8.18.02" style=zoom:50%>
 <center>图7 状态变量</center>
-<p>如表3所示，$Q_{3}$$Q_{1}$对应的是状态表的左半部分，从000开始，箭头指向右半部分，即001，画出的图如图8所示</p>
+<p>如表3所示，$Q_{3}Q_{2}Q_{1}$对应的是状态表的左半部分，从000开始，箭头指向右半部分，即001，画出的图如图8所示</p>
 <div class=table-container><table>
 <thead>
 <tr>
@@ -490,7 +493,7 @@ $$
 </tbody>
 </table></div>
 <center>表5 剩下的状态表</center>
-<p>右半部分$Q_{3}^{<em>}$$Q_{2}^{</em>}$$Q_{1}^{*}$对应的值就是图10里已经画好的值，即101指向011、110指向010、111指向001，如图11所示，得到最终的状态图</p>
+<p>右半部分$Q_{3}^{<em>}Q_{2}^{</em>}Q_{1}^{*}$对应的值就是图10里已经画好的值，即101指向011、110指向010、111指向001，如图11所示，得到最终的状态图</p>
 <img src=https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202201032042885.png alt="截屏2022-01-03 下午8.42.12" style=zoom:50%>
 <center>图11 状态图</center>
 <h2 id=四收尾><a href=#四收尾 class=anchor-link>#</a>四、收尾</h2>
@@ -578,7 +581,8 @@ $$</p>
 </div>
 <script src=https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js></script>
 <script>var scroll=new SmoothScroll('a[href*="#"]',{speedAsDuration:!0,header:'[data-scroll-header]'})</script>
-<script>typeof MathJax=='undefined'?(window.MathJax={loader:{load:['[tex]/mhchem']},tex:{inlineMath:{'[+]':[['$','$']]},tags:'ams',packages:{'[+]':['mhchem']}}},function(){var a=document.createElement('script');a.src='https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js',a.defer=!0,document.head.appendChild(a)}()):(MathJax.texReset(),MathJax.typeset())</script>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.css integrity=sha384-BdGj8xC2eZkQaxoQ8nSLefg4AV4/AwB3Fj+8SUSo7pnKP6Eoy18liIKTPn9oBYNG crossorigin=anonymous>
+<script>if(typeof renderMathInElement=='undefined'){var getScript=b=>{var a=document.createElement('script');a.defer=!0,a.crossOrigin='anonymous',Object.keys(b).forEach(c=>{a[c]=b[c]}),document.body.appendChild(a)};getScript({src:'https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.js',integrity:'sha384-JiKN5O8x9Hhs/UE5cT5AAJqieYlOZbGT3CHws/y97o3ty4R7/O5poG9F3JoiOYw1',onload:()=>{getScript({src:'https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/contrib/mhchem.min.js',integrity:'sha384-oa0lfxCGjaU1LdYckhq8LZcP+JTf8cyJXe69O6VE6UrShzWveT6KiCElJrck/stm',onload:()=>{getScript({src:'https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/contrib/auto-render.min.js',integrity:'sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI',onload:()=>{renderKaTex()}})}})}})}else renderKaTex();function renderKaTex(){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"\\[",right:"\\]",display:!0},{left:"$",right:"$",display:!1},{left:"\\(",right:"\\)",display:!1}]})}</script>
 <script src=https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js></script>
 <script>mediumZoom(document.querySelectorAll('div.post-body img'),{background:'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'})</script>
 <script src=https://cdn.jsdelivr.net/npm/instant.page@3.0.0/instantpage.min.js type=module defer></script>
