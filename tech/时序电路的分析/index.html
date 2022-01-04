@@ -29,7 +29,7 @@
 <meta name=msapplication-TileImage content="../../icons/mstile-150x150.png">
 <link rel=manifest href=/manifest.json>
 <link rel=canonical href=https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"WebPage","datePublished":"2022-01-03T15:50:36+08:00","dateModified":"2022-01-04T03:19:08+00:00","url":"https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/","name":"同步时序电路分析","description":"本文尝试讲解同步时序电路分析题（我的课程考试很有可能是最后一道大题） 因为是面向做题面……\n    \n    ","image":"https://zdaneel.github.io/icons/apple-touch-icon.png","license":"在保留本文作者及本文链接的前提下，非商业用途随意转载分享。","publisher":{"@type":"Organization","name":"leenadz","logo":{"@type":"ImageObject","url":"https://zdaneel.github.io/icons/apple-touch-icon.png"},"url":"https://zdaneel.github.io/"},"mainEntityOfPage":{"@type":"WebSite","@id":"https://zdaneel.github.io/"}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"WebPage","datePublished":"2022-01-03T15:50:36+08:00","dateModified":"2022-01-04T03:23:28+00:00","url":"https://zdaneel.github.io/tech/%E6%97%B6%E5%BA%8F%E7%94%B5%E8%B7%AF%E7%9A%84%E5%88%86%E6%9E%90/","name":"同步时序电路分析","description":"本文尝试讲解同步时序电路分析题（我的课程考试很有可能是最后一道大题） 因为是面向做题面……\n    \n    ","image":"https://zdaneel.github.io/icons/apple-touch-icon.png","license":"在保留本文作者及本文链接的前提下，非商业用途随意转载分享。","publisher":{"@type":"Organization","name":"leenadz","logo":{"@type":"ImageObject","url":"https://zdaneel.github.io/icons/apple-touch-icon.png"},"url":"https://zdaneel.github.io/"},"mainEntityOfPage":{"@type":"WebSite","@id":"https://zdaneel.github.io/"}}</script>
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@ZDaneelZ">
 <meta name=twitter:creator content="@ZDaneelZ">
@@ -78,7 +78,7 @@
 同步时序电路分析
 <h5 id=h5 style=font-size:1rem;text-align:center>
 共
-3200
+3300
 字 <br>
 阅读约
 7
@@ -391,10 +391,10 @@ $$
 </ul>
 <h3 id=2状态图><a href=#2状态图 class=anchor-link>#</a>2、状态图</h3>
 <p>得到了真值表就可以画出对应的状态图</p>
-<p>首先要确定每个状态对应的状态变量，如下图所示（<strong>注意下标！</strong>）</p>
+<p>首先要确定每个状态对应的状态变量，如下图所示（<strong>注意下标！</strong>）因为只用到了$Q_{3}Q_{2}Q_{1}$，暂时忽略$Y$</p>
 <img src=https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202201032018844.png alt="截屏2022-01-03 下午8.18.02" style=zoom:50%>
 <center>图7 状态变量</center>
-<p>如表3所示，$Q_{3}Q_{2}Q_{1}$对应的是状态表的左半部分，从000开始，箭头指向右半部分，即001，画出的图如图8所示</p>
+<p>如表3所示，$Q_{3}Q_{2}Q_{1}$对应的是状态表的左半部分，从000开始，箭头指向右半部分，即001，对应的是$Q_{3}^{<em>}$、 $Q_{2}^{</em>}$、$ Q_{1}^{*}$，画出的图如图8所示</p>
 <div class=table-container><table>
 <thead>
 <tr>
@@ -459,7 +459,6 @@ $$
 <th style=text-align:center>$Q_{3}^{*}$</th>
 <th style=text-align:center>$Q_{2}^{*}$</th>
 <th style=text-align:center>$Q_{1}^{*}$</th>
-<th style=text-align:center>$Y$</th>
 </tr>
 </thead>
 <tbody>
@@ -470,7 +469,6 @@ $$
 <td style=text-align:center>0</td>
 <td style=text-align:center>1</td>
 <td style=text-align:center>1</td>
-<td style=text-align:center>1</td>
 </tr>
 <tr>
 <td style=text-align:center>1</td>
@@ -479,7 +477,6 @@ $$
 <td style=text-align:center>0</td>
 <td style=text-align:center>1</td>
 <td style=text-align:center>0</td>
-<td style=text-align:center>1</td>
 </tr>
 <tr>
 <td style=text-align:center>1</td>
@@ -487,13 +484,12 @@ $$
 <td style=text-align:center>1</td>
 <td style=text-align:center>0</td>
 <td style=text-align:center>0</td>
-<td style=text-align:center>1</td>
 <td style=text-align:center>1</td>
 </tr>
 </tbody>
 </table></div>
 <center>表5 剩下的状态表</center>
-<p>右半部分$Q_{3}^{<em>} Q_{2}^{</em>} Q_{1}^{*}$对应的值就是图10里已经画好的值。依然是左半部分指向右半部分，即101指向011、110指向010、111指向001，如图11所示，得到最终的状态图</p>
+<p>右半部分$Q_{3}^{<em>}$、 $Q_{2}^{</em>}$、$ Q_{1}^{*}$对应的值就是图10里已经画好的值。依然是左半部分指向右半部分，即101指向011、110指向010、111指向001，如图11所示，得到最终的状态图</p>
 <img src=https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202201032042885.png alt="截屏2022-01-03 下午8.42.12" style=zoom:50%>
 <center>图11 状态图</center>
 <h2 id=四收尾><a href=#四收尾 class=anchor-link>#</a>四、收尾</h2>
