@@ -101,10 +101,10 @@ x.head()
 
 建立和使用的步骤是：
 
-- **Define（定义）：**什么类型的模型 同时也指定参数
-- **Fit（拟合）：**从提供的数据获得模式（pattern），模型的核心
-- **Predict（预测）：**预测值
-- **Evaluate（评估）：**评估预测的准确率
+- **Define（定义）：** 什么类型的模型 同时也指定参数
+- **Fit（拟合）：** 从提供的数据获得模式（pattern），模型的核心
+- **Predict（预测）：** 预测值
+- **Evaluate（评估）：** 评估预测的准确率
 
 ```python
 from sklearn.tree import DecisionTreeRegressor
