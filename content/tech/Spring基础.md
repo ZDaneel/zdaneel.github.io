@@ -1,3 +1,8 @@
+---
+title: "Spring基础（暂缺aop）"
+date: 2022-05-03T15:50:36+08:00
+draft: false
+---
 ## 一、概述
 
 spring是一个轻量级的控制反转（IoC）和面向切面（AOP）的框架
@@ -440,6 +445,8 @@ public void test() {
 
 ## 八、AOP
 
+暂略
+
 ### 1. 静态代理
 
 ### 2. 动态代理
@@ -549,27 +556,3 @@ public class UserMapperImpl2 extends SqlSessionDaoSupport implements UserMapper 
 ```
 
 此时不需要再用构造器注入sqlSession（原本是为了和实现类的sqlSession相对应）
-
-## 十、声明式事务
-
-### 1. 事务
-
-- 一组业务当成一个业务来做；要么都成功，要么都失败
-- 十分重要，涉及到数据的一致性问题
-- 确保完整性和一致性
-
-
-
-ACID原则：
-
-- A：原子性
-- C：一致性
-- I：隔离性
-  - 多个业务操作同一资源，防止数据损坏
-
-- D：持久性
-  - 事务一旦提交，无论系统发生什么问题，结构都不会再被影响
-
-
-
-### 2. 
