@@ -1,7 +1,8 @@
 ---
-title: "Spring基础（暂缺aop）"
+title: "Spring笔记-狂神版"
 date: 2022-05-03T15:50:36+08:00
 draft: false
+toc: true
 ---
 ## 一、概述
 
@@ -445,7 +446,7 @@ public void test() {
 
 ## 八、AOP
 
-暂略
+详细见后面的黑马版
 
 ### 1. 静态代理
 
