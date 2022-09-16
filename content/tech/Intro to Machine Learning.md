@@ -3,7 +3,6 @@ title: "Intro to Machine Learning"
 date: 2021-12-10T11:27:21+08:00
 draft: false
 ---
-# 
 # Intro to Machine Learning
 
 kaggle上的[入门教程](https://www.kaggle.com/learn/intro-to-machine-learning)，从代码出发介绍了最基础的机器学习知识
