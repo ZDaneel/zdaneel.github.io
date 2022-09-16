@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">leenadz</title><subtitle type="html">个人博客 摘抄记录奇思妙想</subtitle><updated>2022-08-06T04:06:38+00:00</updated><id>https://zdaneel.github.io/</id><link rel="alternate" type="text/html" href="https://zdaneel.github.io/"/><link rel="self" type="application/atom+xml" href="https://zdaneel.github.io/atom.xml"/><author><name>zdaneel</name><uri>https://zdaneel.github.io/</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><entry><title type="text">[VUE]1-初识</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/1-%E5%88%9D%E8%AF%86/"/><id>https://zdaneel.github.io/tech/1-%E5%88%9D%E8%AF%86/</id><updated>2022-08-06T04:06:37+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">安装 1、CDN引入，适合交付用户 2、下载引入 3、NPM引入 通过webpack和cli……</summary><content type="html">&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202202191348884.png" alt="image-20220219134803557">&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">leenadz</title><subtitle type="html">个人博客 摘抄记录奇思妙想</subtitle><updated>2022-09-16T13:20:14+00:00</updated><id>https://zdaneel.github.io/</id><link rel="alternate" type="text/html" href="https://zdaneel.github.io/"/><link rel="self" type="application/atom+xml" href="https://zdaneel.github.io/atom.xml"/><author><name>zdaneel</name><uri>https://zdaneel.github.io/</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><generator uri="https://gohugo.io/" version="0.103.0">Hugo</generator><entry><title type="text">[VUE]1-初识</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/1-%E5%88%9D%E8%AF%86/"/><id>https://zdaneel.github.io/tech/1-%E5%88%9D%E8%AF%86/</id><updated>2022-09-16T13:20:12+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">安装 1、CDN引入，适合交付用户 2、下载引入 3、NPM引入 通过webpack和cli……</summary><content type="html">&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202202191348884.png" alt="image-20220219134803557">&lt;/p>
 &lt;h2 id="安装">安装&lt;/h2>
 &lt;p>1、CDN引入，适合交付用户&lt;/p>
 &lt;p>2、下载引入&lt;/p>
@@ -185,7 +185,7 @@
 &lt;h2 id="七template">七、template&lt;/h2>
 &lt;p>代码规范：缩进&lt;/p>
 &lt;p>后端一般缩进4个空格，前端一般缩进2个空格&lt;/p>
-&lt;p>使用模版（Preferences-&amp;gt;Editor-&amp;gt;Live Template）将代码复制进去，设置名称和使用模版的位置，之后只需要输入名称，再加一个tab键就可以生成复制的代码&lt;/p></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]2-基础语法</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/2-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/><id>https://zdaneel.github.io/tech/2-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id><updated>2022-08-06T04:06:37+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、插值操作 1、mustache语法 即双大括号语法{{}} 可以展示data、meth……</summary><content type="html">&lt;h2 id="一插值操作">一、插值操作&lt;/h2>
+&lt;p>使用模版（Preferences-&amp;gt;Editor-&amp;gt;Live Template）将代码复制进去，设置名称和使用模版的位置，之后只需要输入名称，再加一个tab键就可以生成复制的代码&lt;/p></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]2-基础语法</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/2-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/><id>https://zdaneel.github.io/tech/2-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id><updated>2022-09-16T13:20:12+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、插值操作 1、mustache语法 即双大括号语法{{}} 可以展示data、meth……</summary><content type="html">&lt;h2 id="一插值操作">一、插值操作&lt;/h2>
 &lt;h3 id="1mustache语法">1、mustache语法&lt;/h3>
 &lt;p>即双大括号语法{{}}&lt;/p>
 &lt;p>可以展示data、methods（要加括号）、computed（不用加括号）&lt;/p>
@@ -1330,7 +1330,7 @@
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">h2&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>{{name}}&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">h2&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]3-组件化开发</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/3-%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/"/><id>https://zdaneel.github.io/tech/3-%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/</id><updated>2022-08-06T04:06:37+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、什么是组件化？ 把大的问题进行拆解，一点一点去解决 组件化就是类似的思想，将一个页面……</summary><content type="html">&lt;h2 id="一什么是组件化">一、什么是组件化？&lt;/h2>
+&lt;/div></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]3-组件化开发</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/3-%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/"/><id>https://zdaneel.github.io/tech/3-%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/</id><updated>2022-09-16T13:20:12+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、什么是组件化？ 把大的问题进行拆解，一点一点去解决 组件化就是类似的思想，将一个页面……</summary><content type="html">&lt;h2 id="一什么是组件化">一、什么是组件化？&lt;/h2>
 &lt;p>把大的问题进行拆解，一点一点去解决&lt;/p>
 &lt;p>组件化就是类似的思想，将一个页面拆分成一个个小的功能块，每个功能块完成自己独立的部分&lt;/p>
 &lt;p>大的组件可以划分出小的组件&lt;/p>
@@ -2099,7 +2099,7 @@
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">template&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]4-前端模块化</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/4-%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/"/><id>https://zdaneel.github.io/tech/4-%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/</id><updated>2022-08-06T04:06:37+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、JS开发问题 命名重复——函数闭包 代码复用——导入导出对象 使用模块化就只需要规定模……</summary><content type="html">&lt;h2 id="一js开发问题">一、JS开发问题&lt;/h2>
+&lt;/div></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]4-前端模块化</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/4-%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/"/><id>https://zdaneel.github.io/tech/4-%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/</id><updated>2022-09-16T13:20:12+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、JS开发问题 命名重复——函数闭包 代码复用——导入导出对象 使用模块化就只需要规定模……</summary><content type="html">&lt;h2 id="一js开发问题">一、JS开发问题&lt;/h2>
 &lt;ul>
 &lt;li>命名重复——函数闭包&lt;/li>
 &lt;li>代码复用——导入导出对象&lt;/li>
@@ -3749,265 +3749,4 @@
 &lt;/ul>
 &lt;h2 id="二单一状态树">二、单一状态树&lt;/h2>
 &lt;p>Single Source of Truth&lt;/p>
-&lt;p>一个项目只使用一个state&lt;/p></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry><entry><title type="text">[VUE]9-网络封装</title><link rel="alternate" type="text/html" href="https://zdaneel.github.io/tech/9-%E7%BD%91%E7%BB%9C%E5%B0%81%E8%A3%85/"/><id>https://zdaneel.github.io/tech/9-%E7%BD%91%E7%BB%9C%E5%B0%81%E8%A3%85/</id><updated>2022-08-06T04:06:37+00:00</updated><published>2022-07-31T13:13:44+08:00</published><author><name>zdaneel</name><uri>https://zd-dz.cc</uri><email>z1436910962@gmail.com</email></author><rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">一、概述 网络模块？ajax、jquery-ajax、vue-resource、jso……</summary><content type="html">&lt;h2 id="一概述">一、概述&lt;/h2>
-&lt;p>网络模块？ajax、jquery-ajax、vue-resource、jsonp（promise）&lt;/p>
-&lt;p>主流为axios模块&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>node.js发送请求&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>支持promise API&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>拦截请求和响应&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>…&lt;/p>
-&lt;h2 id="二请求方式">二、请求方式&lt;/h2>
-&lt;h3 id="1-基础使用">1. 基础使用&lt;/h3>
-&lt;p>axios(config)&lt;/p>
-&lt;p>…&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kr">import&lt;/span> &lt;span class="nx">axios&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s1">&amp;#39;axios&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/multidata&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>跨域问题？（跨平台&lt;/p>
-&lt;p>参数为对象，会自动进行拼接&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;span class="lnt">9
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/data&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">params&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">type&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;pop&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">page&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="mi">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h3 id="2-并发请求">2. 并发请求&lt;/h3>
-&lt;p>Promise，多个请求进行封装，同时到达再进行处理&lt;/p>
-&lt;p>返回的结果是一个数组&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;span class="lnt">12
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//并发
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">all&lt;/span>&lt;span class="p">([&lt;/span>&lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/multidata&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}),&lt;/span> &lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/data&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">params&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">type&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;sell&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">page&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="mi">2&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})]).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>或者用axios.spread（少用&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;span class="lnt">12
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">all&lt;/span>&lt;span class="p">([&lt;/span>&lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/multidata&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}),&lt;/span> &lt;span class="nx">axios&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000/home/data&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">params&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">type&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;sell&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">page&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="mi">2&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})]).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">spread&lt;/span>&lt;span class="p">((&lt;/span>&lt;span class="nx">res1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">res2&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res1&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res2&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}))&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="三配置">三、配置&lt;/h2>
-&lt;p>baseURL、timeout等可以进行全局配置——defaults&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">defaults&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">baseURL&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">defaults&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">timeout&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">5000&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="四实例和模块封装">四、实例和模块封装&lt;/h2>
-&lt;p>之前为全局的axios和对应的配置进行网络请求&lt;/p>
-&lt;p>现在需要创建axios的实例&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="c1">//创建实例
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="kr">const&lt;/span> &lt;span class="nx">instance1&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">create&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">baseURL&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">timeout&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="mi">5000&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">instance1&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;/home/multidata&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>封装，直接return是因为promise相关的知识&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;span class="lnt">9
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kr">export&lt;/span> &lt;span class="kd">function&lt;/span> &lt;span class="nx">request&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">config&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//创建实例
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="kr">const&lt;/span> &lt;span class="nx">instance&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">axios&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">create&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">baseURL&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;http://123.207.32.32:8000&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">timeout&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="mi">5000&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">instance&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">config&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>之后只需要&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;span class="lnt">9
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kr">import&lt;/span> &lt;span class="p">{&lt;/span>&lt;span class="nx">request&lt;/span>&lt;span class="p">}&lt;/span> &lt;span class="nx">from&lt;/span> &lt;span class="s2">&amp;#34;@/network/request&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">request&lt;/span>&lt;span class="p">({&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">url&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s1">&amp;#39;/home/multidata&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}).&lt;/span>&lt;span class="nx">then&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}).&lt;/span>&lt;span class="k">catch&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">err&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">err&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="五拦截器">五、拦截器&lt;/h2>
-&lt;p>interceptors&lt;/p>
-&lt;p>request和responce拦截&lt;/p>
-&lt;p>例如登录请求，需要携带token&lt;/p>
-&lt;p>注意，拦截后需要返回（可以只返回data&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;span class="lnt">12
-&lt;/span>&lt;span class="lnt">13
-&lt;/span>&lt;span class="lnt">14
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">instance&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">interceptors&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">request&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">use&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">config&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1">//console.log(config)
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span> &lt;span class="k">return&lt;/span> &lt;span class="nx">config&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">},&lt;/span>&lt;span class="nx">err&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">err&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">instance&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">interceptors&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">response&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">use&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">res&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">data&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="nx">res&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">data&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">},&lt;/span>&lt;span class="nx">err&lt;/span> &lt;span class="p">=&amp;gt;&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">console&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">log&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">err&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">})&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry></feed>
+&lt;p>一个项目只使用一个state&lt;/p></content><category scheme="https://zdaneel.github.io/tech/" term="tech" label="tech"/></entry></feed>
