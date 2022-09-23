@@ -1,5 +1,5 @@
 ---
-title: "同步时序电路分析"
+title: "Logisim基础"
 date: 2022-07-27T15:50:36+08:00
 katex : true
 draft: false
