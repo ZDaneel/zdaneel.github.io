@@ -1,27 +1,27 @@
+{{- $src := partial "utils/lib.html" (dict "$" . "type" "mathjax") -}}
+
 <script>
     if (typeof MathJax === 'undefined') {
         window.MathJax = {
             loader: {
                 load: ['[tex]/mhchem']
-            },}
-
+            },
             {{ if .Site.Params.disableMathJaxMenu }}
                 options: {
                     renderActions: {
                         addMenu: [0, '', '']
                     }
                 },
-
             {{ end }}
             tex: {
-                inlineMath: {['$', '$']};
-                tags: 'ams';
-                packages: {['mhchem']}
+                inlineMath: {'[+]': [['$', '$']]},
+                tags: 'ams',
+                packages: {'[+]': ['mhchem']}
             }
         };
         (function() {
-            var script = document.createElement('script');
-            script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js';
+            const script = document.createElement('script');
+            script.src = '{{ $src }}';
             script.defer = true;
             document.head.appendChild(script);
         })();

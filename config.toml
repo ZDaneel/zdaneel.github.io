@@ -6,7 +6,7 @@ title = "leenadz"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "在保留本文作者及本文链接的前提下，非商业用途随意转载分享。"
+copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主题选择
 theme = "meme"
@@ -46,7 +46,7 @@ uglyURLs = false
 
 # URL 结构
 [permalinks]
-    # categories = "/categories/:slug/"
+    categories = "/categories/:slug/"
     tags = "/tags/:slug/"
 
 # 类别
@@ -89,10 +89,14 @@ uglyURLs = false
         endLevel = 6
         ordered = true
 
+# 压缩 HTML
+[minify.tdewolff.html]
+    keepWhitespace = false
+
 # 作者信息
 [author]
     # 名字
-    name = "zdaneel"
+    name = "leenadz"
     # 邮箱
     email = "z1436910962@gmail.com"
     # 座右铭或简介
@@ -102,7 +106,7 @@ uglyURLs = false
     # 网站（默认值：baseURL）
     website = "https://zd-dz.cc"
     # 推特
-    twitter = "ZDaneelZ"
+    twitter = ""
 
 # 相关文章
 [related]
@@ -135,25 +139,29 @@ uglyURLs = false
     baseName = "rss"
 
 # lunr.js 的搜索索引
-# [outputFormats.SearchIndex]
-#     mediaType = "application/json"
-#     baseName = "search"
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+
+# Algolia 的搜索索引
+[outputFormats.Algolia]
+    mediaType = "application/json"
+    baseName = "algolia"
+    isPlainText = true
+    notAlternative = true
 
 # Hugo 的输出控制
 [outputs]
     page = ["HTML"]
-    # home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex"]
+    # home = ["HTML", "SectionsAtom", "SectionsRSS", "SearchIndex", "Algolia"]
     home = ["HTML", "SectionsAtom", "SectionsRSS"]
     section = ["HTML"]
-    # 类别
-    taxonomyTerm = ["HTML"]
-    # 类别项
     taxonomy = ["HTML"]
-    # 说明：https://github.com/gohugoio/hugo/issues/4528#issuecomment-508488859
+    term = ["HTML"]
 
 # RSS & Atom 文章数限制
 [services.rss]
-    limit = 10
+    limit = -1
 
 
 
@@ -169,7 +177,7 @@ uglyURLs = false
 # 4. links      链接栏（关于页面的极简页脚）
 
 # 菜单内的配置说明如下：
-# url           链接地址
+# pageref/url   内链地址/外链地址
 # name          文本（留空（""）则无）
 # weight        位置
 # pre           内链（internal）或外链（external）
@@ -182,35 +190,35 @@ uglyURLs = false
 [menu]
     ## 菜单栏
     # [[menu.main]]
-    #     url = "/"
+    #     pageref = "/"
     #     name = "首页"
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
     #[[menu.main]]
-    #    url = "/posts/"
+    #    pageref = "/posts/"
     #    name = "文章"
     #    weight = 2
     #    pre = "internal"
     #    post = "archive"
     #[[menu.main]]
-    #    url = "/categories/"
+    #    pageref = "/categories/"
     #    name = "分类"
     #    weight = 3
     #    pre = "internal"
     #    post = "th"
     #[[menu.main]]
-    #    url = "/tags/"
+    #    pageref = "/tags/"
     #    name = "标签"
     #    weight = 4
     #    pre = "internal"
     #    post = "tags"
     #[[menu.main]]
-    #    url = "/about/"
-    #    name = "关于"
+    #    pageref = "/about/"
+    #   name = "关于"
     #    weight = 5
     #    pre = "internal"
-    #   post = "user-circle"
+    #    post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
@@ -222,40 +230,33 @@ uglyURLs = false
     #     identifier = "search"
     #     post = "search"
     [[menu.main]]
-        url = "/posts/"
-        name = "文章"
+        pageref = "/posts/"
+        name = "Posts"
         weight = 1
         pre = "internal"
         post = "archive"
         identifier = "posts"
 
     [[menu.main]]
-        url = "/tech/"
-        name = "技术"
+        pageref= "/tech/"
+        name = "Tech"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
         identifier = "tech"
 
     [[menu.main]]
-        url = "/femi/"
-        name = "女权"
+        pageref = "/femi/"
+        name = "Femi"
         weight = 3
         pre = "internal"
         post = "grav"
         identifier = "femi"
-    
-    #[[menu.main]]
-    #    url = "/read/"
-    #    name = "阅读"
-    #   weight = 4
-    #    pre = "internal"
-    #    post = "wpexplorer"
-    #    identifier = "read"
+
 
     [[menu.main]]
-        url = "/about/"
-        name = "关于"
+        pageref = "/about/"
+        name = "About"
         weight = 4
         pre = "internal"
         post = "user-circle"
@@ -273,8 +274,12 @@ uglyURLs = false
     # 是否开启
     enableHeader = true
 
+    # 是否自动隐藏
+    enableHeaderAutoHide = false
+    # 说明：仅对弹性布局的顶栏有效
+
     # 是否在首页显示
-    displayHeaderInHome = false
+    displayHeaderInHome = true
     # 说明：对弹性布局的顶栏无效
 
     # 背景
@@ -288,7 +293,7 @@ uglyURLs = false
     # 在窄视图下隐藏菜单栏并显示一个按钮？
     enableNavToggle = true
 
-    navHeight = "9em"
+    navHeight = "10em"
     # 说明：菜单栏展开时的高度
 
 
@@ -371,7 +376,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "个人博客 摘抄记录奇思妙想"
+    siteDescription = "记录奇思妙想"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -380,7 +385,7 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "ZDaneelZ"
+    siteTwitter = ""
     # 说明：用于 Twitter Cards
 
 
@@ -445,7 +450,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 36
+    listWidth = 42
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -453,7 +458,7 @@ uglyURLs = false
     displayListTitle = true
 
     # 日期的格式
-    listDateFormat = "2006-01-02"
+    listDateFormat = "1 月 2 日"
     # 注意：请遵循格式 https://gohugo.io/functions/format/
 
     # 日期的位置
@@ -587,8 +592,6 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     enableServiceWorker = false
-    # 说明：需要第三方支持，暂见：
-    #      https://io-oi.me/tech/pwa-via-workbox/
 
 
     ######################################
@@ -634,6 +637,9 @@ uglyURLs = false
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
+    # 直接加载评论，不需要手动点击按钮加载
+    autoLoadComments = false
+
     ## Disqus
     enableDisqus = false
     disqusShortname = ""
@@ -667,6 +673,23 @@ uglyURLs = false
     utterancesThemeDark = "photon-dark"
     utterancesLabel = ""
     # 说明：https://utteranc.es/
+
+    ## Gitalk
+    enableGitalk = false
+    gitalkClientID = "your_client_id"
+    gitalkClientSecret = "your_client_secret"
+    gitalkRepo = "your_repository"
+    gitalkOwner = "your_gitalk_owner"
+    gitalkAdmin = ["your_gitalk_admin"]
+    gitalkLable = ["Gitalk"]
+    gitalkDistractionFreeMode = false
+    gitalkPerPage = 10
+    gitalkLanguage = "en"
+    gitalkPagerDirection = "last"
+    gitalkCreateIssueManually = false
+    gitalkProxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token"
+    gitalkEnableHotKey = true
+    # 说明：https://github.com/gitalk/gitalk
 
 
     ######################################
@@ -705,6 +728,15 @@ uglyURLs = false
 
 
     ######################################
+    # Yandex.Metrika
+    # https://metrika.yandex.ru/
+
+    # 说明：仅在生产环境（production）下渲染
+
+    yandexMetrikaId = ""
+
+
+    ######################################
     # 文章设置
 
     # 超链接的颜色变化持续时间（单位：秒）
@@ -717,7 +749,7 @@ uglyURLs = false
     # 注意：只支持 HSL 颜色值
 
     # 文章的内容宽度
-    postWidth = 36
+    postWidth = 46
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -739,7 +771,7 @@ uglyURLs = false
     # 文章元信息
 
     # 是否开启（全局设置）
-    enablePostMeta = false
+    enablePostMeta = true
     # 说明：文章的 Front Matter 中的 `meta`
     #      的优先级高于此处
 
@@ -763,7 +795,7 @@ uglyURLs = false
     modifiedDateIcon = "calendar-check"
 
     # 是否显示过期时间
-    displayExpiredDate = true
+    displayExpiredDate = false
     # 过期时间的图标
     expiredDateIcon = "calendar-times"
 
@@ -785,7 +817,7 @@ uglyURLs = false
     readingTimeIcon = "clock"
 
     # 是否显示不蒜子页面浏览量
-    displayBusuanziPagePV = false
+    displayBusuanziPagePV = true
     # 不蒜子页面浏览量的图标
     busuanziPagePVIcon = "eye"
     # 说明：仅在生产环境（production）下渲染
@@ -823,8 +855,10 @@ uglyURLs = false
     ######################################
     # 分节标题锚点
 
-    # 是否开启
+    # 是否开启（全局设置）
     enableHeadingsAnchor = true
+    # 说明：文章的 Front Matter 中的 `anchor`
+    #      的优先级高于此处
 
     # 分节标题的级别范围
     headingsOpt = "1-6"
@@ -837,7 +871,7 @@ uglyURLs = false
     #      默认值：§
 
     # 锚点图标
-    anchorIcon = ""
+    anchorIcon = "link"
     # 说明：留空（""）则回退到锚点符号
 
     # 是否开启锚点链接
@@ -915,6 +949,11 @@ uglyURLs = false
 
 
     ######################################
+    # 滚动条
+    customizeScrollbar = true
+
+
+    ######################################
     # 字体排版
 
     ######################################
@@ -942,7 +981,7 @@ uglyURLs = false
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
-    fontFamilyFooter = "'Source Code Pro', 'Noto Serif SC', monospace"
+    fontFamilyFooter = ""
     # 主体
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 
@@ -1071,7 +1110,7 @@ uglyURLs = false
     # 文章的 Git 版本信息
 
     # 是否开启
-    enablePostGitInfo = true
+    enablePostGitInfo = false
 
     # 是否显示（全局设置）
     displayPostGitInfo = false
@@ -1119,7 +1158,7 @@ uglyURLs = false
     # 说明：文章的 Front Matter 中的 `share`
     #      的优先级高于此处
 
-    displayShareOnText = true
+    displayShareOnText = false
 
     shareOnTwitter = true
     shareOnFacebook = true
@@ -1137,10 +1176,10 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = false
+    enableRelatedPosts = true
 
     # 是否显示（全局设置）
-    displayRelatedPosts = false
+    displayRelatedPosts = true
     # 说明：文章的 Front Matter 中的 `related`
     #      的优先级高于此处
 
@@ -1155,7 +1194,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = false
+    enablePostTags = true
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -1204,6 +1243,9 @@ uglyURLs = false
     # 是否在首页显示
     displayBackToTopInHome = true
 
+    # 是否在移动端显示
+    displayBackToTopOnMobile = false
+
     # 按钮图标
     backToTopIcon = "arrow-up"
 
@@ -1215,11 +1257,12 @@ uglyURLs = false
     enableFooter = true
 
     # 是否显示
-    displayFooter = false
+    displayFooter = true
 
     # 是否在首页显示
-    displayFooterInHome = true
+    displayFooterInHome = false
 
+    displayCopyleftSymbol = false
     # 是否显示版权符号（©）
     displayCopyrightSymbol = true
 
@@ -1234,13 +1277,13 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "<a href='https://icp.gov.moe/?keyword=20222568' target='_blank'>萌ICP备20222568号</a>"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "本站访客数"
@@ -1280,7 +1323,7 @@ uglyURLs = false
     # 是否开启竖直滚动
     enableOverflowY = true
     # 最大高度
-    maxHeight = 20
+    maxHeight = 25
     # 单位：em
 
     # 是否开启复制
@@ -1292,9 +1335,20 @@ uglyURLs = false
     ######################################
     # 文件指纹和子资源完整性（SRI）
 
-    # 是否开启
-    enableFingerprint = false
     # 说明：仅对 MemE 生成的 CSS 和 JS 有效
+
+    # 是否开启文件指纹
+    enableFingerprint = true
+
+    # 是否开启子资源完整性验证
+    enableSRI = false
+    # 说明：开启子资源完整性验证后，该策略将使
+    #      MemE 的 CSS 和 JS 在像谷歌翻译这样
+    #      的第三方网站上被禁止。为了避免开启后
+    #      的这个问题，你的服务器必须向 CSS 和
+    #      JS 的请求中加上以下 Header：
+    #
+    #      Access-Control-Allow-Origin: *
 
 
     ######################################
@@ -1314,7 +1368,6 @@ uglyURLs = false
 
     # 是否开启
     enableSmoothScroll = true
-    # 说明：https://github.com/cferdinandi/smooth-scroll
 
 
     ######################################
@@ -1341,6 +1394,21 @@ uglyURLs = false
 
 
     ######################################
+    # Algolia search
+
+    # 说明：需要开启 `Algolia` 的输出，且需要每
+    #      次将生成的 algolia.json 文件上传到
+    #      Algolia
+
+    enableAlgoliaSearch = false
+
+    algoliaAppId = ""
+    algoliaApiKey = ""
+    algoliaIndexName = ""
+    # 说明：https://www.algolia.com/
+
+
+    ######################################
     # 404 页面
 
     # 视频封面
@@ -1351,5 +1419,35 @@ uglyURLs = false
     fofVideoMp4 = ""
     # 说明：视频地址可留空（""）
 
-    #支持字数统计和阅读时间
-    # page_view_conter=true
+
+    ######################################
+    # 定制第三方库的地址
+
+    [params.lib]
+        host = "https://cdn.jsdelivr.net"
+        # 说明：设置为根（"/"）且将下方对应 path
+        #      设置，如果你想要直接从「本地」
+        #      加载某个库的话。比如：
+        #      将 path 设置为 "js/lib.min.js"，
+        #      并将文件放到你的 /static/js/lib.min.js
+    [params.lib.path]
+        clipboard = "/npm/clipboard-polyfill@2.8.6/dist/clipboard-polyfill.min.js"
+        instantsearch = "/npm/instantsearch.js@2/dist/instantsearch.min.js"
+        gitalk = "/npm/gitalk@1/dist/gitalk.min.js"
+        gitalk_css = "/npm/gitalk@1/dist/gitalk.css"
+        instantpage = "/npm/instant.page@5.1.0/instantpage.min.js"
+        katex = "/npm/katex@0.13.0/dist/katex.min.js"
+        katex_css = "/npm/katex@0.13.0/dist/katex.min.css"
+        katex_mhchem = "/npm/katex@0.13.0/dist/contrib/mhchem.min.js"
+        katex_auto_render = "/npm/katex@0.13.0/dist/contrib/auto-render.min.js"
+        lunr = "/npm/lunr@2.3.9/lunr.min.js"
+        lunr_tinyseg = "/npm/lunr-languages@1.4.0/tinyseg.js"
+        lunr_stemmer = "/npm/lunr-languages@1.4.0/min/lunr.stemmer.support.min.js"
+        lunr_lang = "/npm/lunr-languages@1.4.0/min/lunr.de.min.js"
+        mathjax = "/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"
+        medium_zoom = "/npm/medium-zoom@latest/dist/medium-zoom.min.js"
+        mermaid = "/npm/mermaid@8.8.3/dist/mermaid.min.js"
+        qrcode = "/npm/qrcode-generator@1.4.4/qrcode.min.js"
+        valine = "/npm/valine@1.4.14/dist/Valine.min.js"
+        busuanzi = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+        utterances = "https://utteranc.es/client.js"

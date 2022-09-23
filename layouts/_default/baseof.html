@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}"{{ if and .Site.Params.enableDarkMode .Site.Params.overrideSystemPreferences }}{{ with .Site.Params.defaultTheme | default "light" }} data-theme="{{ . }}"{{ end }}{{ end }}>
+    {{ partial "head.html" . }}
+    <head>
+        <!-- require APlayer -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+        <!-- require MetingJS -->
+        <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            {{ partial "header.html" . }}
+            {{ if ne .Site.Params.headerLayout "flex" }}
+                {{ if or (and .IsHome .Site.Params.displayMenuInHome) (and (not .IsHome) .Site.Params.enableMenu) }}
+                    {{ partial "menu.html" . }}
+                {{ end }}
+                {{ partial "components/multilingual.html" . }}
+                {{ partial "components/dark-mode.html" . }}
+            {{ end }}
+            {{ block "main" . }}{{ end }}
+            {{ partial "components/back-to-top.html" . }}
+            {{ partial "footer.html" . }}
+        </div>
+        {{ partial "components/service-worker.html" . }}
+        {{ partial "third-party/script.html" . }}
+    </body>
+</html>
