@@ -30,7 +30,7 @@ toc: true
 
 <img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202203251613858.png" alt="截屏2022-03-25 16.13.00" style="zoom: 33%;" />
 
-再用封装好的进行ce shi
+再用封装好的进行测试
 
 <img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202203251615407.png" alt="截屏2022-03-25 16.15.34" style="zoom:33%;" />
 
