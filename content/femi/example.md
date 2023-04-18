@@ -1,7 +1,7 @@
 ---
 title: "塞格里纪事"
 date: 2023-03-17T18:16:52+08:00
-draft: false
+draft: true
 ---
 
 # The Matter Of Seggri  
