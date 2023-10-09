@@ -14,7 +14,7 @@ toc: true
 
 ------
 
-书籍资源大多可以在这个网站上搜到：[zlibrary](https://book4you.org/?signAll=1&ts=0531)
+书籍资源大多可以在这个网站上搜到：~~[zlibrary](https://book4you.org/?signAll=1&ts=0531)~~ [安娜的档案](https://zh.annas-archive.org/)
 
 一些文章和网站需要翻墙才能看到，相关机场的测速和简介可以在这里找到：[duyaoss](https://www.duyaoss.com/)
 
@@ -89,8 +89,8 @@ Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们�
 
 ### 一、随笔
 
-- [对“女士优先”的思考](https://zd-dz.cc/femi/%E5%AF%B9%E5%A5%B3%E5%A3%AB%E4%BC%98%E5%85%88%E7%9A%84%E6%80%9D%E8%80%83/)
-- [独生之国-反思计划生育](https://zd-dz.cc/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/)
+- [《中国女工》随想](https://zdaneel.github.io/femi/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%B7%A5/)
+- [独生之国——反思计划生育](https://zdaneel.github.io/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/)
 
 ### 二、分享
 
