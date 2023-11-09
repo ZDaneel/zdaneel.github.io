@@ -14,7 +14,7 @@ toc: true
 
 ## 一、安装
 
-> 参考https://zhuanlan.zhihu.com/p/464386728
+> 参考 https://zhuanlan.zhihu.com/p/464386728
 
 ### riscv-gnu-toolchain
 
@@ -52,7 +52,7 @@ brew install qemu
 
 #### 2. launch.json和tasks.json
 
-在xv6目录下的`.vscode`文件夹中创建两个文件，注意两个都是复数
+在xv6目录下的`.vscode`文件夹中创建两个文件，tasks是复数
 
 launch.json
 
