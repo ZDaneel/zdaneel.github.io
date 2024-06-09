@@ -1,4 +1,284 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>leenadz</title><link>https://zdaneel.github.io/</link><description>记录奇思妙想</description><generator>Hugo 0.127.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>z1436910962@gmail.com (leenadz)</managingEditor><webMaster>z1436910962@gmail.com (leenadz)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sun, 09 Jun 2024 12:49:13 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://zdaneel.github.io/rss.xml"/><item><title>xv6在m1mac上安装以及在vscode里debug.md</title><link>https://zdaneel.github.io/tech/xv6%E5%9C%A8m1mac%E4%B8%8A%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E5%9C%A8vscode%E9%87%8Cdebug/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/xv6%E5%9C%A8m1mac%E4%B8%8A%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E5%9C%A8vscode%E9%87%8Cdebug/</guid><pubDate>Thu, 09 Nov 2023 15:50:36 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="环境">环境：&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>leenadz</title><link>https://zdaneel.github.io/</link><description>记录奇思妙想</description><generator>Hugo 0.127.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>z1436910962@gmail.com (leenadz)</managingEditor><webMaster>z1436910962@gmail.com (leenadz)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sun, 09 Jun 2024 13:11:58 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://zdaneel.github.io/rss.xml"/><item><title>Feminism Learning</title><link>https://zdaneel.github.io/femi/feminism/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/feminism/</guid><pubDate>Fri, 05 Jan 2024 14:30:00 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="女性主义学习">女性主义学习&lt;/h1>
+&lt;p>&lt;strong>记录个人的女性主义学习&lt;/strong>&lt;/p>
+&lt;p>整理之前的各种笔记和资源，慢慢会优化分类。&lt;/p>
+&lt;hr>
+&lt;p>书籍资源大多可以在这个网站上搜到：&lt;a href="https://lib-ihuzmolplpr6wwx3aco2qo46.booksc.eu/">zlibrary&lt;/a> 或&lt;a href="https://zh.annas-archive.org/">安娜的档案&lt;/a>&lt;/p>
+&lt;p>一些文章和网站需要翻墙才能看到，相关机场的测速和简介可以在这里找到：&lt;a href="https://www.duyaoss.com/">duyaoss&lt;/a>&lt;/p>
+&lt;p>基进女性之声网站里列出的相关网站：&lt;a href="https://radfemtw.wordpress.com/%e7%9b%b8%e9%97%9c%e8%b3%87%e6%ba%90/">網站連結&lt;/a>&lt;/p>
+&lt;h2 id="书籍">书籍&lt;/h2>
+&lt;p>先放一些书单，里面收录了特别多关于女性主义的书目&lt;/p>
+&lt;p>(公众号）&lt;a href="https://mp.weixin.qq.com/s/Ic_tlxRJIIrlvCHpkRKfsg">女性主义研究书单&lt;/a>&lt;/p>
+&lt;p>(豆瓣)&lt;a href="https://www.douban.com/doulist/111344585/">女性主义书单&lt;/a>&lt;/p>
+&lt;p>(基進女性之聲)&lt;a href="https://radfemtw.wordpress.com/%e5%8e%9f%e6%96%87%e6%9b%b8%e7%9b%ae%e9%9b%bb%e5%ad%90%e8%b3%87%e6%ba%90/">原文書目電子資源&lt;/a>&lt;/p>
+&lt;p>Ps.简体中文的版本几乎都被审查过，是“老大哥”允许我们看到的。条件允许的情况下，建议阅读台版繁体版本，或者直接阅读原版。&lt;/p>
+&lt;p>目前的分类很粗糙，之后会慢慢优化&lt;/p>
+&lt;h3 id="一入门">一、入门&lt;/h3>
+&lt;h4 id="1-基础理论">1. 基础理论&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">女性主义有什么用&lt;/td>
+&lt;td style="text-align:left">结合当下的热门话题，介绍了很多的女性主义思想&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">从零开始的女性主义&lt;/td>
+&lt;td style="text-align:left">学者和漫画家的对谈，从自身的经历出发，生动有趣通俗易懂&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">应得的权利&lt;/td>
+&lt;td style="text-align:left">对男性特权进行审视，应得权利的概念深入人心，涵盖范围也很广&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">女太监&lt;/td>
+&lt;td style="text-align:left">激进女权的代表作之一，和学术语言不同，非常有个人特色&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4 id="2-社会现象揭露">2. 社会现象揭露&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">天空的另一半&lt;/td>
+&lt;td style="text-align:left">我的女性主义入门书，展示了亚非拉地区女性的生存困境。简中版有&lt;a href="https://m.doc88.com/p-0807239074777.html">删减&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">基层女性&lt;/td>
+&lt;td style="text-align:left">替那些失语的基层女性发声，希望女性能够经济和精神独立&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">桶川跟踪狂杀人事件&lt;/td>
+&lt;td style="text-align:left">揭露了日本的女性遭受前男友骚扰、警方漠视和媒体污名的现象&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">被隐形的女性&lt;/td>
+&lt;td style="text-align:left">讲述社会和工业设计中存在的问题，提出以男性为默认情况的现象&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">N号房追踪记&lt;/td>
+&lt;td style="text-align:left">讲述两个年轻女孩如何长期追踪并将其揭露于世&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4 id="3-个人经历">3. 个人经历&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">异见时刻&lt;/td>
+&lt;td style="text-align:left">讲述美国大法官金斯伯格的故事，可以搭配&lt;a href="https://b23.tv/ep340570">纪录片&lt;/a>一起看&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">黑箱&lt;/td>
+&lt;td style="text-align:left">日本#MeToo运动核心事件全纪实，讲述伊藤诗织的遭遇&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">我是男生，也是女性主义者&lt;/td>
+&lt;td style="text-align:left">男性也可以是女性主义者吗？&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">我，厌男&lt;/td>
+&lt;td style="text-align:left">很薄的一本书，直接说出厌男的概念，更像是宣言&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4 id="4-其他">4. 其他&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">框架外的我，就是这么可爱&lt;/td>
+&lt;td style="text-align:left">一本漫画书，特别生动形象，欢笑之后带来深思&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">女孩别怕&lt;/td>
+&lt;td style="text-align:left">一本自我保护指南，附赠的手册很不错，推荐她们的同名公众号&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">为什么爱会伤人&lt;/td>
+&lt;td style="text-align:left">讲述亲密关系的自恋型人格障碍，社会中广为存在的一类人&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="二小说">二、小说&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">你当像鸟飞往你的山&lt;/td>
+&lt;td style="text-align:left">英文名是Educated，阐述教育对女性的重要性，逃离原生家庭的魔爪&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">82年生的金智英&lt;/td>
+&lt;td style="text-align:left">典型的东亚父权社会下普通女性的生存状态，能慢慢发现这个社会上对女性的不公&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">房思琪的初恋乐园&lt;/td>
+&lt;td style="text-align:left">讲述被侵犯者“爱上”侵犯者的故事，读的时候痛彻心扉。推荐对作者的&lt;a href="https://www.bilibili.com/video/BV1yW411L72D?share_source=copy_web">专访&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">地海孤儿&lt;/td>
+&lt;td style="text-align:left">地海传奇第4部，充满女性的反思和内心独白。对地海原本的世界设定进行质疑，参考作者的演讲：&lt;a href="https://book.douban.com/review/9929565/">重建地海&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">黑暗的左手&lt;/td>
+&lt;td style="text-align:left">通过外星球的无性设定，探讨性别的概念。补充阅读塞格里纪事：&lt;a href="https://book.douban.com/subject/35959816/">寻获与失落&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">那不勒斯四部曲&lt;/td>
+&lt;td style="text-align:left">刻画了一个被时代所困但又试图打破界限的女性，以及复杂深刻的女性友谊&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="三学术">三、学术&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">书名&lt;/th>
+&lt;th style="text-align:left">简介&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">女性主义&lt;/td>
+&lt;td style="text-align:left">李银河的作品，本土里比较详尽的理论框架，梳理了几大流派及其争议性问题&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">女性主义理论与流变&lt;/td>
+&lt;td style="text-align:left">台湾的女性主义入门书籍，偏向于教科书比较全面，也有探讨台湾本土的女权运动问题&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">厌女&lt;/td>
+&lt;td style="text-align:left">非常有名但有一定的学术性，提出厌女的概念，对日本社会现象进行批判&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">圣杯与剑&lt;/td>
+&lt;td style="text-align:left">专注于史前的母系社会，有大量历史文献；提出圣杯象征生命创造力，而剑代表了基于统治和征服&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">神圣的欢爱&lt;/td>
+&lt;td style="text-align:left">在圣杯与剑的基础上，以性和欢愉为出发点，进一步探讨伙伴模式和统治模式&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>在读或以后会读的&lt;/p>
+&lt;ul>
+&lt;li>性，高跟鞋与伍尔夫&lt;/li>
+&lt;li>为什么爱让人受伤&lt;/li>
+&lt;li>他為什麼這麼做？&lt;a href="https://play.google.com/store/books/details?id=EyOWDwAAQBAJ&amp;amp;rdid=book-EyOWDwAAQBAJ&amp;amp;rdot=1&amp;amp;source=gbs_vpt_read&amp;amp;pcampaignid=books_booksearch_viewport">购买&lt;/a>&lt;/li>
+&lt;li>父权制与资本主义&lt;/li>
+&lt;li>如何抑制女性写作&lt;/li>
+&lt;li>The Great Cosmic Mother&lt;/li>
+&lt;li>Revolting Prostitutes&lt;/li>
+&lt;/ul>
+&lt;h2 id="文章">文章&lt;/h2>
+&lt;h3 id="一随笔">一、随笔&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://zdaneel.github.io/femi/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%B7%A5/">《中国女工》随想&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zdaneel.github.io/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/">独生之国——反思计划生育&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="二分享">二、分享&lt;/h3>
+&lt;p>内链&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://zdaneel.github.io/femi/%E5%B0%8F%E5%BF%83%E8%BF%99%E5%8D%81%E7%B1%BB%E8%87%AA%E7%A7%B0%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E7%9A%84%E7%94%B7%E6%80%A7/">小心这十类自称女权主义的男性&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/">对女性的蔑称&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://zdaneel.github.io/femi/%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B/">你男朋友&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>外链&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://share.api.weibo.cn/share/272278451.html?weibo_id=4170499758030405">小心这十类自称女权主义的男性&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://telegra.ph/%E5%85%B3%E4%BA%8E%E5%A6%82%E6%9E%9C%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%9C%8B%E5%8F%8B%E6%8B%9F%E8%AE%A1%E5%88%92%E6%B5%81%E4%BA%A7-10-02">关于“如果身边有朋友拟计划流产”&lt;/a>&lt;/li>
+&lt;li>&lt;a href="%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0.md">对女性的蔑称&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://weibo.com/detail/4707151408795216">PUSSY POWER&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://darcyk777.wordpress.com/2021/04/18/example-post-3/">性生活须知&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://book.douban.com/review/9929565/">孩子、女人、男人和龙&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/DoubanFeministGroup/comments/vmfeoj/%E6%90%AC%E8%BF%90_%E5%B0%91%E5%A5%B3%E5%A4%A7%E7%8B%AE%E4%BB%94_%E6%80%A7%E5%88%AB%E5%8D%B3%E7%A7%8D%E5%A7%93%E5%88%B6%E5%BA%A6/">搬运: 少女大狮仔 “性别即种姓”制度&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料">资料&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E3%80%8A%E6%80%A7%E4%B8%8E%E6%80%A7%E5%88%AB%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E5%8F%8D%E5%AE%B6%E6%9A%B4%E6%89%8B%E5%86%8C%E3%80%8B.pdf">性与性别少数群体反家暴手册&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E5%8F%8D%E6%80%A7%E9%AA%9A%E6%89%B0%E6%89%8B%E5%86%8C.pdf">反性骚扰手册&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E5%A6%82%E4%BD%95%E5%8F%8B%E5%A5%BD%E5%9C%B0%E6%8A%A5%E9%81%93%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B6%E5%AA%92%E4%BD%93%E5%AE%9E%E5%8A%A1%E6%8C%87%E5%8D%97.pdf">如何友好地报道性别暴力案件媒体实务指南&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ZDaneel/zdaneel.github.io/blob/main/static/datas/%E6%80%A7%E4%BE%B5%E5%AE%B3%E5%B9%B8%E5%AD%98%E8%80%85%E8%87%AA%E5%8A%A9%E6%89%8B%E5%86%8C2.0.pdf">性侵害幸存者自助手册2.0&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="相关推荐">相关推荐&lt;/h2>
+&lt;h3 id="一播客">一、播客&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.xiaoyuzhoufm.com/podcast/5e284c38418a84a046263728">在北大不吐槽会死&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>目前主要是呆比碧池在聊一些关于社会、性别、人生的话题。&lt;/p>
+&lt;p>呆比的端传媒系列文章也十分值得阅读：&lt;a href="https://theinitium.com/zh-Hans/tags/_1529">端传媒&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://afdian.net/@yuzhouchengke">宇宙乘客&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“跨越中西的未来生活方式实验室”&lt;/p>
+&lt;p>MT和小姨共同录制的一档播客，4-50期之后主题集中在女性主义。特别推荐一下，这档播客在我人生低谷期有唤起我内心的力量。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://seahorseplanet.net/">海马星球&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“发掘女性力量，构建母系社会”&lt;/p>
+&lt;p>2021年12月1日晚被小宇宙平台封禁&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://shows.acast.com/calibanandthewitches/episodes">卡列班与女巫&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“在美日留学的性别研究博士生Stephanie和花小磨用贴近生活的话风，鲜活的事例，来介绍女权主义政治经济学理论及批判，聊聊发展与性别，和你一道扩展思考与行动的疆域。”&lt;/p>
+&lt;p>2021年3月2日起不再更新。&lt;/p>
+&lt;h3 id="二相关网站">二、相关网站&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://radfemtw.wordpress.com/">基进女性之声&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“基進女性之聲為一女權倡議平台，以基進女性主義之論述「父權制度 (男性支配)是所有不平等的根源」為基礎，批判現今社會存在的男性特權、厭女文化等諸種性別不平等現象。”&lt;/p>
+&lt;p>2019年不再更新。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://gndrshu.wp.shu.edu.tw/">世新大学性别研究所&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>世新大學為邁向教育國際化，並配合二十世紀後半期之國際性別教育發展趨勢，以及聯合國推動之性別平權國際議題，遂於民國92年創設性別研究所；本所為北台灣首創之性別研究所。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.blackpast.org/shop/">BLACKPAST&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“An online reference center makes available a wealth of materials on African American history in one central location on the Internet.”&lt;/p>
+&lt;p>一个在线参考资料中心，在互联网上的一个中心位置提供了大量关于美国黑人历史的材料。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.reddit.com/r/DoubanFeministGroup/">DoubanFeministGroup&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>“豆瓣物欲自我管理组reddit分组 6b4t 全女组”&lt;/p>
+&lt;p>在豆瓣的小组被炸后迁移到reddit平台&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://t.me/daily_feminist">性别偏见与性别议题&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Telegram频道，搜集了很多生活中性别偏见的例子，可以从推荐频道里找到更多相关的频道&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>xv6在m1mac上安装以及在vscode里debug.md</title><link>https://zdaneel.github.io/tech/xv6%E5%9C%A8m1mac%E4%B8%8A%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E5%9C%A8vscode%E9%87%8Cdebug/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/xv6%E5%9C%A8m1mac%E4%B8%8A%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E5%9C%A8vscode%E9%87%8Cdebug/</guid><pubDate>Thu, 09 Nov 2023 15:50:36 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="环境">环境：&lt;/h2>
 &lt;p>电脑型号：MacBook Air (M1, 2020)&lt;/p>
 &lt;p>系统版本：macOS Sonoma 14.0&lt;/p>
 &lt;h2 id="一安装">一、安装&lt;/h2>
@@ -136,7 +416,100 @@
 &lt;li>c是进程qemu控制台&lt;/li>
 &lt;/ul>
 &lt;p>在qemu控制台中，可以通过&lt;code>info mem&lt;/code>、&lt;code>info registers&lt;/code>等指令查看模拟硬件的内容&lt;/p>
-&lt;p>再次按下ctrl+a后松开，然后按下c就可以退出qemu控制台&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>Logisim基础</title><link>https://zdaneel.github.io/tech/logisim%E5%9F%BA%E7%A1%80/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/logisim%E5%9F%BA%E7%A1%80/</guid><pubDate>Wed, 27 Jul 2022 15:50:36 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="新手上路实验">新手上路实验&lt;/h1>
+&lt;p>再次按下ctrl+a后松开，然后按下c就可以退出qemu控制台&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>《赛博朋克2077：往日之影》人物分析和感想</title><link>https://zdaneel.github.io/posts/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077-%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1%E4%BA%BA%E7%89%A9%E5%88%86%E6%9E%90%E5%92%8C%E6%84%9F%E6%83%B3/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077-%E5%BE%80%E6%97%A5%E4%B9%8B%E5%BD%B1%E4%BA%BA%E7%89%A9%E5%88%86%E6%9E%90%E5%92%8C%E6%84%9F%E6%83%B3/</guid><pubDate>Mon, 09 Oct 2023 01:40:55 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>前段时间比较仔细得打通了《赛博朋克2077》的资料片《往日之影》的所有结局，花费时间40h左右，在游玩基础上又看了不少的实况和视频，以及参考了很多人的观点。感触很深，就想着写点东西，纪录一下自己的想法。&lt;/p>
+&lt;p>游戏流程视频参考老戴在此的攻略视频：&lt;a href="https://b23.tv/cs1PfbZ">【完结】【4KHDR&amp;amp;最高画质】老戴《赛博朋克 2077 往日之影 》剧情流程解说-哔哩哔哩&lt;/a>&lt;/p>
+&lt;p>实况视频推荐高寒时薪十块：&lt;a href="https://b23.tv/BfL6hE2">不顾强尼反对杀了他 换来最难受的结局-哔哩哔哩&lt;/a>&lt;/p>
+&lt;p>和寅子：&lt;a href="https://b23.tv/F3L3Hs6">【寅子合集 弹幕版】赛博朋克2077-DLC-哔哩哔哩&lt;/a>&lt;/p>
+&lt;p>剧透警告！&lt;/p>
+&lt;p>剧透警告！&lt;/p>
+&lt;p>剧透警告！&lt;/p>
+&lt;p>全文都是剧透！&lt;/p>
+&lt;hr>
+&lt;p>全文分为四个部分，先从结局说起，再谈论里面的三个人物，之后探讨往日之影的标题，最后也会谈谈个人感想。&lt;/p>
+&lt;h3 id="结局">结局&lt;/h3>
+&lt;p>把往日之影的主线剧情简单画了一下，除去一开始不去救总统导致的资料片直接结束外，共有四个资料片结局和一个本体结局。从宏观上去看，编剧对分支的处理其实很“刻意”，无论选择何种道路，都会遭遇到一些难以接受的结果：如果在审判日帮助百灵鸟，在到结局的时候才会被告知被欺骗和利用，最后如果选择送百灵鸟上月球，那就要杀死李德，不然交出百灵鸟，则可选择高塔结局；如果背叛百灵鸟，亚历克斯会死亡，并且之后会有类似《逃生》的游戏体验，在最后帮百灵鸟解脱，则会受到总统的冷嘲热讽和打发人的5000块钱，而如果选择不杀，会收到总统奖章和可选择高塔结局。而高塔结局中，强尼被抹去，V成为了普通人，无法使用战斗义体，身边的人也都走走散散。&lt;/p>
+&lt;p>这样的剧情设计也引发了广泛的讨论和争议。考虑到这是一个角色扮演游戏，每个玩家都可以根据自己的情感和理解进行选择：有的玩家无法接受欺骗和利用，就会把百灵鸟交给李德；与百灵鸟产生了深厚的情感纽带的玩家，就会选择将其送往月球或结束她的命运；而也有人出于对NUSA的反感而选择帮助百灵鸟；或者相信李德的忠心和诚意。&lt;/p>
+&lt;p>从steam的成就解锁数据来看，截至本文写作时，权杖国王为0.8%，宝剑国王为0.6%，圣杯国王为0.2%，钱币国王为0.4%。个人游玩时，首先进的百灵鸟线，先是权杖国王，再是宝剑国王。之后进李德线，先是圣杯国王，再是钱币国王。&lt;/p>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202310081938711.png" alt="image-20231008193830893">&lt;/p>
+&lt;p>不妨从游戏中的塔罗牌说起，也能从中窥见主创们的想法。关于塔罗牌的象征，从发现塔罗牌的地方来看，四张塔罗牌分别对应四位角色。而从四条结局分支中，四张塔罗牌则同时对应了不同的抉择。而“高塔”则是本作中就有的一张塔罗牌。&lt;/p>
+&lt;blockquote>
+&lt;p>权杖国王&lt;/p>
+&lt;p>制定计划的大师，神机妙算的鬼才他们擅长拉近人与人之间的距离，激励被自己视为朋友的对象。然而敌人很快就会发现，他们是一股容易冲动、具有毁灭性的强大力量。为了达成目标，就算是违背承诺、打破底线也在所不惜。&lt;/p>
+&lt;/blockquote>
+&lt;p>“说明你遇见了一个领袖，在实现目标或者是更为远大的理想，同时坚持自己的原则。权杖国王表示新的机会，抛弃从前的习惯或者风气。但它也预示了某种危险。会让人走捷径，行动起来残酷无情。最后为了大局，不得不做出一定牺牲。”——米丝蒂&lt;/p>
+&lt;p>位置在第一次见李德的小公园那里，对应着李德。李德忠于新美国，也想要拯救百灵鸟，但忽视了她的真实意愿；并且为了大局，杀了滑条和法国黑客，也会在V送百灵鸟上月球时掏枪对峙。&lt;/p>
+&lt;p>对应于玩家的抉择则是，为了救百灵鸟而不顾一切，前往发射台时击杀很多人，背叛李德并在最后杀李德，但当飞船起飞的那一刻，一切都变得热烈而浪漫。&lt;/p>
+&lt;blockquote>
+&lt;p>宝剑国王&lt;/p>
+&lt;p>对宝剑国王来说，只有两件事最为重要: 逻辑和信念。他们有着非常明确的道德标准，并且以关爱他人而著称。但是在面对敌人的时候，宝剑国王冷酷无情。除非对方受到了惩罚被命运撕得粉碎，否则他们决不罢休。&lt;/p>
+&lt;/blockquote>
+&lt;p>“宝剑国王拥有敏锐的洞察力，代表绝对的理性。但是情绪高涨的时候，就算是理性也未必能够胜过澎湃的思绪。他说出的真相往往尖锐伤人。有些人宁可捂住耳朵，活在谎言中，这样就能逃避痛苦。”——米丝蒂&lt;/p>
+&lt;p>位置在天蛾酒吧附近，对应着亚历克斯。亚历克斯看透了新美国的欺压和利用，即使在与李德的再次碰面时情绪起伏较大，但很快地她又展现出理性的一面，之后冷血地对付黑客和汉森。&lt;/p>
+&lt;p>对应于玩家的抉择则是，V的信念是想要自己活下去，在审判日这个节点，可以认为是被情感所驱使，选择了相信百灵鸟的“拿不出担保”，而最后通过深入思考和判断，将欺骗自己的百灵鸟交给了李德，以此换活下去的机会。&lt;/p>
+&lt;blockquote>
+&lt;p>圣杯国王&lt;/p>
+&lt;p>圣杯国王富有创造力、非常感性。他们是坚强的个体，能够认识到情绪的重要性，行为处事依靠直觉。受到命运眷顾的时候，他们充满了同情心。可一旦被命运冷落，那么信任他们将是非常不明智的。&lt;/p>
+&lt;/blockquote>
+&lt;p>“如果你遇上了这张牌暗指的人，那么就千万要当心。一方面，圣杯国王代表了理解，感情上的平衡。另一方面则恰恰相反：操纵人心，还有精神上出现危机。”——米丝蒂&lt;/p>
+&lt;p>位置在在进入狗镇大门口，对应百灵鸟。在李德线中，我们能够深入了解百灵鸟的过去，富有才华而真性情，而行为处事依靠直觉，这也使得百灵鸟虽然欺骗了别人，但一直遭到背叛。而在李德线最后，她已深陷于一个精神上的困境。&lt;/p>
+&lt;p>对应于玩家的抉择则是，相信李德给出的解决方案体现了对情境的理解，背叛百灵鸟则是情感上的残酷。而在最终选择，将百灵鸟从痛苦中解脱，则体现了深深的同情和尊重百灵鸟的意愿。&lt;/p>
+&lt;blockquote>
+&lt;p>钱币国王&lt;/p>
+&lt;p>钱币国王专横霸道。他们代表了进取、务实，但同时还有依附。这样的人可以对物质财富十分冷漠，也可以非常迷恋。也许他们早晚有一天会把你的世界闹个天翻地覆。&lt;/p>
+&lt;/blockquote>
+&lt;p>“表示一个人通过坚韧不屈的意志，建立了一个富有而强大的国度。这种人很危险，V。身居高位，看到的世界也不一样。你的统治会不断受到挑战。我觉得光这样还不够。厄运的力量比你想象得要可怕。但我一直说， 跟随你的内心。就算失败，你依然可以保持真我。”——米丝蒂&lt;/p>
+&lt;p>位置在救下总统后的藏身处，对应总统迈尔斯。迈尔斯处于权力的顶峰，带着务实与稳重的策略领导着新美国，但同样表现出对手下冷酷与专横，将他们视作自己的棋子，关键时刻也不惜牺牲棋子。&lt;/p>
+&lt;p>对应于玩家的抉择则是，不相信百灵鸟的“没有担保”反映出对情境的务实考量，而最后拒绝百灵鸟的要求，依附于新美国，从而换取了物质上的利益（如手术）和精神上的认可（如勋章）。&lt;/p>
+&lt;blockquote>
+&lt;p>高塔&lt;/p>
+&lt;p>高塔预示着剧变、混乱与毁灭。闪电劈中高塔，代表埋在废墟下的旧秩序即将返回，并从中诞生新的秩序。它象征着悲剧、最终审判和自我毁灭。&lt;/p>
+&lt;/blockquote>
+&lt;p>从字面上看，寓意已经相当明确，暗指了剧烈的变故和灾难，与制作组呈现的结局比较吻合。这一结局设计无疑是大胆的，高塔中的V不仅是自己成为普通人，而且周遭的朋友要么离去，要么信念与理想被现实打败。也应了德克斯特的那句话“无名小卒，还是名扬天下。”对许多玩家而言，这无疑是一种“失败”。&lt;/p>
+&lt;h3 id="棋子">棋子&lt;/h3>
+&lt;blockquote>
+&lt;p>“赛博朋克的风格主线，就是反映出科技高度发展的人类文明，与脆弱渺小的人类个体之间的强烈反差，同时外界与内在，钢铁与肉体，过去与未来，现实与虚幻等矛盾在其中交织。看似对立，宿命却链接在一起。把人异化物化成为资源、工具，改造人成为主题。”——&lt;a href="https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B">维基百科&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>在往日之影中，制作组对赛博朋克的核心进行了更深层次的挖掘，总统迈尔斯代表着体制，而百灵鸟、李德和亚历克斯则是其麾下的三枚棋子，简单来说故事讲述的是三枚棋子如何面对体制，每个角色因其独特的背景、信仰和困境，做出了不同的选择，这些选择进一步塑造了他们的命运。&lt;/p>
+&lt;p>首先是百灵鸟，作品用了最多的篇幅来塑造，角色形象最为突出。她和体制的关系也比较清晰，从一开始的被迫入局，到后来完全不相信并痛恨体制，在出现生命危机后，不惜一切代价想要逃离，她展现了赛博朋克中最为核心的反叛精神。她的决策和行动，很多时候都与V相似。&lt;/p>
+&lt;p>其次是亚历克斯，相较之下就微妙很多。她看透体制的丑陋，联情局会先给出承诺并且兑现，但突然有一天命根子就被捏手上，从而不得自已。不过因为她没有像百灵鸟那样直接的生命危机，就选择了更为保守的策略，留在狗镇。虽然就算逃回去也只会被上级骂，还是选择留下，她知道回去后自己还是棋子任总统摆布，因此她是在等待一个转机，希望能从中找到自己的出路。&lt;/p>
+&lt;p>最后是李德，李德其实在我看来，是极为复杂的角色，充满了矛盾，简单地将他归为与竹村类似的“忠犬”是不足以捕捉他的全貌。他是陷入体制最深的人，在被联情局陷害之后，竟在七年后再度选择为其效力。他清楚自己不过是一个棋子，但他选择了服从而非反抗。&lt;/p>
+&lt;p>李德的服从背后，藏匿了他对控制的深刻渴望。体制往往试图控制和管理一切，确保一切都在其掌控之中，如李德被联情局控制生死。而李德或许潜移默化地受到了体制的影响，表现出强烈的控制欲，就像一个大老爹一样，想要左右一切。
+李德的行为反映出他对自我身份和存在意义的迷茫。他试图通过控制环境和他人来为自己创造一个稳定的定位，并期望通过“拯救”他人来填补自己的内心空虚。&lt;/p>
+&lt;p>注意到一个细节，在高塔结局中，V问李德，是否当初有更好的选择，李德答复是“不知道”。而面对同样的问题，老维则断然回答“没有”。老维已被生活压垮，而李德就像是捂着耳朵不愿去思考，想必也许他已经清楚自己的处境，但他选择不去深究，更不会选择反抗。&lt;/p>
+&lt;p>而如果杀死李德，就会掉落他的枪，枪名为“弃子”，在棋局中，弃子代表被舍弃的、不再有价值的棋子，暗示着其在大局中的可替代性与无足轻重。这与李德的命运有着高度的一致性。这个细节也让我们深思，在这样一个充满控制、资本、政治和权力斗争的赛博朋克世界中，每个个体是否都如同“弃子”一样，不可避免地受制于更大的权力机构？&lt;/p>
+&lt;h3 id="phantom-liberty">Phantom Liberty&lt;/h3>
+&lt;blockquote>
+&lt;p>“《往日之影》是十分文艺的翻译，Phantom Liberty——Phantom即为幻影的意思：something that appears or seems to exist but is not real or is imagined 意味着某些事物的出现和存在只不过是不真实或者是幻想。与其说是往日之影，不如说是虚妄的自由。”&lt;/p>
+&lt;/blockquote>
+&lt;p>Phantom暗示的是某种存在但又难以触及或实质化的事物。就如同幻影，它虽然清晰可见，但当你试图触及它时，它便会消散。这里的“Liberty”指那种表面上的、看似真实但实则难以达到的自由。在一个赛博朋克的世界中，真正的自由反而变得更加遥远和虚无。游戏中的每一位角色，不论是百灵鸟、亚历克斯还是李德，他们的命运与这“虚妄的自由”息息相关。&lt;/p>
+&lt;p>对百灵鸟来说，她追求的“自由”意味着摆脱联情局的束缚。但这只是一种短暂的解脱，当火箭冲上天际，强尼说她自由了，但她真的自由了吗？或者还是会成为夜式公司的“小白鼠”？&lt;/p>
+&lt;p>对于亚历克斯，“虚妄的自由”似乎是与体制达成的某种暂时的和解，期望在完成任务后能够安然退休。但这种期望完全依赖于联情局的承诺，而这个承诺是飘渺而不确定的，随时都可能收回去。&lt;/p>
+&lt;p>对于李德而言，“虚妄的自由”体现在他坚信自己正在做正确的事——试图“拯救”百灵鸟。然而，这是建立在对她的控制之上，是一种自私、偏执的自由，忽略了他人真正的意愿和需求。&lt;/p>
+&lt;p>而对于V，“虚妄的自由”更像是新美国许诺的手术，V的命运、健康甚至生死，都在新美国的掌控之中，这种承诺意味着他仍然在某种程度上受到体制的限制和束缚。此外，接受这场手术意味着V不得不放弃某些自己珍视的东西——自己的义体、朋友和爱人。这种“牺牲”再次突显了这种“自由”的代价。&lt;/p>
+&lt;h3 id="结">结&lt;/h3>
+&lt;p>往日之影的后劲很大，很大程度上归功于其贴近现实，如同里面被困于体制的三人，在这现实的世界里，有多少人能真正地挣脱体制的束缚？再如高塔，又有多少人在生活中放弃了远大的梦想而普通地活着。这样的结局逼迫着玩家去思考人的局限，去审视可能和自己一样并不“成功”的生活。&lt;/p>
+&lt;p>然而，正如高塔塔罗牌所示，其中暗含着新秩序的诞生。虽然V混入了人群，但本质上还是一个开放的结局，V仍有机会继续寻找人生的意义与价值，即便是在一个似乎无法改变的世界里，人的主体性在此刻凸显。&lt;/p>
+&lt;p>最后，想要用《地海古墓》的一段话作结，也是献给百灵鸟，飞吧，飞往自由的天空。“她渐渐认识到「自由」的沉重。自由是重担，对心灵而言是硕大无朋的奇特负荷，一点也不轻松。它不是白白赠予的礼物，而是一项选择，而且可能是艰难的选择。自由之路是爬坡路，上接光明，但负重的旅者可能永远到不了那个终点。”&lt;/p>
+&lt;h3 id="后记">后记&lt;/h3>
+&lt;blockquote>
+&lt;p>“但人只去向理念寻求答案，故事就变成了空洞的程序，允许无限试错，但永远没有敬畏与惊奇。”&lt;/p>
+&lt;/blockquote>
+&lt;p>已经很长时间没有严肃地写东西了，特别是如此深度的命题。我的能力有限，很多想法无法完美地表达出来。
+在回顾自己的游戏、阅读和观影经历时，我发现我通常更多地依赖直觉判断而非纯粹的理性分析，也更容易与角色产生共鸣，看重作品传达的精神内核和深层意义，而不是过分钻研情节的逻辑严密性。
+每个人对于艺术的接受和欣赏都有自己独特的方式，这也是我们作为独立个体的魅力之一。&lt;/p>
+&lt;p>参考&lt;/p>
+&lt;p>&lt;a href="https://www.douban.com/review/15471540/">Phantom Liberty完整故事情节 （完整剧透）&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://b23.tv/NRFOqZ3">发现任务名是歌词了么？赛博朋克2077DLC往日之影里的中国摇滚&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://b23.tv/RlWVnRv">往日之影的任务名称究竟致敬了多少音乐？【上】&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bilibili.com/video/BV1zw411w7yw/">往日之影的任务名称究竟致敬了多少音乐？【下】&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://mp.weixin.qq.com/s?__biz=MzI3Mjg2MjgxMw==&amp;amp;mid=2247484727&amp;amp;idx=1&amp;amp;sn=f1f9f81e844147357c359202f1425eba&amp;amp;chksm=eb2d5e05dc5ad713aab3ef109f245a38f4ce1b639b60a45de9487d894180f01568cbe91ad7f8&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=1007N0YEr1dNfsgiLowod8cE">《赛博朋克2077：往日之影》通关随笔&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.bilibili.com/video/BV1rm4y1G73Q">赛博朋克2077往日之影 明天未可知 狗镇塔罗牌位置&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://tieba.baidu.com/p/8634496896">所罗门·李德人物分析&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.zhihu.com/question/623845021/answer/3237995074">如何评价《赛博朋克2077》DLC往日之影新增的“高塔”结局？&lt;/a>&lt;/p></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>《中国女工》随想</title><link>https://zdaneel.github.io/femi/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%B7%A5/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%B7%A5/</guid><pubDate>Fri, 05 Aug 2022 16:24:08 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>书的背景是上世纪的8-90年代，也就是改革开放之后，外资开始进入大陆内地，标题“中国女工”四个字其实就点明了这本书讲述的对象，三个身份“中国”、“女性”、“工人”，也分别对应了三重的压迫，分别是政治、文化和经济三个角度，具体来说“中国”对应着社会主义制度，“女性”对应着社会文化上的父权制，而“工人”则对应着经济上的国外资本主义。因为我缺少社会学的相关概念和理论知识，对我而言这本书并不好读，有不少地方只能是粗粗略过，似懂非懂，不过收获还是颇多。短短的二十年内天翻地覆，书中讲述的情况想必也会有了很多的变化，不然这本书依然是一个很优秀的社会学研究报告，能够从中窥见那个年代下中国女工的种种遭遇。&lt;/p>
+&lt;p>简单描述一下那个时代的一些场景：一个外资企业，管理层都是男性或者是“男性化”的女性，工人们大多都是女性，管理城市的政府通过“管理工人数量”的理由，向外资企业收取费用，通过户籍制度来管理农村和外地的工人，除了打工，就无法在城市居住，更别提享受城市的资源。农村的一位女性，大概率会通过在工厂里的亲戚介绍而出去打工，在工厂里有亲属关系的往往会聚在一起，外出购物的时候也会想办法让自己不那么“土”，在工厂里高强度的工作会带来许多的慢性疾病，可能到25岁左右，就要考虑回农村结婚生子。&lt;/p>
+&lt;p>性别显得尤为突出，与毛时代的工人去性化完全相反，毛时代没有区分性别，是因为极度缺乏劳动力，所谓的“妇女解放”，可以看作是为了增加劳动力，这种给予的权力，而不是争取来的权力，很容易说回收就被回收了。而改革开放以后对工人进行性化，用书中的话来说：“女性的行为应该符合文化的要求，恭顺、服从、勤劳、温柔等。管理者利用这些女性行为规范作为借口，培养出听话服从的女性身体劳动力。这是一种规训论述。”简单来说，就是这些企业认为女性听话、好控制。但现实不会这样符合他们的幻想，女工们是具有主体性的，她们也在用自己的方式反抗这些霸权与规训，书中就花费了很多的笔墨来描述女性身体在现代规训技术下的一系列化学反应。&lt;/p>
+&lt;p>自媒体时代，尤其是短视频的兴起，给了社会中弱势群体表达和展露自我的平台，抛去短视频的其他争议不谈，能让更多本没有话语权的人说话，这毫无疑问是从古至今的一项创新之举，某种程度上具有对官方话语的对抗，在富士康的某个视频里面，墙壁上宏大的价值观和口号，与疲惫迷茫的人们形成了极强的反差，这一种撕裂的感觉也存在于社会各处，个人的苦难似乎不值得一提，甚至还会被美化，就像一种集体性的PUA。&lt;/p>
+&lt;p>虽然短短的二十年发生了很多的变化，但有很多的东西依然没变，那个时代的场景放到现在，相信也存在于社会的各个地方吗，在这样的一个时代里，我们还能做些什么呢？&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>Logisim基础</title><link>https://zdaneel.github.io/tech/logisim%E5%9F%BA%E7%A1%80/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/logisim%E5%9F%BA%E7%A1%80/</guid><pubDate>Wed, 27 Jul 2022 15:50:36 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="新手上路实验">新手上路实验&lt;/h1>
 &lt;h2 id="一概述">一、概述&lt;/h2>
 &lt;p>&lt;a href="https://github.com/Logisim-Ita/Logisim">下载地址&lt;/a>&lt;/p>
 &lt;p>使用的是Logisim的Ita版本，支持简体中文&lt;/p>
@@ -412,7 +785,284 @@
 &lt;p>此时发现有蓝线的出现，说明还有问题存在，接下去就是找bug环节&lt;/p>
 &lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202206012112799.png" alt="">&lt;/p>
 &lt;h2 id="四测试">四、测试&lt;/h2>
-&lt;p>右击指令存储器编辑内容，打开.hex文件，之后进行测试&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>Intro to Machine Learning</title><link>https://zdaneel.github.io/tech/intro-to-machine-learning/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/intro-to-machine-learning/</guid><pubDate>Fri, 10 Dec 2021 11:27:21 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="intro-to-machine-learning">Intro to Machine Learning&lt;/h1>
+&lt;p>右击指令存储器编辑内容，打开.hex文件，之后进行测试&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>[分享]小心这十类自称女权主义的男性</title><link>https://zdaneel.github.io/femi/%E5%B0%8F%E5%BF%83%E8%BF%99%E5%8D%81%E7%B1%BB%E8%87%AA%E7%A7%B0%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E7%9A%84%E7%94%B7%E6%80%A7/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E5%B0%8F%E5%BF%83%E8%BF%99%E5%8D%81%E7%B1%BB%E8%87%AA%E7%A7%B0%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89%E7%9A%84%E7%94%B7%E6%80%A7/</guid><pubDate>Tue, 14 Jun 2022 16:24:08 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="小心这十类自称女权主义的男性">小心这十类自称女权主义的男性&lt;/h1>
+&lt;p>文章翻译来自微博WeFm字幕组，字幕组在两年前就停止更新。原文是一张长图，阅读和检索起来比较麻烦，于是将其转成文字&lt;/p>
+&lt;blockquote>
+&lt;p>August 8, 2016 by Melissa A. Fabello and Aaminah Khan&lt;/p>
+&lt;p>翻译：爱大圣 校对：elbereth 美工：茄茄&lt;/p>
+&lt;/blockquote>
+&lt;p>当一个男人自称女权主义者时，对一个女人来说，他潜在的危险性是最大的。&lt;/p>
+&lt;p>但是，很多女权主义者，甚至其他女性都不以为然。他们说：“你怎么能分化自己的同盟呢？”、“你希望他们能有多完美？”、“为什么你总是不信任别人？”、“你是受过多大心理创伤？”&lt;/p>
+&lt;p>但是，如果你是个女权主义者，正在追求与男性的恋爱及性关系，那么在约会时小心一点是很有必要的。这是一个需要注意的问题，保持警愓很重要。&lt;/p>
+&lt;p>男性女权主义者对他们的男子气概社会化并不免疫一一男子气概社会化本身就是个有害的概念。他们应该努力去消除这种影响。但是一些“男性女权主义者”利用社会公平的修辞，作为他们侮辱女性行为的掩护。这样的事例比比皆是，还有更多的受害者由于害怕而沉默。显然，我们这些所谓的“同盟”将有毒的男子气概与女权主义结合，创造出了一种可怕的混合物。&lt;/p>
+&lt;p>所以，听取我们的建议：..小心男性女权主义者..。&lt;/p>
+&lt;p>因为有些时候，在女权主义的外表掩盖下往往隐藏着可怕的事实。&lt;/p>
+&lt;h2 id="一小心那些想要控制你性行为的男性女权主义者">一、小心那些想要控制你性行为的男性女权主义者&lt;/h2>
+&lt;p>小心那些学了诸如解放、正面身体以及性主动这些词，并且利用这些词来让你觉得不跟他上床简直内疚的男人。（Body positive 正面身体：指无论身体状态如何都以正面态度接受的一种倡导。）&lt;/p>
+&lt;p>小心那些嘴上说着“我支持女性解放”，真正含义却是“我支持女人有性的主动权，但只在对我有益的情况下”的男人。&lt;/p>
+&lt;p>小心那些支持你进行性行为的权利，但却无视你不愿进行性行为的权利的男人。&lt;/p>
+&lt;p>小心那些在发生性行为时，不让你拒绝、要求你“多点花样”、（用性解放来说服你 )希望你“自己动”的男人。&lt;/p>
+&lt;p>小心那些口口声声说“不意味着不”，但实际上却认为不拒绝就是同意的男人。当他们自己的这种性暴力被质疑时，他们会辩解道：“你知道我做反强奸工作的。”&lt;/p>
+&lt;p>小心那些说着“不意味着不&amp;quot;，但却告诉你那些大胆控制自己的身体，掌握性主动权的女人有什么下场都是她们自找的那些男人。&lt;/p>
+&lt;p>小心那些声称自己反对强奸，但却认为既然碧昂斯已经成了妈妈，就不该“ 穿成那样”的男人。&lt;/p>
+&lt;p>小心那些爱看 A 片，却看不起性工作者的男人。&lt;/p>
+&lt;p>小心那些声称“真正的男人”不会那么做，就将自己与实施性犯罪和身体暴力的男人划清界限的男人。&lt;/p>
+&lt;p>小心那些不给你机会表达自己在性方面的欲望和界限的男性。他们强烈地表演着平等的样子，却从不实践公平的规则，他们口口声声说希望你说出自己的想法，但却从来不问。&lt;/p>
+&lt;p>你的性 / 无性行为属于你自己。&lt;/p>
+&lt;h2 id="二小心那些对你的外表指手画脚的男性女权主义者">二、小心那些对你的外表指手画脚的男性女权主义者&lt;/h2>
+&lt;p>小心那些不喜欢你的红色口红因为它“并不女权主义”，但是却声称和他们发生性关系可以将你从男权社会中解放出来的男人。&lt;/p>
+&lt;p>小心那些质疑你使用睫毛膏或者剃毛刀并告诉你：“你不用为我这么做”，却无视你说你并不是为了他的男人。&lt;/p>
+&lt;p>小心那些对你说你在不化妆，不穿高跟鞋以及你喜欢的超短裙时更漂亮的男人——就好像你做这些是为了讨他们的欢心似的。&lt;/p>
+&lt;p>小心那些暗示你“素颜”也很美——表面上是要帮你摆脱父权社会的束缚一一然后告诉你裸色系的唇膏比亮色好看的男人。&lt;/p>
+&lt;p>小心那些看到穿比基尼的苗条姑娘就倡导“正面身体运动”，但是用截然不同的态度对待穿比基尼的胖姑娘的男人。&lt;/p>
+&lt;p>小心那些用他们的前任来证明自己是个“机会平等、积极平权法案”的约会对象的男人。（积极平权法案：大名鼎鼎的 AA，在这里也就是各种族尽量按比例分配的意思。）&lt;/p>
+&lt;p>小心那些认为他们只和白人女孩约会仅仅是“喜好问题”，但是如果你不喜欢他们就是你不公平对待各种族的男人。&lt;/p>
+&lt;p>小心那些总是问 “你这么折腾是为了谁？”的男人，就好像为自己开心而好好打扮的理由不够充分似的。&lt;/p>
+&lt;p>只有你自己能决定如何打扮你的身体。&lt;/p>
+&lt;h2 id="三小心那些在性别平等的面具下藏着虐待手段的男性女权主义者">三、小心那些在性别平等的面具下藏着虐待手段的男性女权主义者&lt;/h2>
+&lt;p>小心那些用社会公平说辞来操纵你的男人。&lt;/p>
+&lt;p>小心那些当你不同意他们的观点时，用“煤气灯光效应“这种词来指责你的男人。(gaslighting 煤气灯光效应：用来指代一种通过持续否认、错误指引、自相矛盾、撒谎等方式，操纵他人，使得被操纵者对自身想法产生动摇和怀疑的一种行为。）&lt;/p>
+&lt;p>小心那些将他们受压迫的社会交叉身份作为他不可能对你施虐的证据的男人一一因为你比他们拥有更多的社会权力。&lt;/p>
+&lt;p>小心那些声明自己支持反暴力工作，但是却在自己的恋爱交往中施暴的男人。&lt;/p>
+&lt;p>小心那些告诉你“施虐者动力学”就是当你生气而又说不出理由是因为此刻的你已经气到无法思考的男人。&lt;/p>
+&lt;p>小心那些在经济上剥削你，还斥责你比他挣得多的男人。&lt;/p>
+&lt;p>小心那些一生气就用婊子、荡妇、贱人这些词来称呼你或者其他女性的男人。&lt;/p>
+&lt;p>小心那些知道自己在女权主义者社群中的地位比你高，并直接或间接以此来压制你的男人。&lt;/p>
+&lt;p>小心那些问你：“你是在说我是个糟糕的女权主义者吗？”的男人一一说得好像这点指责比他们带给你的伤害还重要；说得好像这不是个转换话题的策略似的。&lt;/p>
+&lt;p>小心那些在女性研究课程中了解到某某女权主义者，然后在吵架时引用她的话来转移话题，让你闭嘴的男人。&lt;/p>
+&lt;p>小心那些打着你需要激进化的幌子，迫使你采取适合他们的行为和意识形态的男人。&lt;/p>
+&lt;p>如果他们运用权力，控制你，不管他们伪装得多么完美，这就是虐待。&lt;/p>
+&lt;h2 id="四小心那些将女性特质视为竞争工具的男性女权主义者">四、小心那些将女性特质视为竞争工具的男性女权主义者&lt;/h2>
+&lt;p>小心那些告诉你你比其他女孩聪明、成熟得多，他们从来没见过像你这么有见识的女孩的男人。&lt;/p>
+&lt;p>小心那些说他们只跟聪明的姑娘或者自由派的姑娘又或者激进的姑娘上床的男人，好像这些事情对他们而言只是表演似的。&lt;/p>
+&lt;p>小心那些把你当成能把他们带到女权主义仙境的疯狂梦想仙子的男人。（疯狂梦想仙子：一种常见的电影人物类型，指一种人物单薄，充满“正能量”，在电影中的存在意义仅限于带领男性在生活中冒险，寻找美好和梦想的女性人物。典型形象如《伊丽莎白镇 》中科斯汀 • 邓斯特扮演的克菜尔。）&lt;/p>
+&lt;p>小心那些觉得自己可以裁定女性 “够不够女权”，却又把没达标的女性视作可接受的追求目标的男人。&lt;/p>
+&lt;p>小心那些将女人分为“好”和“坏”两类，然后让你们自相攻击的男人。&lt;/p>
+&lt;p>小心那些依据自己对女性行为的接受程度而将女性分为“女孩”、“女人”和“女性”的男人。&lt;/p>
+&lt;p>小心那些质疑其他女人的女权主义是否本真的男性。&lt;/p>
+&lt;p>小心那些只有当你服从他们关于女权主义、女性特征、女性气质的观念时，他们才会对你表现出爱和尊重的男人。&lt;/p>
+&lt;p>女性特征不是竞争工具。&lt;/p>
+&lt;h2 id="五小心那些在辩论中将男性定义的客观性作为手段的男性女权主义者">五、小心那些在辩论中将男性定义的客观性作为手段的男性女权主义者&lt;/h2>
+&lt;p>小心那些认为客观性比主观性更重要的男性，特别是那些把自己当作客观性定义的终极仲裁者的男人。&lt;/p>
+&lt;p>小心那些嘴上说着支持女性，但是在关于女性权利的讨论中，又让你觉得女性不如男性“理性”因此不如他们聪明的男人。&lt;/p>
+&lt;p>小心那些在你谈论自己的亲身经历时仍然不断质疑，跟你“抬杠”的男人。&lt;/p>
+&lt;p>小心那些认为理性人应该永远将艺术家和他们的作品分开看待的男人，即使那个艺术家是暴力的性侵老手。&lt;/p>
+&lt;p>小心那些对你说你“反应过度”的男人。&lt;/p>
+&lt;p>小心那些染指女权主义领域，为其注入男性“逻辑”、“理性”和“理智头脑”的男人。&lt;/p>
+&lt;p>小心那些不承认自己有偏见的男人。&lt;/p>
+&lt;p>小心那些当你联系自己的生活经验时，第一句话是：“好吧，实际上”或者“并不全是这样”的男人。&lt;/p>
+&lt;p>小心那些曾经用“ 不讲理”、“情绪化”这些词来阻止你发表想法的男人。&lt;/p>
+&lt;p>小心那些虽然自称女权主义者，但和你的意见相比，却更愿意听取其他男性意见的男人。&lt;/p>
+&lt;p>小心那些认为批判有害的男子气概就是对他们人身攻击的男人一一仅仅因为这样的批评戳到了他们的痛处。&lt;/p>
+&lt;p>他们可以不带任何感情地看待你的生活经历，只能证明他们拥有更多特权，并不能证明他们比较聪明。&lt;/p>
+&lt;h2 id="六小心那些双标的男性女权主义者">六、小心那些双标的男性女权主义者&lt;/h2>
+&lt;p>小心那些觉得拥有很多女性朋友就能说明他自己是个合格的女权主义者，但却会为了你跟异性出去喝咖啡而生气（甚至更糟糕）的男人。&lt;/p>
+&lt;p>小心那些在相处过程中让你感到不舒服的男人。&lt;/p>
+&lt;p>小心那些跟你的朋友讨论女权主义，却跟他的朋友开强奸玩笑的男人。&lt;/p>
+&lt;p>小心那些认为自己表达愤怒就是积极关注情绪，而你生气就是荷尔蒙作崇的男人。&lt;/p>
+&lt;p>小心那些认为避孕是你的责任，并认为既然有这么多避孕的方法可供你选择，你应该感到幸运的男人。&lt;/p>
+&lt;p>小心那些嘴上说着从不会伤害你，但是当你在喝酒的时候，却像苍蝇一样粘着你，想要（在没有第三个人的情况下）“照顾”你的男人。&lt;/p>
+&lt;p>小心那些想要“到处拈花惹草”，探索他们“非男权性行为新大陆”，但是却希望你能一直等待，直到他们想要安定下来的男人。&lt;/p>
+&lt;p>小心那些一边着了魔似的追求你，一边跟他们“疯狂”的前女友纠缠不清的男人。&lt;/p>
+&lt;p>小心那些认为你需要省钱，尽管你自己说你不需要的男人。&lt;/p>
+&lt;p>当你注意到他们的虚伪时，你并没有错。&lt;/p>
+&lt;h2 id="七小心那些坚持不健康的交流方式只因为这对他们有益的男性女权主义者">七、小心那些坚持不健康的交流方式，只因为这对他们有益的男性女权主义者&lt;/h2>
+&lt;p>小心那些十分重视让你在“交流”中分享感情和想法，却不分享自己的感情和想法的男人。&lt;/p>
+&lt;p>小心那些把自己的情绪一股脑儿抛给你，假装他们的脆弱（让你承受他们的负担）是一种女权主义者的表现的男人。&lt;/p>
+&lt;p>小心那些专门找女性为他们治疗情感创伤的男人。&lt;/p>
+&lt;p>小心那些把你当做倾诉对象来释放自己内心与男子气概的斗争的男人。&lt;/p>
+&lt;p>小心那些只抱怨要表达自己的全部感情是多么困难，却从来不真正表达情感的男人。&lt;/p>
+&lt;p>小心那些坚持由自己来决定你们应该何时谈心、如何谈心的男人。&lt;/p>
+&lt;p>小心那些当你不愿为了让他感觉舒适而隐藏自己的愤怒和痛苦时，表现得很受伤的男人。&lt;/p>
+&lt;p>小心那些在你的诗歌小组朗读普拉斯和伍尔夫以及在你看得见的地方哭泣而使你有安全感，但实际上并未与你感同身受的男人。&lt;/p>
+&lt;p>小心那些声称自己要“冷静一下”，但实际上却在跟你冷战的男人。&lt;/p>
+&lt;p>小心那些从不非暴力交流的男人。&lt;/p>
+&lt;p>小心那些声称支持反暴力工作，但在跟你的交流中表现得很暴力的男性。&lt;/p>
+&lt;p>健康的交流是双向的。&lt;/p>
+&lt;h2 id="八小心那些把你的女权主义视作自己的进身之梯的男性女权主义者">八、小心那些把你的女权主义视作自己的进身之梯的男性女权主义者&lt;/h2>
+&lt;p>小心那些认为在女权主义者的运动中，自己理所应当做领导角色的男人。&lt;/p>
+&lt;p>小心那些把你当作他们获得话语权、出书合约和署名权的垫脚石的男人。&lt;/p>
+&lt;p>小心那些整个职业生涯就完全来自“我是多么的女权”的男人。&lt;/p>
+&lt;p>小心那些女权履历跟他们的行为不匹配的男人。&lt;/p>
+&lt;p>小心那些从不和你建立对等关系的男人。&lt;/p>
+&lt;p>小心那些说没有把工作机会给你是为了保护你，因为你“工作负担已经太重”，却把工作机会留给自己的男人。&lt;/p>
+&lt;p>小心那些不会将你的工作与他们的朋友、家庭以及人际交往圈分享的男人。&lt;/p>
+&lt;p>小心那些说话滴水不漏，以至于让你光顾着听其言，而忘了观其行的男人。&lt;/p>
+&lt;p>你的成功属于你自己。&lt;/p>
+&lt;h2 id="九小心那些否认你酷儿身份的男性女权主义者">九、小心那些否认你酷儿身份的男性女权主义者&lt;/h2>
+&lt;p>小心那些为了自己的需求而意淫你酷儿属性的男人。&lt;/p>
+&lt;p>小心那些认为“允许”你与其他的女性发生性行为是性解放，但却觉得如果你跟其他男性发生性行为就是背叛的男人。&lt;/p>
+&lt;p>小心那些本身是同性恋或者“支持同性恋”，但是却不赞同你的酷儿属性，仅仅因为你的酷儿属性不够符合他们喜好的男人。&lt;/p>
+&lt;p>小心那些没有经过你的同意将你的酷儿属性当做情色短信素材的男人。&lt;/p>
+&lt;p>小心那些一定要进入你酷儿圈子的男人。&lt;/p>
+&lt;p>小心那些“支持个人选择权&amp;quot;，却在你的性行为没有满足他们的欲望时，用反酷儿话语来攻击你的男人。&lt;/p>
+&lt;p>小心那些了解酷儿性，进入酷儿圈子，只是为了吹嘘自己是如何屈尊跟跨性别人士上床的男人。&lt;/p>
+&lt;p>你的身份理应受到肯定和尊重。&lt;/p>
+&lt;h2 id="十小心那些忽略你社会交叉身份的男性女权主义者">十、小心那些忽略你社会交叉身份的男性女权主义者&lt;/h2>
+&lt;p>小心那些不承认你所经历过的多重歧视与圧迫的男人。&lt;/p>
+&lt;p>小心那些用他们受压迫的多重身份做例子来反驳你的论点的男人。&lt;/p>
+&lt;p>小心那些觉得真正的问题或者唯一的问题就是阶级歧视的男人，他们因为你不符合他的运动的诉求而批评你，甚至在他自己也不符合你的运动的诉求时，他依然觉得自己有脸批评你。&lt;/p>
+&lt;p>小心那些说“这跟 A 压迫没关系，这全是属于 B 压迫”的男人。&lt;/p>
+&lt;p>小心那些试图把你拉入跨性别恐惧症，妓女恐惧症和厌女症群体的男人。&lt;/p>
+&lt;p>小心那些反反复复发誓说 “不是因为那个”的男人，其中，“那个”指的是你持有的边缘化身份。&lt;/p>
+&lt;p>小心那些只谈论自己因社会多重身份所受到的压迫，而闭口不谈他们由于社会多重身份所获得的特权的男人。&lt;/p>
+&lt;p>如果他们的女权主义没有社会多重性，那就一文不值。&lt;/p>
+&lt;p>小心那些对这篇文章感到不安的男性。&lt;/p>
+&lt;p>小心那些拒绝阅读这篇文章的男性。&lt;/p>
+&lt;p>小心那些否认这就是自己的男人。&lt;/p>
+&lt;p>小心那些认为他们自己才有权利评判他们是不是“合格的”女权主义者一一你的评论毫无意义的男人。&lt;/p>
+&lt;p>小心那些不经常自我反省，自我定位的男人。&lt;/p>
+&lt;p>小心那些得意于自己的女权主义者身份并且认为仅仅有这个标签就足够了的男人。&lt;/p>
+&lt;p>小心那些认为女权主义使他们战无不胜的男人。&lt;/p>
+&lt;p>小心男性女权主义者。&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>&lt;a href="http://everydayfeminism.com/2016/OB/reasons--to-beware--feminist--men/">原文&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://share.api.weibo.cn/share/313491653,4170499758030405.html?weibo_id=4170499758030405">翻译原文&lt;/a>&lt;/p>
+&lt;p>侵删&lt;/p>
+&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>2021年度总结</title><link>https://zdaneel.github.io/posts/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/2021%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><pubDate>Fri, 31 Dec 2021 00:49:50 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="2021年度总结">2021年度总结&lt;/h1>
+&lt;p>2021年马上就要结束了，这一年来我写了很多文字来记录自己的生活，把这些文字放到一个文档里，大约一共有18万字，用程序生成了下面的词云图，可以直观看到我的高频用词，在某种程度上代表了我的2021。不过记录下的只是生活的一小部分，更多瞬间、体验与情感无法在词云中呈现，那些真正属于我的生命感触。&lt;/p>
+&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112250054791.png" alt="2021词云" style="zoom:70%;" />
+&lt;h2 id="一重生">一、重生&lt;/h2>
+&lt;p>今年的谷歌年度关键词是“如何治愈（how to heal）”，对我而言，“如何治愈”也是我的年度关键词。因为我自身的执迷和一位朋友的缘故，我陷入到一种极其低迷的状态里，做的事情得不到肯定、自我尊严不断放低、价值体系毁坏殆尽，害怕、恐惧、痛苦、难受，把一切的过错归结到自己的身上，开始pua自己，觉得自己很糟糕。我也察觉到了这些异样，一开始都是在分析反思这些状态，但常常陷入过度反思，后来情况越来越糟糕，我会因为一些事情一整天都无法集中精力，会因为自我审查不知道该说什么，我才慢慢反应过来情况不妙。&lt;/p>
+&lt;p>暑假的时候我开始定期去看心理咨询，一直持续到8月底，才逐渐看清了我面临的问题。之后就是漫长的疗愈之路，看了一些心理学相关的书籍，在朋友还有同学的帮助与陪伴下，直到12月份，我才走出了那种执迷的糟糕状态，现在写下这些文字的时候，我能感受到内心的坚定与踏实，滋养生命力的源泉涓涓流淌。一档叫做“宇宙乘客”的播客给予了我很大的力量，或者用她们的话说，力量本来就是属于我的，她们只不过是唤醒了这些沉睡的力量。&lt;/p>
+&lt;p>感谢宇宙乘客、感谢我的朋友们，我一度被自己内心中的心魔击垮，但因为有你们，我战胜了心魔，得以继续披荆斩棘、拥抱生活，学会了去释放善意、不吝惜赞美，更大胆也更真诚地表达自己的情感。&lt;/p>
+&lt;h2 id="二女权">二、女权&lt;/h2>
+&lt;p>在词云图中，“女性”一词仅次于“朋友”，这一年来我写了很多与女性处境、女权相关的文字，平常关注的重心也更多偏向性别议题。&lt;/p>
+&lt;p>在2020年的6月份，我看完了《天空的另一半》，同时开始在kiva为贫困地区的女性贷款捐钱，标志着我女权思想的觉醒。2020年之后的一系列事情，金斯伯格大法官的逝世、拉姆的逝世、弦子诉朱军性骚扰案…以及推友、朋友的影响，都让我不断去关注与思考。&lt;/p>
+&lt;p>之前在读李银河的《女性主义》时发现，很多的理论知识读过就忘，没有消化，很长的时间里我都在和理论的东西打交道，但我缺少让理论扎根的土壤，即厚重的生活，女权主义不能仅仅停留在理论，这更应该是一种生命的体验，是一种对更美好生活的探索。&lt;/p>
+&lt;p>明年会把重心放到对母系社会与历史的研究中去，这段时间常常能在时间线上看到友邻在讨论，因为年底实在是很忙，只能等到期末之后再来慢慢了解了。&lt;/p>
+&lt;blockquote>
+&lt;p>如果我们是被生出来的婴儿和男人，我们就总把生看做是被动的。需要一点努力才能理解重育而不是重生，重育是主动的、一种母性的方式：不再像苹果，而是像一棵苹果树那样思考。——《孩子、女人、男人和龙》&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310100625.png" alt="截屏2021-12-31 上午1.00.11">&lt;/p>
+&lt;p>不久前我整理了一些读过的书籍和资料，放到了这个网页里：&lt;a href="https://zdaneel.github.io/femi/feminism/">Feminsm Learning&lt;/a>&lt;/p>
+&lt;h2 id="三折纸">三、折纸&lt;/h2>
+&lt;p>2021年也是我折纸最多的一年，总共完成了36个作品，简单的半个小时就可以完成，而复杂的往往要花上数十个小时，在一次又一次的练习中，我的折纸水平也是肉眼可见在进步。和折纸本身相比，送折纸能带给我更多的喜悦，今年一共送出去六份折纸。&lt;/p>
+&lt;p>我拥有创造和传递美好的能力。&lt;/p>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112260150369.png" alt="6*6">&lt;/p>
+&lt;h2 id="四猫咪">四、猫咪&lt;/h2>
+&lt;p>在今年的6月29日，我家多了一个新成员，是一只玳瑁色的英短，她叫小妮。&lt;/p>
+&lt;p>她陪伴我度过了今年最黑暗的一段时光，很多夜里都贴着她哭泣。她也带来了无数的欢乐，给原本死气沉沉的家中注入了活力，陪伴的美好时光难以用文字进行表达。返校后很久都没有回去，前不久回家，她还记得我，不断过来闻我，没过多久就抱上了，那一晚她特别兴奋，本来睡觉的时间都在跑酷。&lt;/p>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302031979.jpeg" alt="小妮 ">&lt;/p>
+&lt;blockquote>
+&lt;p>拍摄：我爸&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="五新学期">五、新学期&lt;/h2>
+&lt;p>去年7月份时候，成功降级转专业到了计算机，因为很多修过的课程不用再修，于是这一个学年的时间特别充裕，跟现在期末的忙碌形成了强烈的对比。年初在歌德学院报了周末的德语班，每周末坐高铁去上课，上课的形式跟我之前上的课有挺大的不同，绝大多数的时间都在口语练习玩游戏，虽然起初我不太适应，但也慢慢接受了，也打好了一个基础。把未来留学的目标定在了德国，其中原因之一是不用交学费，此外，德国也是相对性别平等，女权在那边是一个基础的价值观，之前有想去日本，但是日本的性别状况比大陆还要糟糕。&lt;/p>
+&lt;p>现在回想，挺后悔当时没有更加好好去玩、去享受空闲的时光，那时候周末的很多时间还是待在了旅馆，计划去的一些博物馆、艺术展览和酒吧都没有去成。&lt;/p>
+&lt;p>在今年的3月28日，一门课的小组实践开始了，我当时挺发愁，因为我认识的新同学半只手就能数过来，已经做好了组野队的准备。转折来了，突然收到消息，新专业的班长提出了要和我组队，于是过了一个半学期，我交到了新专业的朋友。特别喜欢我们的小组，大概这是我第一次在小组里找到了归属感，动力爆棚，一起完成了很多的作业。&lt;/p>
+&lt;p>感谢我的两位组员，新年里给她们最好的祝福。&lt;/p>
+&lt;h2 id="六展望">六、展望&lt;/h2>
+&lt;p>2020的年度总结时，写下了这句话：“希望2021年我能少关注远方，而多去生活，多去关心朋友，用厚实的生活托起反思，也希望能够更好接纳自己。”我觉得我有努力去做到。&lt;/p>
+&lt;p>虽然这一年有很多的遗憾，但这无疑是值得铭记的一年，我现在的精神愈发富足，接下去想做的是更多的创造和分享。&lt;/p>
+&lt;p>2022，希望自己骄傲地去生活吧！&lt;/p>
+&lt;h2 id="七一些图片">七、一些图片&lt;/h2>
+&lt;h3 id="1作业-超声波避障小车看着莫名可爱">1、作业-超声波避障小车，看着莫名可爱&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302343504.jpg" alt="1-1">&lt;/p>
+&lt;h3 id="2quest2一个高性价比的vr设备体验很棒不过容易吃灰">2、Quest2，一个高性价比的VR设备，体验很棒，不过容易吃灰&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302345498.jpg" alt="1-3">&lt;/p>
+&lt;h3 id="3描述挺准好巧我最喜欢的游戏就叫蔚蓝">3、描述挺准；好巧，我最喜欢的游戏就叫蔚蓝&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302347531.jpeg" alt="2-1">&lt;/p>
+&lt;h3 id="4二十岁的生日蛋糕来自哈根达斯">4、二十岁的生日蛋糕，来自哈根达斯&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302348845.jpg" alt="2-2">&lt;/p>
+&lt;h3 id="5送给自己的生日礼物niz宁芝静电膜键盘敲代码文字手感一流">5、送给自己的生日礼物，NIZ宁芝静电膜键盘，敲代码、文字手感一流&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302349904.jpg" alt="3-1">&lt;/p>
+&lt;h3 id="6朋友送的生日礼物很漂亮的叶子发卡">6、朋友送的生日礼物，很漂亮的叶子发卡&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302352335.jpg" alt="3-3">&lt;/p>
+&lt;h3 id="7国潮音乐节第一次去音乐节玩得很尽兴以后考虑和朋友一起去">7、国潮音乐节，第一次去音乐节，玩得很尽兴，以后考虑和朋友一起去&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310005639.jpeg" alt="5-1">&lt;/p>
+&lt;h3 id="8三折独角兽我心中的年度最佳作品已经送给朋友啦">8、三折独角兽，我心中的年度最佳作品，已经送给朋友啦&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112260210720.jpg" alt="神谷独角兽">&lt;/p>
+&lt;h3 id="9小组作业爬了近5000部手机">9、小组作业，爬了近5000部手机&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310013591.jpeg" alt="5-3">&lt;/p>
+&lt;h3 id="10今年最爱的现场从几次的全场大合唱到最后放肆爱时候的疯狂十分难忘">10、今年最爱的现场，从几次的全场大合唱，到最后放肆爱时候的疯狂，十分难忘&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310012334.jpeg" alt="6-2">&lt;/p>
+&lt;h3 id="11沉浸式戏剧体验十分新奇震撼我一整晚强烈推荐">11、沉浸式戏剧体验，十分新奇，震撼我一整晚，强烈推荐&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310013717.jpeg" alt="6-3">&lt;/p>
+&lt;h3 id="12购入apple-watch-series-6今年的骄傲月表带特别好看">12、购入Apple Watch Series 6，今年的骄傲月表带特别好看&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310014476.jpeg" alt="7-2">&lt;/p>
+&lt;h3 id="13购入macbook-air-m1版用了几个月只想说m1永远的神">13、购入MacBook Air M1版，用了几个月只想说M1永远的神&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310018389.jpeg" alt="9-1">&lt;/p>
+&lt;h3 id="14弦子败诉了很难受又很无奈但她所做的抗争是值得的">14、弦子败诉了，很难受又很无奈，但她所做的抗争是值得的&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310020889.jpeg" alt="11">&lt;/p>
+&lt;h3 id="15圣诞节成功发射的韦伯望远镜希望后续一切顺利探索未知的宇宙">15、圣诞节成功发射的韦伯望远镜，希望后续一切顺利，探索未知的宇宙&lt;/h3>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310027245.jpeg" alt="12">&lt;/p>
+&lt;h1 id="再见了2021">再见了，2021&lt;/h1></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>独生之国——反思计划生育</title><link>https://zdaneel.github.io/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E7%8B%AC%E7%94%9F%E4%B9%8B%E5%9B%BD-%E5%8F%8D%E6%80%9D%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/</guid><pubDate>Thu, 30 Dec 2021 21:28:16 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>有朋友提到计划生育的事，我推荐了一部纪录片《独生之国（One Child Nation）》，想起来自己也忘了不少内容，就打算重新看一遍，当时并没有打算写个文章。之后刷微博时，看到不少对这部纪录片的评论让我很不满意，于是马上重看了一遍纪录片，然后开始写这篇文章。&lt;/p>
+&lt;p>纪录片从导演王男栿她老家的一些情况引出，讲述了一系列因为计划生育这项国策给普通人带来的影响，提到了计划生育者、反思者、人口贩子、收养计划等等，最后用一对从小分隔异地的双胞胎姐妹作结，更让人深思。通过一个个真实而又残忍的例子，表达了对这项政策的不满。&lt;/p>
+&lt;p>有人说，纪录片讲述的东西以偏概全，只讲了农村的事情而没有讲城市的事情；就算是农村的事情，地域之间的差异也会有很大。但是我觉得核心问题并不在这里，批评的人可能犯了一个完美主义谬误，因为计划生育这个政策影响到了这个国度中的每一个人，如果要把她们的故事都讲出来，那不是一部短短的纪录片所能做到的。所以我觉得通过讲述几个典型的故事，来触动人心并且引发进一步的思考，这就应该是这部纪录片想要达到的效果。&lt;/p>
+&lt;p>还有人说把这些事情怪罪到政策上面是一件很肤浅的事情，没有考虑更深层次的理由。按我的理解，她想说的理由可能是传统观念里的男尊女卑，把这个当成因素当然是可以的，但这样做其实也很偷懒，而且为什么这一个传统观念根植了千年，却在短短的一段时间内出现如此密集的灾祸和悲剧呢？大量的女婴丢弃事件、妇女结扎堕胎事件、政府参与的弃婴收养事件……这些悲剧后面明显存在另外的人为的因素。在我看来，就应该把它们主要归罪于这个政策，但同时也不能忽略其他的因素。&lt;/p>
+&lt;p>注意到一个情况，很多人都在说，因为这是基本国策，所以就没有办法，只能按照指令去做。不光是那些计划生育者在这么说，就连受到伤害的女性也在这么说。针对前者，让我想到了阿伦特的平庸之恶这个概念。但是呢，前段时间正好看到对这个概念的批评，平庸是平庸，恶是恶，平庸这个概括看起来很完善妥协，但实际上是个虚假的答案，把自由选择当作了特权或者是根本没有考虑。在恶的环境下，计划生育强制执行的时候，为什么这些人没有选择去放弃而是服从了呢？如果把自由选择考虑进来，那么他们所作的就是恶，他们需要承担很大一部分责任。不过这是将自由选择当成前提的，如果他们处在不去做就会被杀或者遭到迫害，那么在这样的情况下又该如何判断呢？比如片中导演的舅舅，因为他母亲的死亡威胁，就把女儿丢弃了，这样的行为又该如何评判呢？目前的我无法给出一个回答。&lt;/p>
+&lt;p>对于后者，就是受到伤害的女性也在这么说：政策就是政策，我遭受的都是命运的安排。显然她们把政策当成了无法质疑的真理一般的存在。考虑到时代背景，中国共产党不断给人民灌输着党的命令是不会错的，对于很多的人来说，可能难以认识到不合理的地方，在这样的不断吸狼奶，其实就是被洗脑的情况下，只能把过错归于自己，归于命运。&lt;/p>
+&lt;p>计划生育这项政策是对女性的巨大伤害，因为传统的观念，很多家庭，尤其是在农村的，都想要一个男孩，但因为计划生育，如果生下来是个女孩，那么这个女孩有可能会遭到杀害或者是抛弃，在纪录片中也可以看到，导演的家人在生下第二胎之前，就已经商量好如果生下来是个女孩，就直接把她给送走。计划生育中有标语这么说：“生男生女都一样”、“以重男轻女为耻”。但是这样的标语，完全不能起到保护女性的作用，只是用来粉饰太平的。说得越好听，越能从侧面体现现实的不公与残酷。&lt;/p>
+&lt;p>这是非常爹味的一个政策，试图去控制女性的身体，比如说结扎和堕胎，这是完全违背了女性自身的意愿而进行的强制性措施。让女性失去了对自己身体的控制权，后来的二胎政策，生育权依然被他们所控制，就像他们控制着其他众多的权利一样。从很久以前开始，生育权就不是归女性所有的，到现在因为避孕产品的发明和人们观念的改善，情况稍微有所改变。在我看来生育权就应归女性所有，丈夫或者是长辈他们所给的只能是建议，而真正选择是否去生育完全取决于女性自己。用纽堡的一段话：“生孩子不是个人行为，而是个社会事件。新生命将许许多多的人调动起来，分工努力，为它的出生和成长做很多事情。”而其中调动者就是女性，由她根据自己能实际调动的人群和可预见的后果来决定生育与否。&lt;/p>
+&lt;p>回到计划生育这一政策上，按照政策的宣传，实行的原因是当时中国人口多，如果不解决，将来不可收拾。那么人口多这个原因合理吗？可以看到，二胎政策放开的时候，中国人口依然很多，那么为什么就不继续计划生育了呢？显然这个决策从一开始就很有问题，引一段Song Ma的话：“人口问题属于共产党制造的伪问题，因为当时他们没有任何管理工业化社会的经验，也没有发展的眼光，不知道工业和服务业对劳动力的吸收作用，只看到原始农业和‘共产主义’社会下人口对资源的消耗，而没有看到资本+劳动力的组合。”这样看来，计划生育就是中共所作出的一项错误政策。执行的时候也有人提出质疑，但显然这个政权不会承认自己的错误。&lt;/p>
+&lt;p>此外还有一个问题，计划生育的实行对控制生育率究竟起了多大的作用呢？在这方面，我比较认同阿马蒂亚·森的观点：女权进步比计划生育效果好。在他的文章中就写道，几十年来中国生育率的大幅下跌，与高压政策的关系较小，与人们做出倾向于少生子女的理性决定的关系远远更大。也就是说，中国女性受教育和就业机会的快速增加使得女性掌握了在家庭中更大的发言权，这往往会降低生育频率。在《天空的另一半》中就可以看到，受教育和就业这两项确实能完完全全改变一个地区女性的地位，也从而降低生育率，而其中并没有计划生育的身影。可以说，计划生育带来了数不清的伤害与悲剧，却成为了共产党的英明政策、成了控制生育率的最大功臣。计划生育者为了目的而不择手段，为了计划生育带来的所谓好处，不惜加害女性、杀害女婴，结果他们所坚持的目的却是虚假的，而他们很多人依然不自知。如此荒诞，就发生在这一个神奇的国度中。&lt;/p>
+&lt;p>四九年以后，解放妇女这一口号的实际目的，其实并不是要改变男尊女卑的观念，真正的目的是为了增加劳动人口，从而促进经济的增长。而改革开放之后，越来越多的女性进入到工厂，带来的是女性地位在社会、家庭中地位的上升，但这种上升并不是因为人们对于男女不平等观念的改观，实际上其实是一种对钱的敬畏，因为这个社会尊崇金钱和权力，而妇女有了金钱后，她们的地位自然就提升了。但是，这个社会依然是父权社会，厌女的现象随处可见，数不清的女性仍然遭受着不公与伤害：性别歧视、性骚扰、荡妇羞辱……&lt;/p>
+&lt;p>最后用纽堡的一段话作结：&lt;/p>
+&lt;p>“发生过的不会被擦除。重要的是坚持信念，坚持为信念注入力量。权力依赖力量，权力也害怕力量。只要人为真正的信念注入力量，就有遏制、改写权力的那天到来。”&lt;/p>
+&lt;p>附：阿马蒂亚·森的&lt;a href="https://cn.nytimes.com/opinion/20151103/c03sen/">文章&lt;/a>&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>[分享]你男朋友</title><link>https://zdaneel.github.io/femi/%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E4%BD%A0%E7%94%B7%E6%9C%8B%E5%8F%8B/</guid><pubDate>Wed, 29 Dec 2021 12:32:30 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="你男朋友">你男朋友&lt;/h1>
+&lt;p>对人家来说没什么是不可以解构的，对你男朋友来说没什么是不可以反转的&lt;/p>
+&lt;p>你男朋友这么迷恋反转，应该是有人把他的脑子和屁股的位置反转了&lt;/p>
+&lt;p>你让你男朋友在马云 马化腾 马克扎克伯格 马斯克里选一个 你男朋友思索一番 决定给他们四个轮流007&lt;/p>
+&lt;p>你让你男朋友给你说说巴以咋回事，你男朋友开头第一句，“以色列biss， 巴铁是中国人民的老朋友&amp;quot;&lt;/p>
+&lt;p>你男朋友已经先人一步找到了解决问题的通法：草泥马境外势力！草泥马cia！草泥马拜登！草泥马！&lt;/p>
+&lt;p>你男朋友支持大清洗&lt;/p>
+&lt;p>你男朋友爱说，什么事都有两面性，对待事情我们一定要辩证地看！
+还是你男朋友：大清洗就是对的；希特勒也有可取之处&lt;/p>
+&lt;p>你男朋友是乌合麒麟的好朋友&lt;/p>
+&lt;p>你问你男朋友看马克斯韦伯吗，你男朋友说那当然看，光是资本论我就看了两遍啦！&lt;/p>
+&lt;p>偶尔夜深人静，你男朋友追忆人生，会觉得自己是加缪再世&lt;/p>
+&lt;p>你男朋友最恨的人1.资本家（目前主要恨马云）2.男爱豆（已经不那么恨蔡徐坤了，目前在找下一个恨的对象）&lt;/p>
+&lt;p>你男朋友问你学啥的，你说学马克思，你男朋友说这不巧了吗，我也学马克思，你说真有缘分，我主要学西马，你呢，你男朋友一听就说西马那不行，西马非马！你还是多看看观察者网领略时代风向吧&lt;/p>
+&lt;p>你男朋友说我学的都是经典马克思，经典你懂吗，经典！用英语说那就是 orthodox,你说大哥，respect！你都学了点啥啊？你男朋友说，生产力决定一切；资本家没有祖国；把马云吊上路灯&lt;/p>
+&lt;p>你男朋友说草泥马资本 biss ！然后鼓励大家一起参与瑞幸造假割资本主义非菜&lt;/p>
+&lt;p>你男朋友说奶头乐太可恨了！你说你是不是想说文化工业对……你男朋友说草泥马资本家！&lt;/p>
+&lt;p>你男朋友人前：支持新疆棉，辱华品牌biss!你男朋友人后：草泥马这鞋怎么也不降价啊？&lt;/p>
+&lt;p>你男朋友说我爱看书，我可爱看了，我就爱看那种讲历史的，讲谋略的，还带点哲学的，你说太好啦，你最近在看什么呀？你男朋友说，临高启明&lt;/p>
+&lt;p>你男朋友看八佰被感动得痛哭流涕，屏摄一张发朋友圈让大家不要忘记现在的幸福生活是先烈的血换来的，你男朋友的室友在底下评论一条，“可惜导演是恨国党”，并附鹅组帖子链接，你男朋友默默把那条删了&lt;/p>
+&lt;p>你男朋友说理解不了，理解不了为啥男的生来就享受红利了，享受嘛红利了，你说你类比下，想想美国的白人是不是天然地比黑人/少数族裔享受了更多优势？你男朋友说没啊，白人有嘛优势了？黑人犯罪率高，地位低，该呀&lt;/p>
+&lt;p>你给男朋友转发#stopasianhate 发言，你男朋友：傻逼，美国迟早毁左逼/政治正确手里
+你给男朋友转发 deepstate川粉发言，你男朋友：共情了，破防了，愿我有生之年再见您君临天下&lt;/p>
+&lt;p>你男朋友：资本家 biss!
+你男朋友：在某几个晚上真希望唐纳德特朗普是我爹&lt;/p>
+&lt;p>你男朋友一个月破防的次数比洗内裤的次数都多&lt;/p>
+&lt;p>你男朋友这辈子最恨的国家是美国，最恨的群体是资本家，你男朋友这辈子最想成为的人是美国资本家&lt;/p>
+&lt;p>你男朋友说动保都几把一帮虚伪的傻逼，怎么不把爱分给人？
+你男朋友同时认为必须武统台湾踏平东京用火箭炮轰了白宫&lt;/p>
+&lt;p>你男朋友：我觉得我还是比普男好那么一点？
+你说呢&lt;/p>
+&lt;p>你男朋友因为频繁给李志发早午晚安被李志拉黑了&lt;/p>
+&lt;p>你男朋友自称李志粉丝，日常让人保持理智，见人就问这个世界会好吗，你说你也喜欢李志，最喜欢他的xx、xx和xxxxxxx，你男朋友思索一下，说我量然是逼哥粉，但我得说那几首逼哥真的偏激了！有关心社会的心是好的。但也要注意不要给境外势力当枪使！&lt;/p>
+&lt;p>你男朋友看到邓艾的事，和你说看吧，早和你说了，巧言令色，文过饰非，进步男的不行！
+你说那啥样的男的行，你男朋友说我行，乌合麒麟行，伊利达雷之怒也很行&lt;/p>
+&lt;p>你男朋友做cn values做出纳粹主义，然后说我觉得在社会事件上我的立场一贯是理性、客观、中立！&lt;/p>
+&lt;p>杨笠说&amp;quot;我不明白男人的小脑袋瓜里都在想什么&amp;quot;，你深有感触，你看着你男朋友，很想用锤子给他脑壳砸开观察观察&lt;/p>
+&lt;p>每个月有三十天，有二十八天你都想把你老公迷晕解剖了，看看那里面到底是不是住着一个美国红脖儿&lt;/p>
+&lt;p>你男朋友被李志拉黑后说李逼真的太他妈装逼了，也不保持理智了，也不问这个世界会不会
+好了，含泪把百度网盘里的李志专辑都删了，过两天喝酒的时候没伴奏，又发微博问：hxdm谁有逼哥网盘发我一下&lt;/p>
+&lt;p>你男朋友谈巴以时很近，谈爱你时很远&lt;/p>
+&lt;p>你男朋友确实觉得文科误国，国际政治除外&lt;/p>
+&lt;p>你男朋友看到这两天互联网 privilege 大讨论，痛心疾首，说这不行啊，你说是啊，结构性不公太深了，你男朋友说必须发动二次文革抄了资本家！&lt;/p>
+&lt;p>你问男朋友，李志为什么叫李逼啊？你男朋友拍拍胸口，说我逼哥多年老粉了！打欧拉还是砖和水泥的时候我就听逼哥了！逼哥之所以是逼哥，当然是因为他爱装逼……&lt;/p>
+&lt;p>你男朋友骂完左逼骂右狗，骂完新自骂liberal，你说您给指条明路，你男朋友在右上角画了一个“。”&lt;/p>
+&lt;p>你好奇你男朋友怎么能一边恨资本家恨得咬牙切齿一边支持特朗普连任美国总统，你男朋友看着你说复杂中国你不懂&lt;/p>
+&lt;p>你男朋友说丁真有啥好喜欢的？又没个文化，还不如郭敬明呢，唉，郭敬明也不行，大学肆业&lt;/p>
+&lt;p>你男朋友问你最近千啥呢，你说研究纳粹呢，看这个现代性与大屠杀，鲍曼太牛*了！你男朋友说嗯啊，但是我觉得这个希特勒他也有可取之处是不是，你知不知道在希特勒统治时期德国的国内生产力……&lt;/p>
+&lt;p>你男朋友熟读赵皓阳，自称马列主义者，认为生产力决定一切，最近湖畔大学改名了，只见你男朋友转发新闻并配一行字：资本家没有祖国！马云撮合共济会！阴谋已被粉碎！&lt;/p>
+&lt;p>你男朋友深谙国际局势，不光要在饭桌上侃侃而谈，连刷抖音时都不忘记，只见你男朋友点开一个讲巴以冲突的短视频，含泪在底下评论了一条：巴铁加油&lt;/p>
+&lt;blockquote>
+&lt;p>来源微博，侵删&lt;/p>
+&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>[分享]秋瑾-敬告中国二万万女同胞</title><link>https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</guid><pubDate>Sat, 18 Dec 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="敬告中国二万万女同胞">敬告中国二万万女同胞&lt;/h1>
+&lt;p>（1904年）&lt;/p>
+&lt;p>秋瑾&lt;/p>
+&lt;p>唉！世界上最不平的事，就是我们二万万女同胞了。从小生下来，遇着好老子，还说得过；遇着脾气杂冒、不讲情理的，满嘴连说：“晦气，又是一个没用的。”恨不得拿起来摔死。总抱着“将来是别人家的人”这句话，冷一眼、白一眼地看待；没到几岁，也不问好歹，就把一双雪白粉嫩的天足脚，用白布缠着，连睡觉的时候，也不许放松一点，到了后来肉也烂尽了，骨也折断了，不过讨亲戚、朋友、邻居们一声“某人家姑娘脚小”罢了。这还不说，到了择亲的时光，只凭着两个不要脸媒人的话，只要男家有钱有势，不问身家清白，男人的性情好坏、学问高低，就不知不觉应了。到了过门的时候，用一顶红红绿绿的花轿，坐在里面，连气也不能出。到了那边，要是遇着男人虽不怎么样，却还安分，这就算前生有福今生受了。遇着不好的，总不是说“前生作了孽”，就是说“运气不好”。要是说一二句抱怨的话，或是劝了男人几句，反了腔，就打骂俱下；别人听见还要说：“不贤惠，不晓得妇道呢！”诸位听听，这不是有冤没处诉么？还有一桩不公的事：男子死了，女子就要带三年孝，不许二嫁。女子死了，男人只带几根蓝辫线，有嫌难看的，连带也不带；人死还没三天，就出去偷鸡摸狗；七还未尽，新娘子早已进门了。上天生人，男女原没有分别。试问天下没有女人，就生出这些人来么？为什么这样不公道呢？那些男子，天天说“心是公的，待人是要和平的”，又为什么把女子当作非洲的黑奴一样看待。不公不平，直到这步田地呢？&lt;/p>
+&lt;p>诸位，你要知道天下事靠人是不行的，总要求己为是。当初那些腐儒说什么“男尊女卑”、“女子无才便是德”、“夫为妻纲”这些胡说，我们女子要是有志气的，就应当号召同志与他反对，陈后主兴了这缠足的例子，我们要是有羞耻的，就应当兴师问罪；即不然，难道他捆着我的腿？我不会不缠的么？男子怕我们有知识、有学问、爬上他们的头，不准我们求学，我们难道不会和他分辨，就应了么？这总是我们女子自己放弃责任，样样事体一见男子做了，自己就乐得偷懒，图安乐。男子说我没用，我就没用；说我不行，只要保着眼前舒服，就作奴隶也不问了。自己又看看无功受禄，恐怕行不长久，一听见男子喜欢脚小，就急急忙忙把它缠了，使男人看见喜欢，庶可以藉此吃白饭。至于不叫我们读书、习字，这更是求之不得的，有甚么不赞成呢？诸位想想，天下有享现成福的么？自然是有学问、有见识、出力作事的男人得了权利，我们作他的奴隶了。既作了他的奴隶，怎么不受压制呢？自作自受，又怎么怨得人呢？这些事情，提起来，我也觉得难过，诸位想想总是个中人，亦不必用我细说。&lt;/p>
+&lt;p>但是从此以后，我还望我们姐妹们，把从前事情，一概搁开，把以后事情，尽力作去，譬如从前死了，现在又转世为人了。老的呢，不要说“老而无用”，遇见丈夫好的要开学堂，不要阻他；儿子好的，要出洋留学，不要阻他。中年作媳妇的，总不要拖着丈夫的腿，使他气短志颓，功不成、名不就；生了儿子，就要送他进学堂，女儿也是如此，千万不要替他缠足。幼年姑娘的呢，若能够进学堂更好；就不进学堂，在家里也要常看书、习字。有钱作官的呢，就要劝丈夫开学堂、兴工厂，作那些与百姓有益的事情。无钱的呢，就要帮着丈夫苦作，不要偷懒吃闲饭。这就是我的望头了。诸位晓得国是要亡的了，男人自己也不保，我们还想靠他么？我们自己要不振作，到国亡的时候，那就迟了。诸位！诸位！须不可以打断我的念头才好呢！&lt;/p>
+&lt;p>秋瑾&lt;/p>
+&lt;p>1875年11月8日－1907年7月15日），浙江绍兴山阴人，生于福建省泉州府同安县。初名闺瑾，乳名玉姑，字璿卿，号旦吾，留学日本后改名瑾，字（或作别号）竞雄，自称鉴湖女侠，笔名秋千、汉侠女儿，曾用笔名白萍。中国近代女权运动家、革命志士，最后被清廷抓捕处决，而她的死间接促成辛亥革命。&lt;/p>
+&lt;p>&lt;a href="https://zh.wikipedia.org/wiki/%E7%A7%8B%E7%91%BE">维基百科&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112181342651.jpg" alt="Qiu jin.jpg">&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>Intro to Machine Learning</title><link>https://zdaneel.github.io/tech/intro-to-machine-learning/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/intro-to-machine-learning/</guid><pubDate>Fri, 10 Dec 2021 11:27:21 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="intro-to-machine-learning">Intro to Machine Learning&lt;/h1>
 &lt;p>kaggle上的&lt;a href="https://www.kaggle.com/learn/intro-to-machine-learning">入门教程&lt;/a>，从代码出发介绍了最基础的机器学习知识&lt;/p>
 &lt;h2 id="一模型如何工作">一、模型如何工作&lt;/h2>
 &lt;p>decision tree 决策树&lt;/p>
@@ -642,7 +1292,134 @@ $$&lt;/p>
 &lt;p>我们要在这两个之间找到一个甜蜜点（sweet spot），方法是收集多样化的样本，简化模型，交叉检验。&lt;/p>
 &lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112092119970.png" alt="underfitting_overfitting">&lt;/p>
 &lt;h2 id="六随机森林random-forests">六、随机森林（Random Forests）&lt;/h2>
-&lt;p>选择性能更好的模型。如随机森林，使用许多树，通过平均每个组件树的预测值来进行预测。&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>DFS求集合所有子集</title><link>https://zdaneel.github.io/tech/dfs%E6%B1%82%E9%9B%86%E5%90%88%E6%89%80%E6%9C%89%E5%AD%90%E9%9B%86/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/dfs%E6%B1%82%E9%9B%86%E5%90%88%E6%89%80%E6%9C%89%E5%AD%90%E9%9B%86/</guid><pubDate>Wed, 10 Nov 2021 11:27:21 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>对应代码中的数组b，空集为空行&lt;/p>
+&lt;p>选择性能更好的模型。如随机森林，使用许多树，通过平均每个组件树的预测值来进行预测。&lt;/p></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>【分享】INTP的人格成长阶段与功能类型</title><link>https://zdaneel.github.io/posts/%E5%88%86%E4%BA%ABintp%E7%9A%84%E4%BA%BA%E6%A0%BC%E6%88%90%E9%95%BF%E9%98%B6%E6%AE%B5%E4%B8%8E%E5%8A%9F%E8%83%BD%E7%B1%BB%E5%9E%8B/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E5%88%86%E4%BA%ABintp%E7%9A%84%E4%BA%BA%E6%A0%BC%E6%88%90%E9%95%BF%E9%98%B6%E6%AE%B5%E4%B8%8E%E5%8A%9F%E8%83%BD%E7%B1%BB%E5%9E%8B/</guid><pubDate>Sun, 05 Dec 2021 19:28:46 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>写在前面：测了几次相关的测试，都是intp，看了很多相关的知识，自认是intp 5w4 459 sp/sx&lt;/p>
+&lt;p>我不想用这些标签来框住我自己，但是这篇文章写的好多地方简直就是在监控我这个人，看的时候感叹好真实。读这篇文章可以更加了解自己，也更好地去思考我应该成为什么样的我。&lt;/p>
+&lt;h1 id="intp">INTP&lt;/h1>
+&lt;h2 id="intp人格类型思考者和探索者">INTP人格类型：思考者和探索者&lt;/h2>
+&lt;p>INTP型是所有人格中最独立、最具哲理性的人格型。INTP极为追求“个人的自主性”和“思考的独立性”，尽管他们没有INTJ在智力方面那么早的觉察力，但一旦他们的辅助功能——外向直觉(Ne)被唤醒，就会表现出对思维结构和理论知识的无穷兴趣。很多INTP都喜欢探究那些可以解释事物本质的大一统理论和形而上的哲学，为此，他们会大量地阅读哲学、宗教、心理学、进化论等相关领域的书籍。&lt;/p>
+&lt;p>当INTP从哲学研究中抽离出来时，正如他们ENTP的同伴一样，INTP也可以是古灵精怪、充满魅力的。由于INTP的直觉(Ne)与情感(Fe)都是外向型功能，通常情况下他们都能展现出一定的亲和力与魅力。当谈到感兴趣的话题时，INTP会变得健谈，他们思维活跃能轻而易举地将一个个话题串联起来，往往能展开非常广泛而多元的对话。但如果是他们不感兴趣的话题，比如被迫忍受冗长的闲谈时，他们会瞬间放空，或者试图将话题重新引导回来。尽管他们表面看上去真诚而富有风度，但INTP其实更感兴趣讨论内在的思想，而并不是现实生活中的细节。他们喜欢去探究是什么促使人们感兴趣的——人们的动机、兴趣点、行为模式和偏好倾向，这让INTP能够进一步完善他们对于人性(Fe)的认知(Ti-Ne)。&lt;/p>
+&lt;p>和其他内向型人格一样，INTP也容易过度焦虑和自我知觉。对他们来说，表现出一些很紧张的特征并不稀奇，或者至少都能感觉到他们有些不自在。他们通常会避免直接的眼神接触，因为交谈者专注的目光可能会使他们无法继续思考与交流。这是因为刚开始的时候，INTP都容易对他们混乱的Ne表达方式有很强的不安全感，如果感觉到别人在关注他们或者质疑他们，那只会让状况更糟糕。与INFP一样，INTP也需要慢慢地去呈现自己的内心世界。但相比之下，INTP比较奇怪的一点是，他们通常会隐藏起部分人格，具体来说，就是他们极度理性清醒的那一面。只有极少数人能完全走进INTP的世界，而其他的大部分人也许只能通过接触他们的作品来与他们的内心世界有一个短暂的邂逅。这也能解释为什么很多INTP都对写作感兴趣，这为他们更充分、更准确地表达自己提供了很好的途径。&lt;/p>
+&lt;p>由于INTP并不愿意大胆地展示他们个性中理性的部分，也由于他们Ne功能表达散乱的天性，INTP常常会觉得自己真实的知识水平与能力被忽视了。这种情况在工作场合中尤其常见，因为他们通常对组织生活缺乏热情，再加上一些稍显古怪的举止，就可能会被误认为是“力不胜任”的。正如我之前在INTP的职业生涯中所讨论的那样，他们往往很难在体制内找到满意的工作，做一个自由职业者或者企业家反而会比较开心。&lt;/p>
+&lt;p>而在亲密关系上，INTP也往往遇到一些困难。尽管他们可以利用自己外向直觉(Ne)和外向情感(Fe)功能来吸引潜在配偶，但在他们的内向思考(Ti)和外向情感(Fe)功能往往在暗中角力——这是独立性(Ti)与依赖感(Fe)之间的角力，可能会导致很多问题，这将在后面外向情感(Fe)的相关章节中详述。&lt;/p>
+&lt;h2 id="intp的人格发展与功能类型">INTP的人格发展与功能类型&lt;/h2>
+&lt;p>每种人格型都倾向于使用荣格所描述的八种功能中的四种。这四个功能组成了一种“人格”的“功能类型”。这四个功能的相对强度以下列方式排序：主导功能、辅助功能、第三功能和第四功能。INTP的主导功能是Ti功能，其次是Ne功能，Si 功能和Fe功能。以下是具体描述：&lt;/p>
+&lt;p>主导功能：内向思考Ti&lt;/p>
+&lt;p>辅助功能：外向直觉Ne&lt;/p>
+&lt;p>第三功能：内向感觉Si&lt;/p>
+&lt;p>第四功能：外向情感Fe&lt;/p>
+&lt;p>虽然我们很快就会开始深入地讨论每一个功能，但是现在，我们先转向INTP的人格发展。正如所有人格型一样，INTP的人格发展包括了三个阶段。&lt;/p>
+&lt;h3 id="阶段一孩童期">阶段一（孩童期）&lt;/h3>
+&lt;p>这一阶段是INTP的主导功能——内向思考(Ti)逐渐出现并显著化的过程。早年时，INTP通常会将他们的内向思考(Ti)功能专注在一两个目标上。例如，玩电子游戏、设计计算机程序、获得一个好成绩，或者尽可能地缩短5千英里跑步时间。由于主导功能Ti是一个判断功能，INTP对待人生与生活的态度通常都是很严肃的，即使是在年轻时代，他们也会表现出很强的自我驱动与目标导向性，在任何他们感兴趣的领域都会力争优秀。&lt;/p>
+&lt;h3 id="阶段二青少年期30s">阶段二（青少年期－30s）&lt;/h3>
+&lt;p>当INTP的主导功能Ti发展到一定阶段，他们的第四功能外向情感(Fe)便会开始进入INTP的视线，并逐渐扮演起更有影响力的角色。同时INTP也会更高频地开发和使用他们的辅助功能——外向直觉(Ne)。在这一阶段，INTP往往会开始对知识和哲学产生更大的兴趣，并尝试去理解“大一统的图景”。通过进一步开发他们的辅助功能外向直觉(Ne)，INTP可以为他们的主导功能Ti在判断之前引入大量开阔的信息。但也由于Ne功能是一个外向型的、极具开放性的功能，这要求INTP在得出强有力的观点与信仰之前先探索一大堆新奇的想法，处于这一阶段的INTP可能会因此而变得不大敢相信任何事物，甚至有些人可能陷入到认知论上的虚无主义或犬儒主义，会怀疑他们也许终其一生都寻不到世界的绝对真理。以此为契机，INTP可能将花费长达几十年的时间去了解他们自己、了解他们所处的世界、以及他们在这个世界的位置。&lt;/p>
+&lt;h3 id="阶段三30s40s及以后">阶段三（30s，40s，及以后）&lt;/h3>
+&lt;p>如果能一切顺利并幸运地进入到人格发展的第三阶段，INTP将在其主导功能内向思考(Ti)和第四功能外向情感(Fe)之间感受到一种更好的平衡。他们会意识到原来当他们持续而有效地使用着自己的优势功能（如Ti和Ne）时，成长与整合已经在自然而然地发生了。&lt;/p>
+&lt;h3 id="intp的主导功能内向思考ti">INTP的主导功能：内向思考(Ti)&lt;/h3>
+&lt;p>正如我在关于INTP的两本书中所提到的那样，内向思考(Ti)功能是指在面对任何情境、系统和问题时，运用逻辑与理性去处理。INTP通过Ti功能构建自己内心世界的结构与秩序，从来得到一种强烈的自我控制感。在内心深处，INTP是高度自律的，能够高效地管理自己的思想与生活。Ti功能自律的天性使得他们将很多事情都视为一个目标或者挑战，这些挑战可能是身体上的（比如想达到一种身体健美的理想状态），也可能是智力上的、实践中的、心理需求方面的（比如自我价值的实现)，又或者是成长后期的人际关系需要（比如“完善”一段关系或成为一个很棒的伴侣）。为了在这些形形色色的挑战中获得成功，INTP倾向于给自己设置各种规则，然而，由于他们辅助功能——外向直觉(Ne)的粗暴影响，这些规则又通常会被破坏掉。&lt;/p>
+&lt;p>INTP通常对“想法”更感兴趣，而不是具体的实现方式。荣格曾写道：“他的想法并不来源于客观资料，而来自于他的主观基础”。为了更好地理解自己思想的起源，同时也确保自己的思维是建立在坚实的理性推理之上的，INTP会不断地挖掘自己思想的底层根源。他们通常认为如果底层的概念是可疑的，那么在此基础上构建的理论也将毫无意义，因此与外向思考(Te)型人格相比，他们（Ti型人格）通过实验发现“真相”的速度就要慢得多。&lt;/p>
+&lt;p>INTP通常发现，对他们来说，识别“不一致”或者“逻辑缺陷”——即断言什么错的，要比去断言什么是对的容易得多。他们可以很快的在给出的理论或论述中发现“不一致性”或者“逻辑缺陷”。在鉴别异常情况、或者预测可能导致系统崩溃的场景时，他们往往比其他人都要出色。由于对理论异常情况的敏感性，他们通常能很快地放弃某个理论并且从头开始。而相比之下，INTJ就不太容易被一些理论上的异常情况所影响，他们总觉得这些异常最终会被解释或者修正。&lt;/p>
+&lt;p>当开展建设性工作时，INTP会和INFP一样，采取不断“试错”的方法来构建他们的理论和观点。INTP通常会从一个给定的想法(Ti)开始，然后运用他们的辅助功能Ne去探索各种各样的关联度与可能性，同时他们也会整合一些过去的经验和他们通过第三功能Si所获取的后天知识。通常他们要经过很多年的反复思考与重构后，才会诞生出系统性的、具有一致性的理论体系。&lt;/p>
+&lt;h3 id="intp的辅助功能外向直觉ne">INTP的辅助功能：外向直觉(Ne)&lt;/h3>
+&lt;p>INTP的辅助功能是外向直觉(Ne)，Ne既是一种感知功能，也是一种对外表达的功能。它的字面理解就是“说出口的头脑风暴”。在演讲时，INTP的表达似乎总是缺少一个主题，因为他们会随意地从一个想法跳转到另一个想法，即使是那些有着很强内在逻辑与规律的观点，一旦经由他们的Ne功能表达出来，也会瞬间变得支离破碎。&lt;/p>
+&lt;p>在“感知功能”的那一面，Ne能够帮助INTP采集外界信息，但Ne又并不像Se那样只是收集一些感官资料，它能超越那些感官数据或者看到其背后所隐藏的信息，从而使INTP能更为深度地识别出隐藏的模式、可能性和发展潜力。INTP会运用Ne功能在广泛的事实、想法或经验池中去探寻彼此之间的关系与模式，他们同样也会将Ne功能运用在阅读、研究和一些交谈活动中。INTP很喜欢问问题，他们能因此从别人身上获得新的知识与洞察，而这也使得INTP能成为活跃的交谈者。&lt;/p>
+&lt;p>INTP也同样会使用他们的Ne功能去发觉一些有意思的可能性。他们通常很喜欢去设想自己是侠士或者寻找者的角色，尽管他们通常很少知道自己到底在寻找什么。&lt;/p>
+&lt;p>Ne功能还会让人视野开阔，帮助INTP看到事物的两面性，而不会仅仅依赖一些毫无根据的判断或者先入为主的印象。更具体地说，Ne功能可能会使INTP投向一种更另类的、波西米亚式的生活方式。INTP是那些最有可能突然变成一个素食者、加入一个公社、或者从此以车为家的人。他们会被那些非传统的生活方式所吸引。&lt;/p>
+&lt;p>和其他所有NP型人格一样，INTP也常常对他们的Ne功能爱恨交加，他们的确喜欢Ne功能帮助他们保持开放的心态，把握那些更宏观的图景，但Ne功能也同样给他们带来了不小的挑战。比如说，它可能会使INTP难以得出明确的结论或做下重要的决定。通常情况是，当某些关头他们的确对某个确定的结论或决定感到满意时，他们的Ne功能又会跳出来质疑，并让他们对结论产生怀疑。这对于迫切想在这个世界上找到自己位置的INTP来说的确是很大的困扰，会使他们感到沮丧和不安，担心自己永远都找不到想要的东西，他们也会对自己似乎永远都没有什么实质性的进展而感到沮丧。事实上，INTP非常想创造一些真正具有长期价值的东西，但他们同时也想确认自己所坚持的方向是正确的，为了到达目的地，他们往往不留余力。然而，即便INTP确实很享受追求真理的过程，但他们终将会进入到人生的某个阶段，开始感受到现实压力对他们所产生的影响。当他们进入到20s、30s的时候，职场与人际关系中面临的问题将越来越多。他们常常觉得自己分明还没有做好准备，生活却已经开始强迫他们做出选择。正如所有IN人格型那样，他们总在想，如果能不考虑那些现实层面的问题，生活该多美好啊！&lt;/p>
+&lt;h3 id="intp的第三功能内向感觉si">INTP的第三功能：内向感觉(Si)&lt;/h3>
+&lt;p>与Ne(或Se)不同，INTP的第三功能——内向感觉(Si)是一个保守型的功能，它指向对过往经历与历史经验的联结——日常性的、有熟悉感的、可预测性的。功能类型中有Si的人格型，包括INTP在内，都倾向于长期保持一个常规不变的饮食习惯，对他们而言，“吃只是为了满足生存所需”，而不是说“活着就是为了吃得好”。Si人格型并不仅仅只在饮食方面是常规保守的，整个物质世界对他们而言基本都是如此，他们往往是存钱的人，而不是大手大脚花钱的人，他们认为过度的物质消费是没有必要的，甚至是不道德的。&lt;/p>
+&lt;p>与其他Si型一样，INTP对身体愉悦感、奢侈的环境或物质享受的需求非常有限，他们是非常本质的极简主义者，并不关心身处的物质环境。&lt;/p>
+&lt;p>Si一个最被忽视的特征是它的“知觉性”和“对身体内在的感知”——从内在感受身体状况。比起其他的心理功能，Si为我们提供了那些“除了思想和外在刺激”以外的最基本的“存在”感。历史上，东方哲学和宗教传统在探索人类经验方面比西方国家做得更好。在那些直接关注自己身体状态的活动中，比如瑜伽、太极、冥想或其他各种放松技巧，Si的功能都会变得更加明显。INTP如果有兴趣探索他们的Si功能，将会从这些实践活动中获得极大的乐趣，并从中受益。这些活动将能有效地培养起“带来放松感与降低焦虑度”的身体觉察。&lt;/p>
+&lt;h3 id="intp的第四功能外向情感fe">INTP的第四功能：外向情感(Fe)&lt;/h3>
+&lt;p>INTP的第四功能是外向情感(Fe)，由于它处于较后的位置，所以INTP的Fe功能通常会比FJ型人格的Fe功能更加敏感、也更缺乏弹性。这可能会使INTP的情绪状态非常不舒服，尤其是处在一些潜在冲突或不和谐的状况中时。&lt;/p>
+&lt;p>由于他们的Fe功能非常注重维持外部环境的和谐（或者可以理解为它们对于“不和谐”的强烈敏感与不安），INTP可能会为了防止冲突，而放弃表达自己的观点。尽管他们并不像FJ型人格那样看上去又暖又热情，但实际上INTP对他人的感受非常敏感，会特意避免伤害或冒犯到别人。例如，在集体讨论时，一个INTP可能想要表达人类的交配行为主要是进化压力的产物，但如果他感觉到可能有人会对此观点感觉到冒犯，那就会选择保留观点以避免不和谐。&lt;/p>
+&lt;p>Fe功能对外表现为调停者，但由于INTP的Fe排在很后面，因此总体来说INTP对于帮助他人通常都会反应很慢（至少对于那些直接的、需要亲自上手的事情是如此）。尤其在发展早期，他们大多拒绝参加社区类服务，也避免投入大量时间和精力去帮助别人，处在压力状况下尤甚。但如果遭受了过多的外部压力或期待，INTP也会把帮助他人当作首要任务之一。&lt;/p>
+&lt;p>简而言之，INTP的Fe功能更关注外部和谐，而不是广泛地施与帮助，这在他们的人生早期尤为明显——当他们还在全神贯注地追逐自己的Ti目标时。然而，一旦这些Ti目标得到圆满地实现，他们会逐渐变得大善大爱。比如，在爱因斯坦身上我们就能看到这一点，他在人生的后半段对人类有了更多的慈悲与体谅。&lt;/p>
+&lt;h4 id="抗拒坚定地对外主张">抗拒坚定地对外主张&lt;/h4>
+&lt;p>INTP总是会放弃表达自己的主张，不仅仅是为了保持外部和谐，也可能是因为他们担心自己并不能有效地传达观点，从而害怕自己的聪明才智被误解或低估。因此，他们拒绝自我表达不只是因为关心他人的需求，也源于他们自己内在的恐惧与不安。对于INTP来说，要让他们进行坚定的自我主张往往需要巨大的勇气，尤其是在讨论那些让他们感到焦虑或不舒服的话题时。相比之下，那些辅助功能为外向判断(Te)的人格型，就不太会遇到这样的问题。&lt;/p>
+&lt;p>由于INTP很难坦率地表达自我，他们反而容易在没有任何事先沟通的情况下做出突然的行为决定，其他人可能会对此感到难以置信，为什么INTP压根都没有事先谈起过这些决定。INTP也可能会展现出一些消极攻击行为，比如故意加班以回避或抵抗家庭的压力。在这方面，INTP像IFP型人格一样，倾向于选择消极攻击行为，而不是直接地表达他们的忧虑。&lt;/p>
+&lt;h4 id="渴望启迪他人">渴望启迪他人&lt;/h4>
+&lt;p>和FJ型一样，INTP也喜欢教导别人。INTP努力地发明各种新知识和新学问，来照亮这个世界。但正如我们所见，INTP在表达自我时通常都很受折磨，他们更愿意选择温和的交换意见的方式（辅助功能Ne主导），而不是他们个人独白的方式（Fe主导）。INTP也容易对那些理解或接受他们的观点较为迟缓的人失去耐心，他们通常希望别人都能像他们一样快速而独立地学习。由于上述原因，INTP往往并不适合教学工作（可能担任大学教授会好一丢丢），他们更适合那种间接地分享自己观点的方式，比如写作等。&lt;/p>
+&lt;h4 id="渴望被认可">渴望被认可&lt;/h4>
+&lt;p>Fe是一个能把个人的情感与他人的情感连接起来的功能，当连接成功发生时，会产生一种认可感——被理解和被珍视的感觉。而对于Fe处于第四功能的INTP来说，尽管他们也能读懂别人的情绪，能在认知层面作出适当的回应，但大多数情况下他们并“感受”不到别人的感觉。INTP很难在情感层面与他人建立起联结，但他们的Fe又依然在渴望着别人的欣赏与肯定——这也是FJ型人格在与人打交道时通常能够收获到的东西。这种渴望被他人认可的需要可以看作是INTP不断追求卓越的底层激励来源，这也是很多INTP在九型人格的第三型上得分较高、表现出自恋倾向的原因。就我个人而言，直到意识到我的Fe功能在推动着我想要获取更为广泛的肯定，我才开始理解自己内心深处想为普罗大众写作的欲望（而非学术写作）。&lt;/p>
+&lt;p>由于INTP有意或无意地都依赖于他人的肯定，所有有些时候，他们会觉得如果生活中没有其他人那简直活不下去，但有些时候，他们又会觉得自己完全的独立(Ti功能主导)，尤其是当他们的工作都进展顺利时，他们会觉得并不需要其他人。但一旦他们真的开始尝试把自己和别人完全隔离开来，又会很快地意识到生活中缺少了一些重要的东西，这会促使他们又重新开始与别人接触，一直到他们觉得有必要再次捍卫自己独立性的时候。在INTP和一些自恋型人格中，出现这种“渴望他人”又“疏远他人”的交替循环很常见。&lt;/p>
+&lt;h4 id="滑向要么全有要么全无的情绪里">滑向“要么全有，要么全无”的情绪里&lt;/h4>
+&lt;p>尽管INTP的Fe功能位置很靠后，但INTP并不是没有情感的机器人，相反，就像通常情况下第四功能所呈现出的状态一样，INTP的Fe功能也会表现出“要么全有，要么全无”的特征。INTP的情绪似乎总是来来去去，不受控制，因此，在一些情感状态中，INTP往往会感到有些尴尬或者无能为力——因为他们并不太能唤起与当下情境相适宜的情绪。&lt;/p>
+&lt;p>正如前文所提到的，INTP大体上还是知道对不同的情绪做出合适的反应，但对于一些没有直接经验的情感体验，他们还是会表现得稍显笨拙或呆板，于是这对于他们的恋人来说就有些麻烦了，尤其是对于那些FJ型的伴侣，因为FJ型人格往往渴望真正的情感交流。 当伴侣不在身边时，INTP也许会对伴侣产生强烈的情感依恋，但真正待在一起时，他们又可能反而没有这种感觉或者很难传达出自己的情感。&lt;/p>
+&lt;p>对大多数INTP来说，他们的Fe功能会展现出相当幼稚或孩子气的一面，比如，他们可能会很容易被一些套路的浪漫喜剧、伤心情歌所打动，或者是其他任何无意中激发出他们Fe功能的东西。这也使得INTP在感情上很容易一见钟情，他们会特别容易被F型人格所吸引，因为F型的人会绕过INTP的逻辑理性区，直接对他们“最弱的功能Fe”产生吸引力。&lt;/p>
+&lt;p>INTP在挣扎于如何才能唤起自己的情绪反应或与之建立联结时，他们也同样能很轻易地摆脱掉这些情绪，仿佛完全就没有发生过一样。因此，INTP不太会经历那些其他人格型在内疚感、惭愧感和羞耻感方面的挣扎。很多人都惊讶于INTP在一些大型悲剧或创伤性事件后的复原能力——他们似乎立刻就能“一切如常”。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;a href="https://personalityjunkie.com/the-intp/">https://personalityjunkie.com/the-intp/&lt;/a>&lt;/p>
+&lt;p>By Dr. A.J. Drenth&lt;/p>
+&lt;p>翻译：豆瓣id 看狐狸的猫&lt;/p>
+&lt;/blockquote></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>[分享]对女性的蔑称</title><link>https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</guid><pubDate>Thu, 18 Nov 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="对女性的蔑称">对女性的蔑称&lt;/h1>
+&lt;p>原文已经被微博屏蔽，侵删&lt;/p>
+&lt;p>还在娘胎里的时候，就是“赔钱货”、“讨债鬼”，扔粪坑里丢绿化带，摁进马桶溺死&lt;/p>
+&lt;p>出生以后，称之“小丫头片子”，从小就被培养做丫头服侍主子，得让着哥哥/弟弟&lt;/p>
+&lt;p>七八岁就会“仙人跳”了，就会勾引三四十岁的单纯老男孩上床了，真不要脸！&lt;/p>
+&lt;p>性发育成熟，是“粉木耳”；和男人交往过，是“黑木耳”&lt;/p>
+&lt;p>看重感情性经验少？是“绿茶婊”。&lt;/p>
+&lt;p>不重感情性经验多？是“烂裤裆”。&lt;/p>
+&lt;p>保守的，“金比镶钻”/“装纯”/“好裤裆”/“新车”&lt;/p>
+&lt;p>开放的，“鸡8套子”/“肉bian器“/“公交车”/”二手货”&lt;/p>
+&lt;p>家里有哥哥弟弟？“扶弟魔”！&lt;/p>
+&lt;p>爸妈的独生女？“提款机”嘿嘿嘿&lt;/p>
+&lt;p>和外国男的谈恋爱，“EZ Girl”亡国灭种，慕洋犬不就是图他鸡巴大吗？&lt;/p>
+&lt;p>“饭圈母狗”、“福利姬”、“上分婊”、“大洋马”、“蝈钕”、“破鞋”……全方位360度无死角骂你&lt;/p>
+&lt;p>性格强势一点？“男人婆”、“母老虎”、“疯婆子”、“泼妇”&lt;/p>
+&lt;p>打扮光鲜，“外围女”吧？一看就知道习惯站街了。&lt;/p>
+&lt;p>打扮老土，“黄脸婆”嘛！就是土肥圆厂妹，村比大妈。&lt;/p>
+&lt;p>体重过百，高大健壮，就是没男人要的“肥婆”、“坦克”&lt;/p>
+&lt;p>体格瘦弱，身材矮小，就是“排骨精”、“飞机场”、“对A要不起”&lt;/p>
+&lt;p>年轻的，“小骚比”；年老的，“豆腐渣”&lt;/p>
+&lt;p>小姐不再是大家闺秀，而先生越来越光明伟岸&lt;/p>
+&lt;p>公主不再是皇室贵胄，而王子依旧是风度翩翩&lt;/p>
+&lt;p>男人事业受挫，原因全怪在你身上，毕竟你是“克夫相”、“红颜祸水”&lt;/p>
+&lt;p>男人在外面犯贱勾人，没人骂他，骂得都得是“狐狸精”、“小三小四小五小蜜”&lt;/p>
+&lt;p>不能比男人高，不能比男人壮，不能比男人学习成绩好，不能比男人工资高，不能比男人职等高，不能比男人还会开车，不能比男人还不会做家务，不能和男人抢孩子的姓氏，你不怕嫁不出去吗？&lt;/p>
+&lt;p>你是“学姐”吗？女人竟然敢骑在男人头上了！打倒批臭！&lt;/p>
+&lt;p>你是“学妹”吗？还不快星星眼去排队等学长临幸？&lt;/p>
+&lt;p>女下属？看看事业线，一路睡上去的吧！&lt;/p>
+&lt;p>女上司？苦瓜脸死八婆，敢使唤老子干活？&lt;/p>
+&lt;p>富家女都是“干爹包养吃穿不愁”，女明星都是“整过容的三陪”&lt;/p>
+&lt;p>男的“抽烟喝酒烫头”叫搞笑包袱，女的“抽烟喝酒烫头”必夜店坐台&lt;/p>
+&lt;p>小女孩，可以“三年血赚”；妹妹，可以“德国骨科”；继女，可以“（鬼）父爱如山”，甚至可以“母女盖饭”；死了的女人，还能“趁热”&lt;/p>
+&lt;p>猥亵、强奸、家暴、谋杀的受害者，都可以“让子弹飞”，“搞仙人跳”，“一个巴掌拍不响”，“苍蝇不叮无缝蛋”&lt;/p>
+&lt;p>蠢货不论男女，统称“傻逼”；坏得冒酸水，“坏逼”；丑得不敢开灯，“丑逼”；就连坏老头也叫“老逼登”、“逼养的”，哪怕人人都是逼养的&lt;/p>
+&lt;p>女同？有事“姐妹”，无事“母狗”。吃肉时一脚踢开，挨打时拉出来当活靶子。哪有真正的女同呢？“还不是没体会过男人的好！”&lt;/p>
+&lt;p>拖家带口，相夫教子，被夺了孩子赶出家门，挑断手筋，还要被骂饭桶米虫。&lt;/p>
+&lt;p>打拼事业，职场精英，怪不得大龄剩女注孤生，挣得再多也是绝户命&lt;/p>
+&lt;p>男人三不娶，“教师护士gw员”，又翻倍了，“银行会计留学生”。不过要是找不着更好的，也不是不能凑合凑合“搭伙儿”，骑驴找马嘛。女人别开口，开口必“哄抬比价”，老实等着被挑得了。&lt;/p>
+&lt;p>什么？你不愿被挑，还要掀桌子不干了？&lt;/p>
+&lt;p>“极端女拳”！！！！！！&lt;/p>
+&lt;hr>
+&lt;p>一张制作很精妙的图片，这些被污名化或者本来就带有负面色彩的词语，都是女字旁&lt;/p>
+&lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112051511946.jpg" alt="对女性的蔑称">&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>阶段性计划</title><link>https://zdaneel.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E8%AE%A1%E5%88%92/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E9%98%B6%E6%AE%B5%E6%80%A7%E8%AE%A1%E5%88%92/</guid><pubDate>Fri, 12 Nov 2021 20:43:50 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="一学习">一、学习&lt;/h1>
+&lt;h2 id="1专业">1、专业&lt;/h2>
+&lt;h3 id="a大学课程">a.大学课程&lt;/h3>
+&lt;p>把每一节比较重要的课上好，该逃的就逃，不要花时间在没用的课上。保持成绩均分在80分以上。&lt;/p>
+&lt;h3 id="b自学">b.自学&lt;/h3>
+&lt;p>目前分为两部分的学习，一方面是JavaWeb到SSM的路线，另一个是机器学习。通过看书和看视频的方式。&lt;/p>
+&lt;h2 id="2语言">2、语言&lt;/h2>
+&lt;h3 id="a英语">a.英语&lt;/h3>
+&lt;p>英语很重要，背单词、看原著的方式来进一步学习。&lt;/p>
+&lt;h3 id="b德语">b.德语&lt;/h3>
+&lt;p>计划去德国留学，计划读歌德、里尔克、康德...德语必须要认真对待，背单词学语法，等下学期再去歌德学院，主要练听力和口语。&lt;/p>
+&lt;h2 id="3书籍">3、书籍&lt;/h2>
+&lt;h3 id="a女性主义">a.女性主义&lt;/h3>
+&lt;p>“不要被热点去指引思考的议题”，关注热点单不要被牵着走，按照我的习惯，去系统化、理论化学习。&lt;/p>
+&lt;h3 id="b小说">b.小说&lt;/h3>
+&lt;p>要读的小说很有很多，目前在读《那不勒斯四部曲》，之后伍尔夫的、陀翁的都想去读，还有朋友之前推荐的小说。&lt;/p>
+&lt;h3 id="c其他">c.其他&lt;/h3>
+&lt;p>我会比较关注社会学、哲学、政治学，可能会看一些心理学&lt;/p>
+&lt;h1 id="二生活">二、生活&lt;/h1>
+&lt;h2 id="1朋友">1、朋友&lt;/h2>
+&lt;p>不去强求，也不封闭自己，自然而然去认识新的朋友。&lt;/p>
+&lt;p>维系和现在一些朋友的联系，学会控制自己的情绪和幻想，她们都很优秀，有很多我可以去学习的。&lt;/p>
+&lt;p>看书是和作者交朋友，学语言是和未来之人交朋友。&lt;/p>
+&lt;h2 id="2习惯">2、习惯&lt;/h2>
+&lt;p>早上喝水吃早餐运动，每天冥想、学语言、看书，把生活固定下来，为了更好的学习。&lt;/p>
+&lt;h2 id="3折纸">3、折纸&lt;/h2>
+&lt;p>爱好获得了很多的正收益，继续练习，因为是爱好，不设目标。&lt;/p></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>DFS求集合所有子集</title><link>https://zdaneel.github.io/tech/dfs%E6%B1%82%E9%9B%86%E5%90%88%E6%89%80%E6%9C%89%E5%AD%90%E9%9B%86/</link><guid isPermaLink="true">https://zdaneel.github.io/tech/dfs%E6%B1%82%E9%9B%86%E5%90%88%E6%89%80%E6%9C%89%E5%AD%90%E9%9B%86/</guid><pubDate>Wed, 10 Nov 2021 11:27:21 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>对应代码中的数组b，空集为空行&lt;/p>
 &lt;p>&lt;img src="https://img-blog.csdnimg.cn/20200215023541807.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzYxOTA4NQ==,size_16,color_FFFFFF,t_70" alt="dfs集合子集">&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -710,4 +1487,248 @@ $$&lt;/p>
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="p">}&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description><category domain="https://zdaneel.github.io/tech/">tech</category></item></channel></rss>
+&lt;/div></description><category domain="https://zdaneel.github.io/tech/">tech</category></item><item><title>搭建博客</title><link>https://zdaneel.github.io/posts/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid><pubDate>Wed, 10 Nov 2021 11:18:52 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>折腾了一天多的时间，成功搭建了一个新的博客，由hugo驱动，主题是MemE，通过 GitHub Actions进行构建。&lt;/p>
+&lt;p>之前的写作和笔记都说通过微软的Onenote进行创作和保存，优点是结构鲜明的存储，方便管理相关的内容。前不久接触了Typora这个软件，Typora是一个Markdown编辑器，不懂Markdown也没有关系，操作很简单，而且特别漂亮，现在我正在用Typora进行书写。&lt;/p>
+&lt;p>由此就出现了问题，之前由Onenote进行统一创作和管理，而现在我喜欢Typora上进行创作，而Typora不方便管理，Onenote也因为笔记和文章数量增多而变得杂乱，或许，我应该考虑一种新的记录方式。&lt;/p>
+&lt;p>很巧接触到了reuixiy的一个&lt;a href="https://io-oi.me/">网站&lt;/a>，其实很久前在telegram上就有关注，他的网站主题特别惊艳。专门去看了下about，里面有记录网站的驱动、主题和创作方式，创作方式里提到了GitHub Issues，用现代软件开发的方式来写作，能够对议题进行持续的跟踪，也可以通过历史查看想法的形成和发展，可以说很符合我的需求，而且网站的那种极简性冷谈（？）风格我很能get到。&lt;/p>
+&lt;p>虽然我已经有了一个博客，但其所在平台Wordpress过于臃肿（还是很强大的），加上我的懒癌晚期，很久没有打理，因为上面提到的网站主题不在Wordpress平台上，需要另外搭建。在研究了一天后，终于成功完成搭建，搭建中有遇到很多的坑，一一解决了，同时也熟悉了Github、终端、DNS等的相关内容。&lt;/p>
+&lt;p>对我而言，计划往往会成为画饼，我对自己的要求是：持续去记录。这样就足够了。&lt;/p></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title/><link>https://zdaneel.github.io/femi/the-matter-of-seggri/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/the-matter-of-seggri/</guid><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>The first recorded contact with Seggri was in year 242 of Hainish Cycle 93. A Wandership six generations out from Iao (4-Taurus) came down on the planet, and the captain entered this report in his ship’s log.&lt;/p>
+&lt;p>CAPTAIN AOLAO-OLAO S REPORT&lt;/p>
+&lt;p>We have spent near forty days on this world they call Se-ri or Ye-ha-ri, well entertained, and leave with as good an estimation of the natives as is consonant with their unregenerate state. They live in fine great buildings they call castles, with large parks all about. Outside the walls of the parks lie well-tilled fields and abundant orchards, reclaimed by diligence from the parched and arid desert of stone that makes up the greatest part of the land. Their women live in villages and towns huddled outside the walls. All the common work of farm and mill is performed by the women, of whom there is a vast superabundance. They are ordinary drudges, living in towns which belong to the lords of the castle. They live amongst the cattle and brute animals of all kinds, who are permitted into the houses, some of which are of fair size. These women go about drably clothed, always in groups and bands. They are never allowed within the walls of the park, leaving the food and necessaries with which they provide the men at the outer gate of the castle. They evinced great fear and distrust of us. A few of my men following some girls on the road, women rushed from the town like a pack of wild beasts, so that the men thought it best to return forthwith to the castle. Our hosts advised us that it were best for us to keep away from their towns, which we did.&lt;/p>
+&lt;p>The men go freely about their great parks, playing at one sport or another. At night they go to certain houses which they own in the town, where they may have their pick among the women and satisfy their lust upon them as they will. The women pay them, we were told, in their money, which is copper, for a night of pleasure, and pay them yet more if they get a child on them. Their nights thus are spent in carnal satisfaction as often as they desire, and their days in a diversity of sports and games, notably a kind of wrestling, in which they throw each other through the air so that we marveled that they seemed never to take hurt, but rose up and returned to the combat with wonderful dexterity of hand and foot. Also they fence with blunt swords, and combat with long light sticks. Also they play a game with balls on a great field, using the arms to catch or throw the ball and the legs to kick the ball and trip or catch or kick the men of the other team, so that many are bruised and lamed in the passion of the sport, which was very fine to see, the teams in their contrasted garments of bright colors much gauded out with gold and finery seething now this way, now that, up and down the field in a mass, from which the balls were flung up and caught by runners breaking free of the struggling crowd and fleeting towards the one or the other goal with all the rest in hot pursuit. There is a “battlefield” as they call it of this game lying without the walls of the castle park, near to the town, so that the women may come watch and cheer, which they do heartily, calling out the names of favorite players and urging them with many uncouth cries to victory.&lt;/p>
+&lt;p>Boys are taken from the women at the age of eleven and brought to the castle to be educated as befits a man. We saw such a child brought into the castle with much ceremony and rejoicing. It is said that the women find it difficult to bring a pregnancy of a manchild to term, and that of those born many die in infancy despite the care lavished upon them, so that there are far more women than men. In this we see the curse of GOD laid upon this race as upon all those who acknowledge HIM not, unrepentant heathens whose ears are stopped to true discourse and blind to the light.&lt;/p>
+&lt;p>These men know little of art, only a kind of leaping dance, and their science is little beyond that of savages. One great man of a castle to whom I talked, who was dressed out in cloth of gold and crimson and whom all called Prince and Grandsire with much respect and deference, yet was so ignorant he believed the stars to be worlds full of people and beasts, asking us from which star we descended. They have only vessels driven by steam along the surface of the land and water, and no notion of flight either in the air or in space, nor any curiosity about such things, saying with disdain, “That is all women’s work,” and indeed I found that if I asked these great men about matters of common knowledge such as the working of machinery, the weaving of cloth, the transmission of holovision, they would soon chide me for taking interest in womanish things as they called them, desiring me to talk as befit a man.&lt;/p>
+&lt;p>In the breeding of their fierce cattle within the parks they are very knowledgeable, as in the sewing up of their clothing, which they make from cloth the women weave in their factories. The men vie in the ornamentation and magnificence of their costumes to an extent en, swhich we might indeed have thought scarcely manly, were they not withal such proper mtrong and ready for any game or sport, and full of pride and a most delicate and fiery honor.&lt;/p>
+&lt;p>&lt;em>The log including Captain Aolao-olao’s entries was (after a 12-generation journey) returned to the Sacred Archives of the Universe on Iao, which were dispersed during the period called The Tumult, and eventually preserved in fragmentary form on Hain. There is no record of further contact with Seggri until the First Observers were sent by the Ekumen in 93/1333: an Alterran man and a Hainish woman, Kaza Agad and G. Merriment. After a year in orbit mapping, photographing, recording and studying broadcasts, and analyzing and learning a major regional language, the Observers landed. Acting upon a strong persuasion of the vulnerability of the planetary culture, they presented themselves as survivors of the wreck of a fishing boat, blown far off course, from a remote island. They were, as they had anticipated, separated at once, Kaza Agad being taken to the Castle and Merriment into the town. Kaza kept his name, which was plausible in the native context; Merriment called herself Yude. We have only her report, from which three excerpts follow.&lt;/em>&lt;/p>
+&lt;p>FROM MOBILE GERINDU’UTTAHAYUDETWE’MENRADE MERRIMENT’S NOTES FOR A REPORT TO THE EKUMEN, 93/133&lt;/p>
+&lt;p>34/223 Their network of trade and information, hence their awareness of what goes on elsewhere in their world, is too sophisticated for me to maintain my Stupid Foreign Castaway act any longer. Ekhaw called me in today and said, “If we had a sire here who was worth buying or if our teams were winning their games, I’d think you were a spy. Who are you, anyhow?”&lt;/p>
+&lt;p>I said, “Would you let me go to the College at Hagka?”&lt;/p>
+&lt;p>She said, “Why?”&lt;/p>
+&lt;p>“There are scientists there, I think? I need to talk with them.”&lt;/p>
+&lt;p>This made sense to her; she made their “Mh” noise of assent.&lt;/p>
+&lt;p>“Could my friend go there with me?”&lt;/p>
+&lt;p>“Shask, you mean?”&lt;/p>
+&lt;p>We were both puzzled for a moment. She didn’t expect a woman to call a man “friend,” and I hadn’t thought of Shask as a friend. She’s very young, and I haven’t taken her very seriously.&lt;/p>
+&lt;p>“I mean Kaza, the man I came with.”&lt;/p>
+&lt;p>“A man — to the college?” she said, incredulous. She looked at me and said, “Where &lt;em>do&lt;/em> you come from?”&lt;/p>
+&lt;p>It was a fair question, not asked in enmity or challenge. I wish I could have answered it, but I am increasingly convinced that we can do great damage to these people; we are facing Resehavanar’s Choice here, I fear.&lt;/p>
+&lt;p>Ekhaw paid for my journey to Hagka, and Shask came along with me. As I thought about it I saw that of course Shask was my friend. It was she who brought me into the motherhouse, persuading Ekhaw and Azman of their duty to be hospitable; it was she who had looked out for me all along. Only she was so conventional in everything she did and said that I hadn’t realized how radical her compassion was. When I tried to thank her, as our little jitney-bus purred along the road to Hagka, she said things like she always says —”Oh, we’re all family,” and “People have to help each other,” and “Nobody can live alone.”&lt;/p>
+&lt;p>“Don’t women ever live alone?” I asked her, for all the ones I’ve met belong to a motherhouse or a daughterhouse, whether a couple or a big family like Ekhaw’s, which is three generations: five older women, three of their daughters living at home, and four children —the boy they all coddle and spoil so, and three girls.&lt;/p>
+&lt;p>“Oh yes,” Shask said. “If they don’t want wives, they can be singlewomen. And old women, when their wives die, sometimes they just live alone till they die. Usually they go live at a daughterhouse. In the colleges, the &lt;em>vev&lt;/em> always have a place to be alone.” Conventional she may be, but Shask always tries to answer a question seriously and completely; she thinks about her answer. She has been an invaluable informant. She has also made life easy for me by not asking questions about where I come from. I took this for the incuriosity of a person securely embedded in an unquestioned way of life, and for the self-centeredness of the young. Now I see it as delicacy.&lt;/p>
+&lt;p>“A vev is a teacher?”&lt;/p>
+&lt;p>“Mh.”&lt;/p>
+&lt;p>“And the teachers at the college are very respected?”&lt;/p>
+&lt;p>“That’s what vev means. That’s why we call Eckaw’s mother Vev Kakaw. She didn’t go to college, but she’s a thoughtful person, she’s learned from life, she has a lot to teach us.”&lt;/p>
+&lt;p>So respect and teaching are the same thing, and the only term of respect I’ve heard women use for women means teacher. And so in teaching me, young Shask respects herself? And/or earns my respect? This casts a different light on what I’ve been seeing as a society in which wealth is the important thing. Zadedr, the current mayor of Reha, is certainly admired for her very ostentatious display of possessions; but they don’t call her Vev.&lt;/p>
+&lt;p>I said to Shask, “You have taught me so much, may I call you Vev Shask?”&lt;/p>
+&lt;p>She was equally embarrassed and pleased, and squirmed and said, “Oh no no no no.” Then she said, “If you ever come back to Reha I would like very much to have love with you, Yude.”&lt;/p>
+&lt;p>“I thought you were in love with Sire Zadr!” I blurted out.&lt;/p>
+&lt;p>“Oh, I am,” she said, with that eye-roll and melted look they have when they speak of the sires, “aren’t you? Just think of him fucking you, oh! Oh, I get all wet thinking about it!” She smiled and wriggled. I felt embarrassed in my turn and probably showed it. “Don’t you like him?” she inquired with a naivety I found hard to bear. She was acting like a silly adolescent, and I know she’s not a silly adolescent. “But I’ll never be able to afford him,” she said, and sighed.&lt;/p>
+&lt;p>So you want to make do with me, I thought nastily.&lt;/p>
+&lt;p>“I’m going to save my money,” she announced after a minute. “I think I want to have a baby next year. Of course I can’t afford Sire Zadr, he’s a Great Champion, but if I don’t go to the Games at Kadaki this year I can save up enough for a really good sire at our fuckery, maybe Master Rosra. I wish, I know this is silly, I’m going to say it anyway, I’ve been wishing you could be its lovemother. I know you can’t, you have to go to the college. I just wanted to tell you. I love you.” She took my hands, drew them to her face, pressed my palms on her eyes for a moment, and then released me. She was smiling, but her tears were on my hands.&lt;/p>
+&lt;p>“Oh, Shask,” I said, floored.&lt;/p>
+&lt;p>“It’s all right!” she said. “I have to cry a minute.” And she did. She wept openly, bending over, wringing her hands, and wailing softly. I patted her arm and felt unutterably ashamed of myself. Other passengers looked round and made little sympathetic grunting noises. One old woman said, “That’s it, that’s right, lovey!” In a few minutes Shask stopped crying, wiped her nose and face on her sleeve, drew a long, deep breath, and said, “All right.” She smiled at me. “Driver,” she called, “I have to piss, can we stop?”&lt;/p>
+&lt;p>The driver, a tense-looking woman, growled something, but stopped the bus on the wide, weedy roadside; and Shask and another woman got off and pissed in the weeds. There is an enviable simplicity to many acts in a society which has, in all its daily life, only one gender. And which, perhaps — I don’t know this but it occurred to me then, while I was ashamed of myself — has no shame?&lt;/p>
+&lt;p>34/245. (Dictated) Still nothing from Kaza. I think I was right to give him the ansible. I hope he’s in touch with somebody. I wish it was me. I need to know what goes on in the castles.&lt;/p>
+&lt;p>Anyhow I understand better now what I was seeing at the Games in Reha. There are sixteen adult women for every adult man. One conception in six or so is male, but a lot of nonviable male fetuses and defective male births bring it down to one in sixteen by puberty. My ancestors must have really had fun playing with these people’s chromosomes. I feel guilty, even if it was a million years ago. I have to learn to do without shame but had better not forget the one good use of guilt. Anyhow. A fairly small town like Reha shares its castle with other towns. That confusing spectacle I was taken to on my tenth day down was Awaga Castle trying to keep its place in the Maingame against a castle from up north, and losing. Which means Awaga’s team can’t play in the big game this year in Fadrga, the city south of here, from which the winners go on to compete in the &lt;em>big&lt;/em> big game at Zask, where people come from all over the continent — hundreds of contestants and thousands of spectators. I saw some holos of last year’s Maingame at Zask. There were 1,280 players, the comment said, and forty balls in play. It looked to me like a total mess, my idea of a battle between two unarmed armies, but I gather that great skill and strategy is involved. All the members of the winning team get a special title for the year, and another one for life, and bring glory back to their various castles and the towns that support them.&lt;/p>
+&lt;p>I can now get some sense of how this works, see the system from outside it, because the college doesn’t support a castle. People here aren’t obsessed with sports and athletes and sexy sires the way the young women in Reha were, and some of the older ones. It’s a kind of obligatory obsession. Cheer your team, support your brave men, adore your local hero. It makes sense. Given their situation, they need strong, healthy men at their fuckery; it’s social selection reinforcing natural selection. But I’m glad to get away from the rah-rah and the swooning and the posters of fellows with swelling muscles and huge penises and bedroom eyes.&lt;/p>
+&lt;p>I have made Resehavanar’s Choice. I chose the option: Less than the truth. Shoggrad and Skodr and the other teachers, professors we’d call them, are intelligent, enlightened people, perfectly capable of understanding the concept of space travel, etc., making decisions about technological innovation, etc. I limit my answers to their questions to technology. I let them assume, as most people naturally assume, particularly people from a monoculture, that our society is pretty much like theirs. When they find how it differs, the effect will be revolutionary, and I have no mandate, reason, or wish to cause such a revolution on Seggri.&lt;/p>
+&lt;p>Their gender imbalance has produced a society in which, as far as I can tell, the men have all the privilege and the women have all the power. It’s obviously a stable arrangement. According to their histories, it’s lasted at least two millennia, and probably in some form or another much longer than that. But it could be quickly and disastrously destabilised by contact with us, by their experiencing the human norm. I don’t know if the men would cling to their privileged status or demand freedom, but surely the women would resist giving up their power, and their sexual system and affectional relationships would break down. Even if they learned to undo the genetic program that was inflicted on them, it would take several generations to restore normal gender distribution. I can’t be the whisper that starts that avalanche.&lt;/p>
+&lt;p>34/266. (Dictated) Skodr got nowhere with the men of Awaga Castle. She had to make her inquiries very cautiously, since it would endanger Kaza if she told them he was an alien or in any way unique. They’d take it as a claim of superiority, which he’d have to defend in trials of strength and skill. I gather that the hierarchies within the castles are a rigid framework, within which a man moves up or down issuing challenges and winning or losing obligatory and optional trials. The sports and games the women watch are only the showpieces of an endless series of competitions going on inside the castles. As an untrained, grown man Kaza would be at a total disadvantage in such trials. The only way he might get out of them, she said, would be by feigning illness or idiocy. She thinks he must have done so, since he is at least alive; but that’s all she could find out — “The man who was cast away at Taha-Reha is alive.”&lt;/p>
+&lt;p>Although the women feed, house, clothe, and support the lords of the castle, they evidently take their noncooperation for granted. She seemed glad to get even that scrap of information. As I am.&lt;/p>
+&lt;p>But we have to get Kaza out of there. The more I hear about it from Skodr the more dangerous it sounds. I keep thinking “spoiled brats!” but actually these men must be more like soldiers in the training camps that militarists have. Only the training never ends. As they win trials they gain all kinds of titles and ranks you could translate as “generals” and the other names militarists have for all their power-grades. Some of the “generals,” the Lords and Masters and so on, are the sports idols, the darlings of the fuckeries, like the one poor Shask adored; but as they get older apparently they often trade glory among the women for power among the men, and become tyrants within their castle, bossing the “lesser” men around, until they’re overthrown, kicked out. Old sires often live alone, it seems, in little houses away from the main castle, and are considered crazy and dangerous — rogue males.&lt;/p>
+&lt;p>It sounds like a miserable life. All they’re allowed to do after age eleven is compete at games and sports inside the castle, and compete in the fuckeries, after they’re fifteen or so, for money and number of fucks and so on. Nothing else. No options. No trades. No skills of making. No travel unless they play in the big games. They aren’t allowed into the colleges to gain any kind of freedom of mind. I asked Skodr why an intelligent man couldn’t at least come study in the college, and she told me that learning was very bad for men: it weakens a man’s sense of honor, makes his muscles flabby, and leaves him impotent. ” ‘What goes to the brain takes from the testicles,'” she said. “Men have to be sheltered from education for their own good.”&lt;/p>
+&lt;p>I tried to “be water,” as I was taught, but I was disgusted. Probably she felt it, because after a while she told me about “the secret college.” Some women in colleges do smuggle information to men in castles. The poor things meet secretly and teach each other. In the castles, homosexual relationships are encouraged among boys under fifteen, but not officially tolerated among grown men; she says the “secret colleges” often are run by the homosexual men. They have to be secret because if they’re caught reading or talking about ideas they may be punished by their Lords and Masters.&lt;/p>
+&lt;p>There have been some interesting works from the “secret colleges,” Skodr said, but she had to think to come up with examples. One was a man who had smuggled out an interesting mathematical theorem, and one was a painter whose landscapes, though primitive in technique, were admired by professionals of the art. She couldn’t remember his name.&lt;/p>
+&lt;p>Arts, sciences, all learning, all professional techniques, are &lt;em>haggyad&lt;/em>, skilled work. They’re all taught at the colleges, and there are no divisions and few specialists. Teachers and students cross and mix fields all the time, and being a famous scholar in one field doesn’t keep you from being a student in another. Skodr is a vev of physiology, writes plays, and is currently studying history with one of the history vevs. Her thinking is informed and lively and fearless. My School on Main could learn from this college. It’s a wonderful place, full of free minds. But only minds of one gender. A hedged freedom.&lt;/p>
+&lt;p>I hope Kaza has found a secret college or something, some way to fit in at the castle. He’s strong, but these men have trained for years for the games they play. And a lot of the games are violent. The women say don’t worry, we don’t let the men kill each other, we protect them, they’re our treasures. But I’ve seen men carried off with concussions, on the holos of their martial-art fights, where they throw each other around spectacularly. “Only inexperienced fighters get hurt.” Very reassuring. And they wrestle bulls. And in that melee they call the Maingame they break each other’s legs and ankles deliberately. “What’s a hero without a limp?” the women say. Maybe that’s the safe thing to do, get your leg broken so you don’t have to prove you’re a hero any more. But what else might Kaza have to prove?&lt;/p>
+&lt;p>I asked Shask to let me know if she ever heard of him being at the Reha fuckery. But Awaga Castle services (that’s their word, the same word they use for their bulls) four towns, so he might get sent to one of the others. But probably not, because men who don’t win at things aren’t allowed to go to the fuckeries. Only the champions. And boys between fifteen and nineteen, the ones the older women call &lt;em>dippida&lt;/em>, baby animals — puppy, kitty, lamby. They use the dippida for pleasure. They only pay for a champion when they go to the fuckery to get pregnant. But Kaza’s thirty-six, he isn’t a puppy or a kitten or a lamb. He’s a man, and this is a terrible place to be a man.&lt;/p>
+&lt;p>&lt;em>Kaza Agad had been killed; the Lords of Awaga Castle finally disclosed the fact, but not the circumstances. A year later, Merriment radioed her lander and left Seggri for Hain. Her recommendation was to observe and avoid. The Stabiles, however, decided to send another pair of observers; these were both women, Mobiles Alee Iyoo and Zerin Wu. They lived for eight years on Seggri, after the third year as First Mobiles; Iyoo stayed as Ambassador another fifteen years. They made Resehavanar’s Choice as “all the truth slowly.” A limit of two hundred visitors from off world was set. During the next several generations the people of Seggri, becoming accustomed to the alien presence, considered their own options as members of the Ekumen. Proposals for a planetwide referendum on genetic alteration were abandoned, since the men’s vote would be insignificant unless the women’s vote were handicapped. As of the date of this report the Seggri have not undertaken major genetic alteration, though they have learned and applied various repair techniques, which have resulted in a higher proportion of full-term male infants; the gender balance now stands at about 12:1.&lt;/em>&lt;/p>
+&lt;p>&lt;em>The following is a memoir given to Ambassador Eritho te Ves in 93/1569 by a woman in Ush on Seggri.&lt;/em>&lt;/p>
+&lt;p>You asked me, dear friend, to tell you anything I might like people on other worlds to know about my life and my world. That’s not easy! Do I want anybody anywhere else to know anything about my life? I know how strange we seem to all the others, the half-and-half races; I know they think us backward, provincial, even perverse. Maybe in a few more decades we’ll decide that we should remake ourselves. I won’t be alive then; I don’t think I’d want to be. I like my people. I like our fierce, proud, beautiful men, I don’t want them to become like women. I like our trustful, powerful, generous women, I don’t want them to become like men. And yet I see that among you each man has his own being and nature, each woman has hers, and I can hardly say what it is I think we would lose.&lt;/p>
+&lt;p>When I was a child I had a brother a year and a half younger than me. His name was Ittu. My mother had gone to the city and paid five years’ savings for my sire, a Master Champion in the Dancing. Ittu’s sire was an old fellow at our village fuckery; they called him “Master Fallback.” He’d never been a champion at anything, hadn’t sired a child for years, and was only too glad to fuck for free. My mother always laughed about it — she was still suckling me, she didn’t even use a preventive, and she tipped him two coppers! When she found herself pregnant she was furious. When they tested and found it was a male fetus she was even more disgusted at having, as they say, to wait for the miscarriage. But when Ittu was born sound and healthy, she gave the old sire two hundred coppers, all the cash she had.&lt;/p>
+&lt;p>He wasn’t delicate like so many boy babies, but how can you keep from protecting and cherishing a boy? I don’t remember when I wasn’t looking after Ittu, with it all very clear in my head what Little Brother should do and shouldn’t do and all the perils I must keep him from. I was proud of my responsibility, and vain, too, because I had a brother to look after. Not one other motherhouse in my village had a son still living at home.&lt;/p>
+&lt;p>Ittu was a lovely child, a star. He had the fleecy soft hair that’s common in my part of Ush, and big eyes; his nature was sweet and cheerful, and he was very bright. The other children loved him and always wanted to play with him, but he and I were happiest playing by ourselves, long elaborate games of make-believe. We had a herd of twelve cattle an old woman of the village had carved from gourd-shell for Ittu — people always gave him presents — and they were the actors in our dearest game. Our cattle lived in a country called Shush, where they had great adventures, climbing mountains, discovering new lands, sailing on rivers, and so on. Like any herd, like our village herd, the old cows were the leaders; the bull lived apart; the other males were gelded; and the heifers were the adventurers. Our bull would make ceremonial visits to service the cows, and then he might have to go fight with men at Shush Castle. We made the castle of clay and the men of sticks, and the bull always won, knocking the stick-men to pieces. Then sometimes he knocked the castle to pieces too. But the best of our stories were told with two of the heifers. Mine was named Op and my brother’s was Utti. Once our hero heifers were having a great adventure on the stream that runs past our village, and their boat got away from us. We found it caught against a log far downstream where the stream was deep and quick. My heifer was still in it. We both dived and dived, but we never found Utti. She had drowned. The Cattle of Shush had a great funeral for her, and Ittu cried very bitterly.&lt;/p>
+&lt;p>He mourned his brave little toy cow so long that I asked Djerdji the cattleherd if we could work for her, because I thought being with the real cattle might cheer Ittu up. She was glad to get two cowhands for free (when Mother found out we were really working, she made Djerdji pay us a quarter-copper a day). We rode two big, goodnatured old cows, on saddles so big Ittu could lie down on his. We took a herd of two-year-old calves out onto the desert every day to forage for the &lt;em>edta&lt;/em> that grows best when it’s grazed. We were supposed to keep them from wandering off and from trampling streambanks, and when they wanted to settle down and chew the cud we were supposed to gather them in a place where their droppings would nourish useful plants. Our old mounts did most of the work. Mother came out and checked on what we were doing and decided it was all right, and being out in the desert all day was certainly keeping us fit and healthy.&lt;/p>
+&lt;p>We loved our riding cows, but they were serious-minded and responsible, rather like the grown-ups in our motherhouse. The calves were something else; they were all riding breed, not fine animals of course, just villagebred; but living on edta they were fat and had plenty of spirit. Ittu and I rode them bareback with a rope rein. At first we always ended up on our own backs watching a calf’s heels and tail flying off. By the end of a year we were good riders, and took to training our mounts to tricks, trading mounts at a full run, and hornvaulting. Ittu was a marvelous hornvaulter. He trained a big three-year-old roan ox with lyre horns, and the two of them danced like the finest vaulters of the great castles that we saw on the holos. We couldn’t keep our excellence to ourselves out in the desert; we started showing off to the other children, inviting them to come out to Salt Springs to see our Great Trick Riding Show. And so of course the adults got to hear of it.&lt;/p>
+&lt;p>My mother was a brave woman, but that was too much for even her, and she said to me in cold fury, “I trusted you to look after Ittu. You let me down.”&lt;/p>
+&lt;p>All the others had been going on and on about endangering the precious life of a boy, the Vial of Hope, the Treasurehouse of Life, and so on, but it was what my mother said that hurt.&lt;/p>
+&lt;p>“I do look after Ittu, and he looks after me,” I said to her, in that passion of justice that children know, the birthright we seldom honor. “We both know what’s dangerous and we don’t do stupid things and we know our cattle and we do everything together. When he has to go to the castle he’ll have to do lots more dangerous things, but at least he’ll already know how to do one of them. And there he has to do them alone, but we did everything together. And I didn’t let you down.”&lt;/p>
+&lt;p>My mother looked at us. I was nearly twelve, Ittu was ten. She burst into tears, she sat down on the dirt and wept aloud. Ittu and I both went to her and hugged her and cried. Ittu said, “I won’t go. I won’t go to the damned castle. They can’t make me!”&lt;/p>
+&lt;p>And I believed him. He believed himself. My mother knew better.&lt;/p>
+&lt;p>Maybe some day it will be possible for a boy to choose his life. Among your peoples a man’s body does not shape his fate, does it? Maybe some day that will be so here.&lt;/p>
+&lt;p>Our Castle, Hidjegga, had of course been keeping their eye on Ittu ever since he was born; once a year Mother would send them the doctor’s report on him, and when he was five Mother and her wives took him out there for the ceremony of Confirmation. Ittu had been embarrassed, disgusted, and flattered. He told me in secret, “There were all these old &lt;em>men&lt;/em> that smelled funny and they made me take off my clothes and they had these measuring things and they measured my peepee! And they said it was very good. They said it was a good one. What happens when you descend?” It wasn’t the first question he had ever asked me that I couldn’t answer, and as usual I made up the answer. “Descend means you can have babies,” I said, which, in a way, wasn’t so far off the mark.&lt;/p>
+&lt;p>Some castles, I am told, prepare boys of nine and ten for the Severance, woo them with visits from older boys, tickets to games, tours of the park and the buildings, so that they may be quite eager to go to the castle when they turn eleven. But we “outyonders,” villagers of the edge of the desert, kept to the harsh old-fashioned ways. Aside from Confirmation, a boy had no contact at all with men until his eleventh birthday. On that day everybody he had ever known brought him to the Gate and gave him to the strangers with whom he would live the rest of his life. Men and women alike believed and still believe that this absolute severance makes the man.&lt;/p>
+&lt;p>Vev Ushiggi, who had borne a son and had a grandson, and had been mayor five or six times, and was held in great esteem even though she’d never had much money, heard Ittu say that he wouldn’t go to the damned Castle. She came next day to our motherhouse and asked to talk to him. He told me what she said. She didn’t do any wooing or sweetening. She told him that he was born to the service of his people and had one responsibility, to sire children when he got old enough; and one duty, to be a strong, brave man, stronger and braver than other men, so that women would choose him to sire their children. She said he had to live in the Castle because men could not live among women. At this, Ittu asked her, “Why can’t they?”&lt;/p>
+&lt;p>“You did?” I said, awed by his courage, for Vev Ushiggi was a formidable old woman.&lt;/p>
+&lt;p>“Yes. And she didn’t really answer. She took a long time. She looked at me and then she looked off somewhere and then she stared at me for a long time and then finally she said, ‘Because we would destroy them.’ ”&lt;/p>
+&lt;p>“But that’s crazy,” I said. “Men are our treasures. What did she say that for?”&lt;/p>
+&lt;p>Ittu, of course, didn’t know. But he thought hard about what she had said, and I think nothing she could have said would have so impressed him.&lt;/p>
+&lt;p>After discussion, the village elders and my mother and her wives decided that Ittu could go on practicing hornvaulting, because it really would be a useful skill for him in the Castle; but he could not herd cattle any longer, nor go with me when I did, nor join in any of the work children of the village did, nor their games. “You’ve done everything together with Po,” they told him, “but she should be doing things together with the other girls, and you should be doing things by yourself, the way men do.”&lt;/p>
+&lt;p>They were always very kind to Ittu, but they were stern with us girls; if they saw us even talking with Ittu they’d tell us to go on about our work, leave the boy alone. When we disobeyed — when Ittu and I sneaked off and met at Salt Springs to ride together, or just hid out in our old playplace down in the draw by the stream to talk — he got treated with cold silence to shame him, but I got punished. A day locked in the cellar of the old fiber-processing mill, which was what my village used for a jail; next time it was two days; and the third time they caught us alone together, they locked me in that cellar for ten days. A young woman called Fersk brought me food once a day and made sure I had enough water and wasn’t sick, but she didn’t speak; that’s how they always used to punish people in the villages. I could hear the other children going by up on the street in the evening. It would get dark at last and I could sleep. All day I had nothing to do, no work, nothing to think about except the scorn and contempt they held me in for betraying their trust, and the injustice of my getting punished when Ittu didn’t.&lt;/p>
+&lt;p>When I came out, I felt different. I felt like something had closed up inside me while I was closed up in that cellar.&lt;/p>
+&lt;p>When we ate at the motherhouse they made sure Ittu and I didn’t sit near each other. For a while we didn’t even talk to each other. I went back to school and work. I didn’t know what Ittu was doing all day. I didn’t think about it. It was only fifty days to his birthday.&lt;/p>
+&lt;p>One night I got into bed and found a note under my clay pillow: &lt;em>in the draw to-nt&lt;/em>. Ittu never could spell; what writing he knew I had taught him in secret. I was frightened and angry, but I waited an hour till everybody was asleep, and got up and crept outside into the windy, starry night, and ran to the draw. It was late in the dry season and the stream was barely running. Ittu was there, hunched up with his arms round his knees, a little lump of shadow on the pale, cracked clay at the waterside.&lt;/p>
+&lt;p>The first thing I said was, “You want to get me locked up again? They said next time it would be thirty days!”&lt;/p>
+&lt;p>“They’re going to lock me up for fifty years,” Ittu said, not looking at me.&lt;/p>
+&lt;p>“What am I supposed to do about it? It’s the way it has to be! You’re a man. You have to do what men do. They won’t lock you up, anyway, you get to play games and come to town to do service and all that. You don’t even know what being locked up is!”&lt;/p>
+&lt;p>“I want to go to Seradda,” Ittu said, talking very fast, his eyes shining as he looked up at me. “We could take the riding cows to the bus station in Redang, I saved my money, I have twenty-three coppers, we could take the bus to Seradda. The cows would come back home if we turned them loose.”&lt;/p>
+&lt;p>“What do you think you’d do in Seradda?” I asked, disdainful but curious. Nobody from our village had ever been to the capital.&lt;/p>
+&lt;p>“The Ekkamen people are there,” he said.&lt;/p>
+&lt;p>“The Ekumen,” I corrected him. “So what?”&lt;/p>
+&lt;p>“They could take me away,” Ittu said.&lt;/p>
+&lt;p>I felt very strange when he said that. I was still angry and still disdainful but a sorrow was rising in me like dark water. “Why would they do that? What would they talk to some little boy for? How would you find them? Twenty-three coppers isn’t enough anyway. Seradda’s way far off. That’s a really stupid idea. You can’t do that.”&lt;/p>
+&lt;p>“I thought you’d come with me,” Ittu said. His voice was softer, but didn’t shake.&lt;/p>
+&lt;p>“I wouldn’t do a stupid thing like that,” I said furiously.&lt;/p>
+&lt;p>“All right,” he said. “But you won’t tell. Will you?”&lt;/p>
+&lt;p>“No, I won’t tell!” I said. “But you can’t run away, Ittu. You can’t. It would be — it would be dishonorable.”&lt;/p>
+&lt;p>This time when he answered his voice shook. “I don’t care,” he said. “I don’t care about honor. I want to be free!”&lt;/p>
+&lt;p>We were both in tears. I sat down by him and we leaned together the way we used to, and cried a while; not long; we weren’t used to crying.&lt;/p>
+&lt;p>“You can’t do it,” I whispered to him. “It won’t work, Ittu.”&lt;/p>
+&lt;p>He nodded, accepting my wisdom.&lt;/p>
+&lt;p>“It won’t be so bad at the Castle,” I said.&lt;/p>
+&lt;p>After a minute he drew away from me very slightly.&lt;/p>
+&lt;p>“We’ll see each other,” I said.&lt;/p>
+&lt;p>He said only, “When?”&lt;/p>
+&lt;p>“At games. I can watch you. I bet you’ll be the best rider and hornvaulter there. I bet you win all the prizes and get to be a Champion.”&lt;/p>
+&lt;p>He nodded, dutiful. He knew and I knew that I had betrayed our love and our birthright of justice. He knew he had no hope.&lt;/p>
+&lt;p>That was the last time we talked together alone, and almost the last time we talked together.&lt;/p>
+&lt;p>Ittu ran away about ten days after that, taking the riding cow and heading for Redang; they tracked him easily and had him back in the village before nightfall. I don’t know if he thought I had told them where he would be going. I was so ashamed of not having gone with him that I could not look at him. I kept away from him; they didn’t have to keep me away any more. He made no effort to speak to me.&lt;/p>
+&lt;p>I was beginning my puberty, and my first blood was the night before Ittu’s birthday. Menstruating women are not allowed to come near the Gates at conservative castles like ours, so when Ittu was made a man I stood far back among a few other girls and women, and could not see much of the ceremony. I stood silent while they sang, and looked down at the dirt and my new sandals and my feet in the sandals, and felt the ache and tug of my womb and the secret movement of the blood, and grieved. I knew even then that this grief would be with me all my life.&lt;/p>
+&lt;p>Ittu went in and the Gates closed.&lt;/p>
+&lt;p>He became a Young Champion Hornvaulter, and for two years, when he was eighteen and nineteen, came a few times to service in our village, but I never saw him. One of my friends fucked with him and started to tell me about it, how nice he was, thinking I’d like to hear, but I shut her up and walked away in a blind rage which neither of us understood.&lt;/p>
+&lt;p>He was traded away to a castle on the east coast when he was twenty. When my daughter was born I wrote him, and several times after that, but he never answered my letters.&lt;/p>
+&lt;p>I don’t know what I’ve told you about my life and my world. I don’t know if it’s what I want you to know. It is what I had to tell.&lt;/p>
+&lt;p>&lt;em>The following is a short story -written in 93/1586 by a popular writer of the city of Adr, Sem Gridji. The classic literature of Seggri was the narrative poem and the drama. Classical poems and plays were written collaboratively, in the original version and also by re-writers of subsequent generations, usually anonymous. Small value was placed on preserving a “true” text, since the work was seen as an ongoing process. Probably under Ekumenical influence, individual writers in the late sixteenth century began writing short prose narratives, historical and fictional. The genre became popular, particularly in the cities, though it never obtained the immense audience of the great classical epics and plays. Literally everyone knew the plots and many quotations from the epics and plays, from books and holo, and almost every adult woman had seen or participated in a staged performance of several of them. They were one of the principal unifying influences of the Seggrian monoculture. The prose narrative, read in silence, served rather as a device by which the culture might question itself, and a tool for individual moral self-examination. Conservative Seggrian women disapproved of the genre as antagonistic to the intensely cooperative, collaborative structure of their society. Fiction was not included in the curriculum of the literature departments of the colleges, and was often dismissed contemptuously&lt;/em> — “&lt;em>fiction is for men&lt;/em>.”&lt;/p>
+&lt;p>&lt;em>Sem Gridji published three books of stories. Her bare, blunt style is characteristic of the Seggrian short story.&lt;/em> &lt;/p>
+&lt;p>&lt;em>&lt;strong>LOVE OUT OF PLACE by Sem Gridji&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Azak grew up in a motherhouse in the Downriver Quarter, near the textile mills. She was a bright girl, and her family and neighborhood were proud to gather the money to send her to college. She came back to the city as a starting manager at one of the mills. Azak worked well with other people; she prospered. She had a clear idea of what she wanted to do in the next few years: to find two or three partners with whom to found a daughterhouse and a business.&lt;/p>
+&lt;p>A beautiful woman in the prime of youth, Azak took great pleasure in sex, especially liking intercourse with men. Though she saved money for her plan of founding a business, she also spent a good deal at the fuckery, going there often, sometimes hiring two men at once. She liked to see how they incited each other to prowess beyond what they would have achieved alone, and shamed each other when they failed. She found a flaccid penis very disgusting, and did not hesitate to send away a man who could not penetrate her three or four times an evening.&lt;/p>
+&lt;p>The castle of her district bought a Young Champion at the Southeast Castles Dance Tournament, and soon sent him to the fuckery. Having seen him dance in the finals on the holovision and been captivated by his flowing, graceful style and his beauty, Azak was eager to have him service her. His price was twice that of any other man there, but she did not hesitate to pay it. She found him handsome and amiable, eager and gentle, skillful and compliant. In their first evening they came to orgasm together five times. When she left she gave him a large tip. Within the week she was back, asking for Toddra. The pleasure he gave her was exquisite, and soon she was quite obsessed with him.&lt;/p>
+&lt;p>“I wish I had you all to myself,” she said to him one night as they lay still conjoined, languorous and fulfilled.&lt;/p>
+&lt;p>“That is my heart’s desire,” he said. “I wish I were your servant. None of the other women that come here arouse me. I don’t want them. I want only you.”&lt;/p>
+&lt;p>She wondered if he was telling the truth. The next time she came, she inquired casually of the manager if Toddra were as popular as they had hoped. “No,” the manager said. “Everybody else reports that he takes a lot of arousing, and is sullen and careless towards them.”&lt;/p>
+&lt;p>“How strange,” Azak said.&lt;/p>
+&lt;p>“Not at all,” said the manager. “He’s in love with you.”&lt;/p>
+&lt;p>“A man in love with a woman?” Azak said, and laughed.&lt;/p>
+&lt;p>“It happens all too often,” the manager said.&lt;/p>
+&lt;p>“I thought only women fell in love,” said Azak.&lt;/p>
+&lt;p>“Women fall in love with a man, sometimes, and that’s bad too,” said the manager. “May I warn you, Azak? Love should be between women. It’s out of place here. It can never come to any good end. I hate to lose the money, but I wish you’d fuck with some of the other men and not always ask for Toddra. You’re encouraging him, you see, in something that does harm to him.”&lt;/p>
+&lt;p>“But he and you are making lots of money from me!” said Azak, still taking it as a joke.&lt;/p>
+&lt;p>“He’d make more from other women if he wasn’t in love with you,” said the manager. To Azak that seemed a weak argument against the pleasure she had in Toddra, and she said, “Well, he can fuck them all when I’ve done with him, but for now, I want him.”&lt;/p>
+&lt;p>After their intercourse that evening, she said to Toddra, “The manager here says you’re in love with me.”&lt;/p>
+&lt;p>“I told you I was,” Toddra said. “I told you I wanted to belong to you, to serve you, you alone. I would die for you, Azak.”&lt;/p>
+&lt;p>“That’s foolish,” she said.&lt;/p>
+&lt;p>“Don’t you like me? Don’t I please you?”&lt;/p>
+&lt;p>“More than any man I ever knew,” she said, kissing him. “You are beautiful and utterly satisfying, my sweet Toddra.”&lt;/p>
+&lt;p>“You don’t want any of the other men here, do you?” he asked.&lt;/p>
+&lt;p>“No. They’re all ugly fumblers, compared to my beautiful dancer.”&lt;/p>
+&lt;p>“Listen, then,” he said, sitting up and speaking very seriously. He was a slender man of twenty-two, with long, smooth-muscled limbs, wide-set eyes, and a thin-lipped, sensitive mouth. Azak lay stroking his thigh, thinking how lovely and lovable he was. “I have a plan,” he said. “When I dance, you know, in the story-dances, I play a woman, of course; I’ve done it since I was twelve. People always say they can’t believe I really am a man, I play a woman so well. If I escaped — from here, from the Castle — as a woman — I could come to your house as a servant — ”&lt;/p>
+&lt;p>“What?” cried Azak, astounded.“I could live there,” he said urgently, bending over her. “With you. I would always be there. You could have me every night. It would cost you nothing, except my food. I would serve you, service you, sweep your house, do anything, anything, Azak, please, my beloved, my mistress, let me be yours!” He saw that she was still incredulous, and hurried on, “You could send me away when you got tired of me — ”“If you tried to go back to the Castle after an escapade like that they’d whip you to death, you idiot!”“I’m valuable,” he said. “They’d punish me, but they wouldn’t damage me.”“You’re wrong. You haven’t been dancing, and your value here has slipped because you don’t perform well with anybody but me. The manager told me so.”Tears stood in Toddra’s eyes. Azak disliked giving him pain, but she was genuinely shocked at his wild plan. “And if you were discovered, my dear,” she said more gently, “I would be utterly disgraced. It is a very childish plan, Toddra. Please never dream of such a thing again. But I am truly, truly fond of you, I adore you and want no other man but you. Do you believe that, Toddra?”He nodded. Restraining his tears, he said, “For now.”“For now and for a long, long, long time! My dear, sweet, beautiful dancer, we have each other as long as we want, years and years! Only do your duty by the other women that come, so that you don’t get sold away by your Castle, please! I couldn’t bear to lose you, Toddra.” And she clasped him passionately in her arms, and arousing him at once, opened to him, and soon both were crying out in the throes of delight.Though she could not take his love entirely seriously, since what could come of such a misplaced emotion, except such foolish schemes as he had proposed? — still he touched her heart, and she felt a tenderness towards him that greatly enhanced the pleasure of their intercourse. So for more than a year she spent two or three nights a week with him at the fuckery, which was as much as she could afford. The manager, trying still to discourage his love, would not lower Toddra’s fee, even though he was unpopular among the other clients of the fuckery; so Azak spent a great deal of money on him, although he would never, after the first night, accept a tip from her.Then a woman who had not been able to conceive with any of the sires at the fuckery tried Toddra, and at once conceived, and being tested found the fetus to be male. Another woman conceived by him, again a male fetus. At once Toddra was in demand as a sire. Women began coming from all over the city to be serviced by him. This meant, of course, that he must be free during their period of ovulation. There were now many evenings that he could not meet Azak, for the manager was not to be bribed. Toddra disliked his popularity, but Azak soothed and reassured him, telling him how proud she was of him, and how his work would never interfere with their love. In fact, she was not altogether sorry that he was so much in demand, for she had found another person with whom she wanted to spend her evenings.This was a young woman named Zedr, who worked in the mill as a machine-repair specialist. She was tall and handsome; Azak noticed first how freely and strongly she walked and how proudly she stood. She found a pretext to make her acquaintance. It seemed to Azak that Zedr admired her; but for a long time each behaved to the other as a friend only, making no sexual advances. They were much in each other’s company, going to games and dances together, and Azak found that she enjoyed this open and sociable life better than always being in the fuckery alone with Toddra. They talked about how they might set up a machine-repair service in partnership. As time went on, Azak found that Zedr’s beautiful body was always in her thoughts. At last, one evening in her singlewoman’s flat, she told her friend that she loved her, but did not wish to burden their friendship with an unwelcome desire.Zedr replied, “I have wanted you ever since I first saw you, but I didn’t want to embarrass you with my desire. I thought you preferred men.”“Until now I did, but I want to make love with you,” Azak said.She found herself quite timid at first, but Zedr was expert and subtle, and could prolong Azak’s orgasms till she found such consummation as she had not dreamed of. She said to Zedr, “You have made me a woman.”“Then let’s make each other wives,” said Zedr joyfully.They married, moved to a house in the west of the city, and left the mill, setting up in business together.All this time, Azak had said nothing of her new love to Toddra, whom she had seen less and less often. A little ashamed of her cowardice, she reassured herself that he was so busy performing as a sire that he would not really miss her. After all, despite his romantic talk of love, he was a man, and to a man fucking is the most important thing, instead of being merely one element of love and life as it is to a woman.When she married Zedr, she sent Toddra a letter, saying that their lives had drifted apart, and she was now moving away and would not see him again, but would always remember him fondly.She received an immediate answer from Toddra, a letter begging her to come and talk with him, full of avowals of unchanging love, badly spelled and almost illegible. The letter touched, embarrassed, and shamed her, and she did not answer it.He wrote again and again, and tried to reach her on the holonet at her new business. Zedr urged her not to make any response, saying, “It would be cruel to encourage him.”Their new business went well from the start. They were home one evening busy chopping vegetables for dinner when there was a knock at the door. “Come in,” Zedr called, thinking it was Chochi, a friend they were considering as a third partner. A stranger entered, a tall, beautiful woman with a scarf over her hair. The stranger went straight to Azak, saying in a strangled voice, “Azak, Azak, please, please let me stay with you.” The scarf fell back from his long hair. Azak recognised Toddra.She was astonished and a little frightened, but she had known Toddra a long time and been very fond of him, and this habit of affection made her put out her hands to him in greeting. She saw fear and despair in his face, and was sorry for him.But Zedr, guessing who he was, was both alarmed and angry. She kept the chopping knife in her hand. She slipped from the room and called the city police.When she returned she saw the man pleading with Azak to let him stay hidden in their household as a servant. “I will do anything,” he said. “Please, Azak, my only love, please! I can’t live without you. I can’t service those women, those strangers who only want to be impregnated. I can’t dance any more. I think only of you, you are my only hope. I will be a woman, no one will know. I’ll cut my hair, no one will know!” So he went on, almost threatening in his passion, but pitiful also. Zedr listened coldly, thinking he was mad. Azak listened with pain and shame. “No, no, it is not possible,” she said over and over, but he would not hear.When the police came to the door and he realized who they were, he bolted to the back of the house seeking escape. The policewomen caught him in the bedroom; he fought them desperately, and they subdued him brutally. Azak shouted at them not to hurt him, but they paid no heed, twisting his arms and hitting him about the head till he stopped resisting. They dragged him out. The chief of the troop stayed to take evidence. Azak tried to plead for Toddra, but Zedr stated the facts and added that she thought he was insane and dangerous.&lt;/p>
+&lt;p>After some days, Azak inquired at the police office and was told that Toddra had been returned to his Castle with a warning not to send him to the fuckery again for a year or until the Lords of the Castle found him capable of responsible behavior. She was uneasy thinking of how he might be punished. Zedr said, “They won’t hurt him, he’s too valuable,” just as he himself had said. Azak was glad to believe this. She was, in fact, much relieved to know that he was out of the way.&lt;/p>
+&lt;p>She and Zedr took Chochi first into their business and then into their household. Chochi was a woman from the dockside quarter, tough and humorous, a hard worker and an undemanding, comfortable lovemaker. They were happy with one another, and prospered.&lt;/p>
+&lt;p>A year went by, and another year. Azak went to her old quarter to arrange a contract for repair work with two women from the mill where she had first worked. She asked them about Toddra. He was back at the fuckery from time to time, they told her. He had been named the year’s Champion Sire of his Castle, and was much in demand, bringing an even higher price, because he impregnated so many women and so many of the conceptions were male. He was not in demand for pleasure, they said, as he had a reputation for roughness and even cruelty. Women asked for him only if they wanted to conceive. Thinking of his gentleness with her, Azak found it hard to imagine him behaving brutally. Harsh punishment at the Castle, she thought, must have altered him. But she could not believe that he had truly changed.&lt;/p>
+&lt;p>Another year passed. The business was doing very well, and Azak and Chochi both began talking seriously about having children. Zedr was not interested in bearing, though happy to be a mother.&lt;/p>
+&lt;p>Chochi had a favorite man at their local fuckery to whom she went now and then for pleasure; she began going to him at ovulation, for he had a good reputation as a sire.&lt;/p>
+&lt;p>Azak had not been to a fuckery since she and Zedr married. She honored fidelity highly, and made love with no one but Zedr and Chochi. When she thought of being impregnated, she found that her old interest in fucking with men had quite died out or even turned to distaste. She did not like the idea of self-impregnation from the sperm bank, but the idea of letting a strange man penetrate her was even, more repulsive. Thinking what to do, she thought of Toddra, whom she had truly loved and had pleasure with. He was again a Champion Sire, known throughout the city as a reliable impregnator. There was certainly no other man with whom she could take any pleasure. And he had loved her so much he had put his career and even his life in danger, trying to be with her. That irresponsibility was over and done with. He had never written to her again, and the Castle and the managers of the fuckery would never have let him service women if they thought him mad or untrustworthy. After all this time, she thought, she could go back to him and give him the pleasure he had so desired.&lt;/p>
+&lt;p>She notified the fuckery of the expected period of her next ovulation, requesting Toddra. He was already engaged for that period, and they offered her another sire; but she preferred to wait till the next month.&lt;/p>
+&lt;p>Chochi had conceived, and was elated. “Hurry up, hurry up!” she said to Azak. “We want twins!”&lt;/p>
+&lt;p>Azak found herself looking forward to being with Toddra. Regretting the violence of their last encounter and the pain it must have given him, she wrote the following letter to him:&lt;/p>
+&lt;p>&lt;em>“My dear, I hope our long separation and the distress of our last meeting will be forgotten in the joy of being together again, and that you still love me as I still love you. I shall be very proud to bear your child, and let us hope it may be a son! I am impatient to see you again, my beautiful dancer. Your Azak.”&lt;/em>&lt;/p>
+&lt;p>There had not been time for him to answer this letter when her ovulation period began. She dressed in her best clothes. Zedr still distrusted Toddra and had tried to dissuade her from going to him; she bade her “Good luck!” rather sulkily. Chochi hung a mother-charm around her neck, and she went off.&lt;/p>
+&lt;p>There was a new manager on duty at the fuckery, a coarse-faced young woman who told her, “Call out if he gives you any trouble. He may be a Champion but he’s rough, and we don’t let him get away with hurting anybody.”&lt;/p>
+&lt;p>“He won’t hurt me,” Azak said, smiling, and went eagerly into the familiar room where she and Toddra had enjoyed each other so often. He was standing waiting at the window just as he had used to stand. When he turned he looked just as she remembered, long-limbed, his silky hair flowing like water down his back, his wide-set eyes gazing at her.&lt;/p>
+&lt;p>“Toddra!” she said, coming to him with outstretched hands.&lt;/p>
+&lt;p>He took her hands and said her name.&lt;/p>
+&lt;p>“Did you get my letter? Are you happy?”&lt;/p>
+&lt;p>“Yes,” he said, smiling.&lt;/p>
+&lt;p>“And all that unhappiness, all that foolishness about love, is it over? I am so sorry you were hurt, Toddra, I don’t want any more of that. Can we just be ourselves and be happy together as we used to be?”&lt;/p>
+&lt;p>“Yes, all that is over,” he said. “And I am happy to see you.” He drew her gently to him. Gently he began to undress her and caress her body, just as he had used to, knowing what gave her pleasure, and she remembering what gave him pleasure. They lay down naked together. She was fondling his erect penis, aroused and yet a little reluctant to be penetrated after so long, when he moved his arm as if uncomfortable. Drawing away from him a little, she saw that he had a knife in his hand, which he must have hidden in the bed. He was holding it concealed behind his back.&lt;/p>
+&lt;p>Her womb went cold, but she continued to fondle his penis and testicles, not daring to say anything and not able to pull away, for he was holding her close with the other hand.&lt;/p>
+&lt;p>Suddenly he moved onto her and forced his penis into her vagina with a thrust so painful that for an instant she thought it was the knife. He ejaculated instantly. As his body arched she writhed out from under him, scrambled to the door, and ran from the room crying for help.&lt;/p>
+&lt;p>He pursued her, striking with the knife, stabbing her in the shoulderblade before the manager and other women and men seized him. The men were very angry and treated him with a violence which the manager’s protests did not lessen. Naked, bloody, and half-conscious, he was bound and taken away immediately to the Castle.&lt;/p>
+&lt;p>Everyone now gathered around Azak, and her wound, which was slight, was cleaned and covered. Shaken and confused, she could ask only, “What will they do to him?”&lt;/p>
+&lt;p>“What do you think they do to a murdering rapist? Give him a prize?” the manager said. “They’ll geld him.”&lt;/p>
+&lt;p>“But it was my fault,” Azak said.&lt;/p>
+&lt;p>The manager stared at her and said, “Are you mad? Go home.”&lt;/p>
+&lt;p>She went back into the room and mechanically put on her clothes. She looked at the bed where they had lain. She stood at the window where Toddra had stood. She remembered how she had seen him dance long ago in the contest where he had first been made champion. She thought, “My life is wrong.” But she did not know how to make it right.&lt;/p>
+&lt;p>&lt;em>Alteration in Seggrian social and cultural institutions did not take the disastrous course Merriment feared. It has been slow and its direction is not clear. In 93/1602 Terhada College invited men from two neighboring castles to apply as students, and three men did so. In the next decades, most colleges opened their doors to men. Once they were graduated, male students had to return to their castle, unless they left the planet, since native men were not allowed to live anywhere but as students in a college or in a castle, until the Open Gate Law was passed in 93/1662.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Even after passage of that law, the castles remained closed to women; and the exodus of men from the castles was much slower than opponents of the measure feared. Social adjustment to the Open Gate Law has been slow. In several regions programs to train men in basic skills such as farming and construction have met with moderate success; the men work in competitive teams, separate from and managed by the women’s companies. A good many Seggri have come to Main to study in recent years&lt;/em> — &lt;em>more men than women, despite the great numerical imbalance that still exists&lt;/em>.&lt;/p>
+&lt;p>&lt;em>The following autobiographical sketch by one of these men is of particular interest, since he was involved in the event which directly precipitated the Open Gate Law.&lt;/em> &lt;/p>
+&lt;p>AUTOBIOGRAPHICAL SKETCH BY MOBILE ARDAR DEZ&lt;/p>
+&lt;p>I was born in Ekumenical Cycle 93, Year 1641, in Rakedr on Seggri. Rakedr was a placid, prosperous, conservative town, and I was brought up in the old way, the petted boychild of a big motherhouse. Altogether there were seventeen of us, not counting the kitchen staff — a great-grandmother, two grandmothers, four mothers, nine daughters, and me. We were well off; all the women were or had been managers or skilled workers in the Rakedr Pottery, the principal industry of the town. We kept all the holidays with pomp and energy, decorating the house from roof to foundation with banners for Hillalli, making fantastic costumes for the Harvest Festival, and celebrating somebody’s birthday every few weeks with gifts all round. I was petted, as I said, but not, I think, spoiled. My birthday was no grander than my sisters’, and I was allowed to run and play with them just as if I were a girl. Yet I was always aware, as were they, that our mothers’ eyes rested on me with a different look, brooding, reserved, and sometimes, as I grew older, desolate.&lt;/p>
+&lt;p>After my Confirmation, my birthmother or her mother took me to Rakedr Castle every spring on Visiting Day. The gates of the park, which had opened to admit me alone (and terrified) for my Confirmation, remained shut, but rolling stairs were placed against the park walls. Up these I and a few other little boys from the town climbed, to sit on top of the park wall in great state, on cushions, under awnings, and watch demonstration dancing, bull-dancing, wrestling, and other sports on the great gamefield inside the wall. Our mothers waited below, outside, in the bleachers of the public field. Men and youths from the Castle sat with us, explaining the rules of the games and pointing out the fine points of a dancer or wrestler, treating us seriously, making us feel important. I enjoyed that very much, but as soon as I came down off the wall and started home it all fell away like a costume shrugged off, a part played in a play; and I went on with my work and play in the motherhouse with my family, my real life.&lt;/p>
+&lt;p>When I was ten I went to Boys’ Class downtown. The class had been set up forty or fifty years before as a bridge between the motherhouses and the Castle, but the Castle, under increasingly reactionary governance, had recently withdrawn from the project. Lord Fassaw forbade his men to go anywhere outside the walls but directly to the fuckery, in a closed car, returning at first light; and so no men were able to teach the class. The townswomen who tried to tell me what to expect when I went to the Castle did not really know much more than I did. However well-meaning they were, they mostly frightened and confused me. But fear and confusion were an appropriate preparation.&lt;/p>
+&lt;p>I cannot describe the ceremony of Severance. I really cannot describe it. Men on Seggri, in those days, had this advantage: they knew what death is. They had all died once before their body’s death. They had turned and looked back at their whole life, every place and face they had loved, and turned away from it as the gate closed.&lt;/p>
+&lt;p>At the time of my Severance, our small Castle was internally divided into “collegials” and “traditionals,” a liberal faction left from the regime of Lord Ishog and a younger, highly conservative faction. The split was already disastrously wide when I came to the Castle. Lord Fassaw’s rule had grown increasingly harsh and irrational. He governed by corruption, brutality, and cruelty. All of us who lived there were of course infected, and would have been destroyed if there had not been a strong, constant, moral resistance, centered around Ragaz and Kohadrat, who had been proteges of Lord Ishog. The two men were open partners; their followers were all the homosexuals in the Castle, and a good number of other men and older boys.&lt;/p>
+&lt;p>My first days and months in the Scrubs’ dormitory were a bewildering alternation: terror, hatred, shame, as the boys who had been there a few months or years longer than I were incited to humiliate and abuse the newcomer, in order to make a man of him — and comfort, gratitude, love, as boys who had come under the influence of the collegials offered me secret friendship and protection. They helped me in the games and competitions and took me into their beds at night, not for sex but to keep me from the sexual bullies. Lord Fassaw detested adult homosexuality and would have reinstituted the death penalty if the Town Council had allowed it. Though he did not dare punish Ragaz and Kohadrat, he punished consenting love between older boys with bizarre and appalling physical mutilations — ears cut into fringes, fingers branded with red-hot iron rings. Yet he encouraged the older boys to rape the eleven- and twelve-year-olds, as a manly practice. None of us escaped. We particularly dreaded four youths, seventeen or eighteen years old when I came there, who called themselves the Lordsmen. Every few nights they raided the Scrubs’ dormitory for a victim, whom they raped as a group. The collegials protected us as best they could by ordering us to their beds, where we wept and protested loudly, while they pretended to abuse us, laughing and jeering. Later, in the dark and silence, they comforted us with candy, and sometimes, as we grew older, with a desired love, gentle and exquisite in its secrecy.&lt;/p>
+&lt;p>There was no privacy at all in the Castle. I have said that to women who asked me to describe life there, and they thought they understood me. “Well, everybody shares everything in a motherhouse,” they would say, “everybody’s in and out of the rooms all the time. You’re never really alone unless you have a singlewoman’s flat.” I could not tell them how different the loose, warm commonality of the motherhouse was from the rigid, deliberate publicity of the forty-bed, brightly-lighted Castle dormitories. Nothing in Rakedr was private: only secret, only silent. We ate our tears.&lt;/p>
+&lt;p>I grew up; I take some pride in that, along with my profound gratitude to the boys and men who made it possible. I did not kill myself, as several boys did during those years, nor did I kill my mind and soul, as some did so their body could survive. Thanks to the maternal care of the collegials — the resistance, as we came to call ourselves — I grew up.&lt;/p>
+&lt;p>Why do I say maternal, not paternal? Because there were no fathers in my world. There were only sires. I knew no such word as father or paternal. I thought of Ragaz and Kohadrat as my mothers. I still do.&lt;/p>
+&lt;p>Fassaw grew quite mad as the years went on, and his hold over the Castle tightened to a deathgrip. The Lordsmen now ruled us all. They were lucky in that we still had a strong Maingame team, the pride of Fassaw’s heart, which kept us in the First League, as well as two Champion Sires in steady demand at the town fuckeries. Any protest the resistance tried to bring to the Town Council could be dismissed as typical male whining, or laid to the demoralizing influence of the aliens. From the outside Rakedr Castle seemed all right.&lt;/p>
+&lt;p>Look at our great team! Look at our champion studs! The women looked no further.&lt;/p>
+&lt;p>How could they abandon us? — the cry every Seggrian boy must make in his heart. How could she leave me here? Doesn’t she know what it’s like? Why doesn’t she know? Doesn’t she want to know?&lt;/p>
+&lt;p>“Of course not,” Ragaz said to me when I came to him in a passion of righteous indignation, the Town Council having denied our petition to be heard. “Of course they don’t want to know how we live. Why do they never come into the castles? Oh, we keep them out, yes; but do you think we could keep them out if they wanted to enter? My dear, we collude with them and they with us in maintaining the great foundation of ignorance and lies on which our civilization rests.”&lt;/p>
+&lt;p>“Our own mothers abandon us,” I said.“Abandon us? Who feeds us, clothes us, houses us, pays us? We’re utterly dependent on them. If ever we made ourselves independent, perhaps we could rebuild society on a foundation of truth.”Independence was as far as his vision could reach. Yet I think his mind groped further, towards what he could not see, the body’s obscure, inalterable dream of mutuality.&lt;/p>
+&lt;p>Our effort to make our case heard at the Council had no effect except within the Castle. Lord Fassaw saw his power threatened. Within a few days Ragaz was seized by the Lordsmen and their bully boys, accused of repeated homosexual acts and treasonable plots, arraigned, and sentenced by the Lord of the Castle. Everyone was summoned to the Gamefield to witness the punishment. A man of fifty with a heart ailment — he had been a Maingame racer in his twenties and had overtrained — Ragaz was tied naked across a bench and beaten with “Lord Long,” a heavy leather tube filled with lead weights. The Lordsman Berhed, who wielded it, struck repeatedly at the head, the kidneys, and the genitals. Ragaz died an hour or two later in the infirmary.&lt;/p>
+&lt;p>The Rakedr Mutiny took shape that night. Kohadrat, older than Ragaz and devastated by his loss, could not restrain or guide us. His vision had been of a true resistance, longlasting and nonviolent, through which the Lordsmen would in time destroy themselves. We had been following that vision. Now we let it go. We dropped the truth and grabbed weapons. “How you play is what you win,” Kohadrat said, but we had heard all those old saws. We would not play the patience game any more. We would win, now, once for all.&lt;/p>
+&lt;p>And we did. We won. We had our victory. Lord Fassaw, the Lordsmen and their bullies had been slaughtered by the time the police got to the Gate.&lt;/p>
+&lt;p>I remember how those tough women strode in among us, staring at the rooms of the Castle which they had never seen, staring at the mutilated bodies, eviscerated, castrated, headless — at Lordsman Berhepl, who had been nailed to the floor with “Lord Long” stuffed down his throat — at us, the rebels, the victors, with our bloody hands and defiant faces — at Kohadrat, whom we thrust forward as our leader, our spokesman.&lt;/p>
+&lt;p>He stood silent. He ate his tears.&lt;/p>
+&lt;p>The women drew closer to one another, clutching their guns, staring around. They were appalled, they thought us all insane. Their utter incomprehension drove one of us at last to speak — a young man, Tarsk, who wore the iron ring that had been forced onto his finger when it was red-hot. “They killed Ragaz,” he said. “They were all mad. Look.” He held out his crippled hand.&lt;/p>
+&lt;p>The chief of the troop, after a pause, said, “No one will leave here till this is looked into,” and marched her women out of the Castle, out of the park, locking the gate behind them, leaving us with our victory.&lt;/p>
+&lt;p>The hearings and judgments on the Rakedr Mutiny were all broadcast, of course, and the event has been studied and discussed ever since. My own part in it was the murder of the Lordsman Tatiddi. Three of us set on him and beat him to death with exercise-clubs in the gymnasium where we had cornered him.&lt;/p>
+&lt;p>How we played was what we won.&lt;/p>
+&lt;p>We were not punished. Men were sent from several castles to form a government over Rakedr Castle. They learned enough of Fassaw’s behavior to see the cause of our rebellion, but the contempt of even the most liberal of them for us was absolute. They treated us not as men, but as irrational, irresponsible creatures, untamable cattle. If we spoke they did not answer.&lt;/p>
+&lt;p>I do not know how long we could have endured that cold regime of shame. It was only two months after the Mutiny that the World Council enacted the Open Gate Law. We told one another that that was our victory, we had made that happen. None of us believed it. We told one another we were free. For the first time in history, any man who wanted to leave his castle could walk out the gate. We were free!&lt;/p>
+&lt;p>What happened to the free man outside the gate? Nobody had given it much thought.&lt;/p>
+&lt;p>I was one who walked out the gate, on the morning of the day the law came into force. Eleven of us walked into town together.&lt;/p>
+&lt;p>Several of us, men not from Rakedr, went to one or another of the fuckeries, hoping to be allowed to stay there; they had nowhere else to go. Hotels and inns of course would not accept men. Those of us who had been children in the town went to our motherhouses.&lt;/p>
+&lt;p>What is it like to return from the dead? Not easy. Not for the one who returns, nor for his people. The place he occupied in their world has closed up, ceased to be, filled with accumulated change, habit, the doings and needs of others. He has been replaced. To return from the dead is to be a ghost: a person for whom there is no room.&lt;/p>
+&lt;p>Neither I nor my family understood that, at first. I came back to them at twenty-one as trustingly as if I were the eleven-year-old who had left them, and they opened their arms to their child. But he did not exist. Who was I?&lt;/p>
+&lt;p>For a long time, months, we refugees from the Castle hid in our motherhouses. The men from other towns all made their way home, usually by begging a ride with teams on tour. There were seven or eight of us in Rakedr, but we scarcely ever saw one another. Men had no place on the street; for hundreds of years a man seen alone on the street had been arrested immediately. If we went out, women ran from us, or reported us, or surrounded and threatened us — “Get back into your Castle where you belong! Get back to the fuckery where you belong! Get out of our city!” They called us drones, and in fact we had no work, no function at all in the community. The fuckeries would not accept us for service, because we had no guarantee of health and good behavior from a castle.&lt;/p>
+&lt;p>This was our freedom: we were all ghosts, useless, frightened, frightening intruders, shadows in the corners of life. We watched life going on around us — work, love, childbearing, childrearing, getting and spending, making and shaping, governing and adventuring — the women’s world, the bright, full, real world — and there was no room in it for us. All we had ever learned to do was play games and destroy one another.&lt;/p>
+&lt;p>My mothers and sisters racked their brains, I know, to find some place and use for me in their lively, industrious household. Two old live-in cooks had run our kitchen since long before I was born, so cooking, the one practical art I had been taught in the Castle, was superfluous. They found household tasks for me, but they were all make-work, and they and I knew it. I was perfectly willing to look after the babies, but one of the grandmothers was very jealous of that privilege, and also some of my sisters’ wives were uneasy about a man touching their baby. My sister Pado broached the possibility of an apprenticeship in the clayworks, and I leaped at the chance; but the managers of the Pottery, after long discussion, were unable to agree to accept men as employees. Their hormones would make male workers unreliable, and female workers would be uncomfortable, and so on.&lt;/p>
+&lt;p>The holonews was full of such proposals and discussions, of course, and orations about the unforeseen consequences of the Open Gate Law, the proper place of men, male capacities and limitations, gender as destiny. Feeling against the Open Gate policy ran very strong, and it seemed that every time I watched the holo there was a woman talking grimly about the inherent violence and irresponsibility of the male, his biological unfitness to participate in social and political decision-making. Often it was a man saying the same things. Opposition to the new law had the fervent support of all the conservatives in the castles, who pleaded eloquently for the gates to be closed and men to return to their proper station, pursuing the true, masculine glory of the games and the fuckeries.&lt;/p>
+&lt;p>Glory did not tempt me, after the years at Rakedr Castle; the word itself had come to mean degradation to me. I ranted against the games and competitions, puzzling most of my family, who loved to watch the Maingames and wrestling, and complained only that the level of excellence of most of the teams had declined since the gates were opened. And I ranted against the fuckeries, where, I said, men were used as cattle, stud bulls, not as human beings. I would never go there again.&lt;/p>
+&lt;p>“But my dear boy,” my mother said at last, alone with me one evening, “will you live the rest of your life celibate?”&lt;/p>
+&lt;p>“I hope not,” I said.&lt;/p>
+&lt;p>“Then… ?”&lt;/p>
+&lt;p>“I want to get married.”&lt;/p>
+&lt;p>Her eyes widened. She brooded a bit, and finally ventured, “To a man.”“No. To a woman. I want a normal, ordinary marriage. I want to have a wife and be a wife.”Shocking as the idea was, she tried to absorb it. She pondered, frowning.&lt;/p>
+&lt;p>“All it means,” I said, for I had had a long time with nothing to do but ponder, “is that we’d live together just like any married pair. We’d set up our own daughterhouse, and be faithful to each other, and if she had a child I’d be its lovemother along with her. There isn’t any reason why it wouldn’t work!”&lt;/p>
+&lt;p>“Well, I don’t know — I don’t know of any,” said my mother, gentle and judicious, and never happy at saying no to me. “But you do have to find the woman, you know.”&lt;/p>
+&lt;p>“I know,” I said glumly.&lt;/p>
+&lt;p>“It’s such a problem for you to meet people,” she said. “Perhaps if you went to the fuckery… ? I don’t see why your own motherhouse couldn’t guarantee you just as well as a castle. We could try — ?”&lt;/p>
+&lt;p>But I passionately refused. Not being one of Fassaw’s sycophants, I had seldom been allowed to go to the fuckery; and my few experiences there had been unfortunate. Young, inexperienced, and without recommendation, I had been selected by older women who wanted a plaything. Their practiced skill at arousing me had left me humiliated and enraged. They patted and tipped me as they left. That elaborate, mechanical excitation and their condescending coldness were vile to me, after the tenderness of my lover-protectors in the Castle. Yet women attracted me physically as men never had; the beautiful bodies of my sisters and their wives, all around me constantly now, clothed and naked, innocent and sensual, the wonderful heaviness and strength and softness of women’s bodies, kept me continually aroused. Every night I masturbated, fantasizing my sisters in my arms. It was unendurable. Again I was a ghost, a raging, yearning impotence in the midst of untouchable reality.&lt;/p>
+&lt;p>I began to think I would have to go back to the Castle. I sank into a deep depression, an inertia, a chill darkness of the mind.&lt;/p>
+&lt;p>My family, anxious, affectionate, busy, had no idea what to do for me or with me. I think most of them thought in their hearts that it would be best if I went back through the gate.&lt;/p>
+&lt;p>One afternoon my sister Pado, with whom I had been closest as a child, came to my room — they had cleared out a dormer attic for me, so that I had room at least in the literal sense. She found me in my now constant lethargy, lying on the bed doing nothing at all. She breezed in, and with the indifference women often show to moods and signals, plumped down on the foot of the bed and said, “Hey, what do you know about the man who’s here from the Ekumen?”&lt;/p>
+&lt;p>I shrugged and shut my eyes. I had been having rape fantasies lately. I was afraid of her.&lt;/p>
+&lt;p>She talked on about the offworlder, who was apparently in Rakedr to study the Mutiny. “He wants to talk to the resistance,” she said. “Men like you. The men who opened the gates. He says they won’t come forward, as if they were ashamed of being heroes.”&lt;/p>
+&lt;p>“Heroes!” I said. The word in my language is gendered female. It refers to the semi-divine, semi-historic protagonists of the Epics.&lt;/p>
+&lt;p>“It’s what you are,” Pado said, intensity breaking through her assumed breeziness. “You took responsibility in a great act. Maybe you did it wrong. Sassume did it wrong in the &lt;em>Founding of Emmo&lt;/em>, didn’t she, she let Faradr get killed. But she was still a hero. She took the responsibility. So did you. You ought to go talk to this Alien. Tell him what happened. Nobody really knows what happened at the Castle. You owe us the story.”&lt;/p>
+&lt;p>That was a powerful phrase, among my people. “The untold story mothers the lie,” was the saying. The doer of any notable act was held literally &lt;em>accountable&lt;/em> for it to the community.&lt;/p>
+&lt;p>“So why should I tell it to an Alien?” I said, defensive of my inertia.&lt;/p>
+&lt;p>“Because he’ll listen,” my sister said dryly. “We’re all too damned busy.”&lt;/p>
+&lt;p>It was profoundly true. Pado had seen a gate for me and opened it; and I went through it, having just enough strength and sanity left to do so.&lt;/p>
+&lt;p>Mobile Noem was a man in his forties, born some centuries earlier on Terra, trained on Hain, widely traveled; a small, yellow-brown, quick-eyed person, very easy to talk to. He did not seem at all masculine to me, at first; I kept thinking he was a woman, because he acted like one. He got right to business, with none of the maneuvering to assert his authority or jockeying for position that men of my society felt obligatory in any relationship with another man. I was used to men being wary, indirect, and competitive. Noem, like a woman, was direct and receptive. He was also as subtle and powerful as any man or woman I had known, even Ragaz. His authority was in fact immense; but he never stood on it. He sat down on it, comfortably, and invited you to sit down with him.&lt;/p>
+&lt;p>I was the first of the Rakedr mutineers to come forward and tell our story to him. He recorded it, with my permission, to use in making his report to the Stabiles on the condition of our society, “the matter of Seggri,” as he called it. My first description of the Mutiny took less than an hour. I thought I was done. I didn’t know, then, the inexhaustible desire to learn, to understand, to hear &lt;em>all&lt;/em> the story, that characterizes the Mobiles of the Ekumen. Noem asked questions, I answered; he speculated and extrapolated, I corrected; he wanted details, I furnished them — telling the story of the Mutiny, of the years before it, of the men of the Castle, of the women of the Town, of my people, of my life — little by little, bit by bit, all in fragments, a muddle. I talked to Noem daily for a month. I learned that the story has no beginning, and no story has an end. That the story is all muddle, all middle. That the story is never true, but that the lie is indeed a child of silence.&lt;/p>
+&lt;p>By the end of the month I had come to love and trust Noem, and of course to depend on him. Talking to him had become my reason for being. I tried to face the fact that he would not stay in Rakedr much longer. I must learn to do without him. Do what? There were things for men to do, ways for men to live, he proved it by his mere existence; but could I find them?&lt;/p>
+&lt;p>He was keenly aware of my situation, and would not let me withdraw, as I began to do, into the lethargy of fear again; he would not let me be silent. He asked me impossible questions. “What would you be if you could be anything?” he asked me, a question children ask each other.&lt;/p>
+&lt;p>I answered at once, passionately — “A wife!”&lt;/p>
+&lt;p>I know now what the flicker that crossed his face was. His quick, kind eyes watched me, looked away, looked back.&lt;/p>
+&lt;p>“I want my own family,” I said. “Not to live in my mothers’ house, where I’m always a child. Work. A wife, wives — children — to be a mother. I want life, not games!”&lt;/p>
+&lt;p>“You can’t bear a child,” he said gently.&lt;/p>
+&lt;p>“No, but I can mother one!”&lt;/p>
+&lt;p>“We gender the word,” he said. “I like it better your way… But tell me, Ardar, what are the chances of your marrying — meeting a woman willing to marry a man? It hasn’t happened, here, has it?”&lt;/p>
+&lt;p>I had to say no, not to my knowledge.&lt;/p>
+&lt;p>“It will happen, certainly, I think,” he said (his certainties were always uncertain). “But the personal cost, at first, is likely to be high. Relationships formed against the negative pressure of a society are under terrible strain; they tend to become defensive, over-intense, unpeaceful. They have no room to grow.”&lt;/p>
+&lt;p>“Room!” I said. And I tried to tell him my feeling of having no room in my world, no air to breathe.&lt;/p>
+&lt;p>He looked at me, scratching his nose; he laughed. “There’s plenty of room in the galaxy, you know,” he said.&lt;/p>
+&lt;p>“Do you mean… I could… That the Ekumen…” I didn’t even know what the question I wanted to ask was. Noem did. He began to answer it thoughtfully and in detail. My education so far had been so limited, even as regards the culture of my own people, that I would have to attend a college for at least two or three years, in order to be ready to apply to an offworld institution such as the Ekumenical Schools on Hain. Of course, he went on, where I went and what kind of training I chose would depend on my interests, which I would go to a college to discover, since neither my schooling as a child nor my training at the Castle had really given me any idea of what there was to be interested in. The choices offered me had been unbelievably limited, addressing neither the needs of a normally intelligent person nor the needs of my society. And so the Open Gate Law instead of giving me freedom had left me “with no air to breathe but airless Space,” said Noem, quoting some poet from some planet somewhere. My head was spinning, full of stars. “Hagka College is quite near Rakedr,” Noem said, “did you never think of applying? If only to escape from your terrible Castle?”&lt;/p>
+&lt;p>I shook my head. “Lord Fassaw always destroyed the application forms when they were sent to his office. If any of us had tried to apply… -”&lt;/p>
+&lt;p>“You would have been punished. Tortured, I suppose. Yes. Well, from the little I know of your colleges, I think your life there would be better than it is here, but not altogether pleasant. You will have work to do, a place to be; but you will be made to feel marginal, inferior. Even highly educated, enlightened women have difficulty accepting men as their intellectual equals. Believe me, I have experienced it myself! And because you were trained at the Castle to compete, to want to excel, you may find it hard to be among people who either believe you incapable of excellence, or to whom the concept of competition, of winning and defeating, is valueless. But just there, there is where you will find air to breathe.”&lt;/p>
+&lt;p>Noem recommended me to women he knew on the faculty of Hagka College, and I was enrolled on probation. My family were delighted to pay my tuition. I was the first of us to go to college, and they were genuinely proud of me.&lt;/p>
+&lt;p>As Noem had predicted, it was not always easy, but there were enough other men there that I found friends and was not caught in the paralyzing isolation of the motherhouse. And as I took courage, I made friends among the women students, finding many of them unprejudiced and companionable. In my third year, one of them and I managed, tentatively and warily, to fall in love. It did not work very well or last very long, yet it was a great liberation for both of us, our liberation from the belief that the only communication or commonality possible between us was sexual, that an adult man and woman had nothing to join them but their genitals. Emadr loathed the professionalism of the fuckery as I did, and our lovemaking was always shy and brief. Its true significance was not as a consummation of desire, but as proof that we could trust each other. Where our real passion broke loose was when we lay together talking, telling each other what our lives had been, how we felt about men and women and each other and ourselves, what our nightmares were, what our dreams were. We talked endlessly, in a communion that I will cherish and honor all my life, two young souls finding their wings, flying together, not for long, but high. The first flight is the highest.&lt;/p>
+&lt;p>Emadr has been dead two hundred years; she stayed on Seggri, married into a motherhouse, bore two children, taught at Hagka, and died in her seventies. I went to Hain, to the Ekumenical Schools, and later to Werel and Yeowe as part of the Mobile’s staff; my record is herewith enclosed. I have written this sketch of my life as part of my application to return to Seggri as a Mobile of the Ekumen. I want very much to live among my people, to learn who they are, now that I know with at least an uncertain certainty who I am.&lt;/p></description><category domain="https://zdaneel.github.io/femi/">femi</category></item></channel></rss>
