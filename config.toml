@@ -37,8 +37,8 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 # 每一分页的文章数（仅对「文章摘要」首页布局有效）
-pagination:
-  pagerSize: 5
+[pagination]
+    pagerSize = 5
 
 
 # URL 相关
@@ -272,7 +272,7 @@ uglyURLs = false
 [params]
     ######################################
     # 顶栏
-    author = leenadz
+    author = "leenadz"
 
     # 是否开启
     enableHeader = true
