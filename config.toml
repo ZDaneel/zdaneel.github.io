@@ -104,7 +104,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://zd-dz.cc"
+    website = ""
     # 推特
     twitter = ""
 
@@ -239,7 +239,7 @@ uglyURLs = false
 
     [[menu.main]]
         pageref= "/tech/"
-        name = "Tech"
+        name = "Info"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
@@ -247,7 +247,7 @@ uglyURLs = false
 
     [[menu.main]]
         pageref = "/femi/"
-        name = "Femi"
+        name = "Denken"
         weight = 3
         pre = "internal"
         post = "grav"
@@ -345,7 +345,13 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["我们生命中的每位过客都是独一无二的",
+    homePoetry = ["Every person that comes into our lives is unique.",
+    "They will always leave a bit of themselves and take a bit of ourselves.",
+    "There will be the ones that will take too much,",
+    "but there will be none that will not leave something.",
+    "This is the evindent proof that",
+    "two souls don't find each other by coincidence",
+    "我们生命中的每位过客都是独一无二的",
     "他们会留下自己的一些印记",
     "也会带走我们的部分气息",
     "有人会带走很多",
