@@ -328,16 +328,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "poetry"
+    homeLayout = "posts"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["Every person that comes into our lives is unique.",
-    "They will always leave a bit of themselves and take a bit of ourselves.",
-    "There will be the ones that will take too much,",
-    "but there will be none that will not leave something.",
-    "This is the evindent proof that",
-    "two souls don't find each other by coincidence",
+    homePoetry = [
     "我们生命中的每位过客都是独一无二的",
     "他们会留下自己的一些印记",
     "也会带走我们的部分气息",
