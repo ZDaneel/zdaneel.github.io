@@ -272,7 +272,8 @@ uglyURLs = false
 [params]
     ######################################
     # 顶栏
-    author = "leenadz"
+    [author]
+        name = "leenadz"
 
     # 是否开启
     enableHeader = true
