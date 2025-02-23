@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>leenadz</title><link>https://zdaneel.github.io/</link><description>记录奇思妙想</description><generator>Hugo 0.140.1 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>z1436910962@gmail.com (leenadz)</managingEditor><webMaster>z1436910962@gmail.com (leenadz)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sat, 28 Dec 2024 23:33:55 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://zdaneel.github.io/rss.xml"/><item><title>Feminism Learning</title><link>https://zdaneel.github.io/femi/feminism/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/feminism/</guid><pubDate>Fri, 05 Jan 2024 14:30:00 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="女性主义学习">女性主义学习&lt;/h1>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>leenadz</title><link>https://zdaneel.github.io/</link><description>记录奇思妙想</description><generator>Hugo 0.144.2 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>z1436910962@gmail.com (leenadz)</managingEditor><webMaster>z1436910962@gmail.com (leenadz)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sun, 23 Feb 2025 14:50:04 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://zdaneel.github.io/rss.xml"/><item><title>Feminism Learning</title><link>https://zdaneel.github.io/femi/feminism/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/feminism/</guid><pubDate>Fri, 05 Jan 2024 14:30:00 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="女性主义学习">女性主义学习&lt;/h1>
 &lt;p>&lt;strong>记录个人的女性主义学习&lt;/strong>&lt;/p>
 &lt;p>整理之前的各种笔记和资源，慢慢会优化分类。&lt;/p>
 &lt;hr>
@@ -378,8 +378,7 @@
 &lt;p>系统版本：macOS Sonoma 14.0&lt;/p>
 &lt;h2 id="一安装">一、安装&lt;/h2>
 &lt;blockquote>
-&lt;p>参考 &lt;a href="https://zhuanlan.zhihu.com/p/464386728">https://zhuanlan.zhihu.com/p/464386728&lt;/a>&lt;/p>
-&lt;/blockquote>
+&lt;p>参考 &lt;a href="https://zhuanlan.zhihu.com/p/464386728">https://zhuanlan.zhihu.com/p/464386728&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;h3 id="riscv-gnu-toolchain">riscv-gnu-toolchain&lt;/h3>
 &lt;p>使用链接中的2源码编译安装，其百度网盘文件编译没有产生问题&lt;/p>
 &lt;h3 id="qemu">qemu&lt;/h3>
@@ -399,8 +398,7 @@
 &lt;h3 id="配置文件">配置文件&lt;/h3>
 &lt;h4 id="1-gdbinit">1. .gdbinit&lt;/h4>
 &lt;blockquote>
-&lt;p>mac下查看隐藏文件快捷键&lt;code>cmd+shift+.&lt;/code>&lt;/p>
-&lt;/blockquote>
+&lt;p>mac下查看隐藏文件快捷键&lt;code>cmd+shift+.&lt;/code>&lt;/p>&lt;/blockquote>
 &lt;p>在主目录&lt;code>~&lt;/code>下创建一个&lt;code>.gdbinit&lt;/code>,从而使得gdb启动时能够读取xv6目录下的&lt;code>.gdbinit&lt;/code>&lt;/p>
 &lt;p>初始化gdb，从而无需在每次打开gdb时重复配置&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -529,41 +527,35 @@
 &lt;p>不妨从游戏中的塔罗牌说起，也能从中窥见主创们的想法。关于塔罗牌的象征，从发现塔罗牌的地方来看，四张塔罗牌分别对应四位角色。而从四条结局分支中，四张塔罗牌则同时对应了不同的抉择。而“高塔”则是本作中就有的一张塔罗牌。&lt;/p>
 &lt;blockquote>
 &lt;p>权杖国王&lt;/p>
-&lt;p>制定计划的大师，神机妙算的鬼才他们擅长拉近人与人之间的距离，激励被自己视为朋友的对象。然而敌人很快就会发现，他们是一股容易冲动、具有毁灭性的强大力量。为了达成目标，就算是违背承诺、打破底线也在所不惜。&lt;/p>
-&lt;/blockquote>
+&lt;p>制定计划的大师，神机妙算的鬼才他们擅长拉近人与人之间的距离，激励被自己视为朋友的对象。然而敌人很快就会发现，他们是一股容易冲动、具有毁灭性的强大力量。为了达成目标，就算是违背承诺、打破底线也在所不惜。&lt;/p>&lt;/blockquote>
 &lt;p>“说明你遇见了一个领袖，在实现目标或者是更为远大的理想，同时坚持自己的原则。权杖国王表示新的机会，抛弃从前的习惯或者风气。但它也预示了某种危险。会让人走捷径，行动起来残酷无情。最后为了大局，不得不做出一定牺牲。”——米丝蒂&lt;/p>
 &lt;p>位置在第一次见李德的小公园那里，对应着李德。李德忠于新美国，也想要拯救百灵鸟，但忽视了她的真实意愿；并且为了大局，杀了滑条和法国黑客，也会在V送百灵鸟上月球时掏枪对峙。&lt;/p>
 &lt;p>对应于玩家的抉择则是，为了救百灵鸟而不顾一切，前往发射台时击杀很多人，背叛李德并在最后杀李德，但当飞船起飞的那一刻，一切都变得热烈而浪漫。&lt;/p>
 &lt;blockquote>
 &lt;p>宝剑国王&lt;/p>
-&lt;p>对宝剑国王来说，只有两件事最为重要: 逻辑和信念。他们有着非常明确的道德标准，并且以关爱他人而著称。但是在面对敌人的时候，宝剑国王冷酷无情。除非对方受到了惩罚被命运撕得粉碎，否则他们决不罢休。&lt;/p>
-&lt;/blockquote>
+&lt;p>对宝剑国王来说，只有两件事最为重要: 逻辑和信念。他们有着非常明确的道德标准，并且以关爱他人而著称。但是在面对敌人的时候，宝剑国王冷酷无情。除非对方受到了惩罚被命运撕得粉碎，否则他们决不罢休。&lt;/p>&lt;/blockquote>
 &lt;p>“宝剑国王拥有敏锐的洞察力，代表绝对的理性。但是情绪高涨的时候，就算是理性也未必能够胜过澎湃的思绪。他说出的真相往往尖锐伤人。有些人宁可捂住耳朵，活在谎言中，这样就能逃避痛苦。”——米丝蒂&lt;/p>
 &lt;p>位置在天蛾酒吧附近，对应着亚历克斯。亚历克斯看透了新美国的欺压和利用，即使在与李德的再次碰面时情绪起伏较大，但很快地她又展现出理性的一面，之后冷血地对付黑客和汉森。&lt;/p>
 &lt;p>对应于玩家的抉择则是，V的信念是想要自己活下去，在审判日这个节点，可以认为是被情感所驱使，选择了相信百灵鸟的“拿不出担保”，而最后通过深入思考和判断，将欺骗自己的百灵鸟交给了李德，以此换活下去的机会。&lt;/p>
 &lt;blockquote>
 &lt;p>圣杯国王&lt;/p>
-&lt;p>圣杯国王富有创造力、非常感性。他们是坚强的个体，能够认识到情绪的重要性，行为处事依靠直觉。受到命运眷顾的时候，他们充满了同情心。可一旦被命运冷落，那么信任他们将是非常不明智的。&lt;/p>
-&lt;/blockquote>
+&lt;p>圣杯国王富有创造力、非常感性。他们是坚强的个体，能够认识到情绪的重要性，行为处事依靠直觉。受到命运眷顾的时候，他们充满了同情心。可一旦被命运冷落，那么信任他们将是非常不明智的。&lt;/p>&lt;/blockquote>
 &lt;p>“如果你遇上了这张牌暗指的人，那么就千万要当心。一方面，圣杯国王代表了理解，感情上的平衡。另一方面则恰恰相反：操纵人心，还有精神上出现危机。”——米丝蒂&lt;/p>
 &lt;p>位置在在进入狗镇大门口，对应百灵鸟。在李德线中，我们能够深入了解百灵鸟的过去，富有才华而真性情，而行为处事依靠直觉，这也使得百灵鸟虽然欺骗了别人，但一直遭到背叛。而在李德线最后，她已深陷于一个精神上的困境。&lt;/p>
 &lt;p>对应于玩家的抉择则是，相信李德给出的解决方案体现了对情境的理解，背叛百灵鸟则是情感上的残酷。而在最终选择，将百灵鸟从痛苦中解脱，则体现了深深的同情和尊重百灵鸟的意愿。&lt;/p>
 &lt;blockquote>
 &lt;p>钱币国王&lt;/p>
-&lt;p>钱币国王专横霸道。他们代表了进取、务实，但同时还有依附。这样的人可以对物质财富十分冷漠，也可以非常迷恋。也许他们早晚有一天会把你的世界闹个天翻地覆。&lt;/p>
-&lt;/blockquote>
+&lt;p>钱币国王专横霸道。他们代表了进取、务实，但同时还有依附。这样的人可以对物质财富十分冷漠，也可以非常迷恋。也许他们早晚有一天会把你的世界闹个天翻地覆。&lt;/p>&lt;/blockquote>
 &lt;p>“表示一个人通过坚韧不屈的意志，建立了一个富有而强大的国度。这种人很危险，V。身居高位，看到的世界也不一样。你的统治会不断受到挑战。我觉得光这样还不够。厄运的力量比你想象得要可怕。但我一直说， 跟随你的内心。就算失败，你依然可以保持真我。”——米丝蒂&lt;/p>
 &lt;p>位置在救下总统后的藏身处，对应总统迈尔斯。迈尔斯处于权力的顶峰，带着务实与稳重的策略领导着新美国，但同样表现出对手下冷酷与专横，将他们视作自己的棋子，关键时刻也不惜牺牲棋子。&lt;/p>
 &lt;p>对应于玩家的抉择则是，不相信百灵鸟的“没有担保”反映出对情境的务实考量，而最后拒绝百灵鸟的要求，依附于新美国，从而换取了物质上的利益（如手术）和精神上的认可（如勋章）。&lt;/p>
 &lt;blockquote>
 &lt;p>高塔&lt;/p>
-&lt;p>高塔预示着剧变、混乱与毁灭。闪电劈中高塔，代表埋在废墟下的旧秩序即将返回，并从中诞生新的秩序。它象征着悲剧、最终审判和自我毁灭。&lt;/p>
-&lt;/blockquote>
+&lt;p>高塔预示着剧变、混乱与毁灭。闪电劈中高塔，代表埋在废墟下的旧秩序即将返回，并从中诞生新的秩序。它象征着悲剧、最终审判和自我毁灭。&lt;/p>&lt;/blockquote>
 &lt;p>从字面上看，寓意已经相当明确，暗指了剧烈的变故和灾难，与制作组呈现的结局比较吻合。这一结局设计无疑是大胆的，高塔中的V不仅是自己成为普通人，而且周遭的朋友要么离去，要么信念与理想被现实打败。也应了德克斯特的那句话“无名小卒，还是名扬天下。”对许多玩家而言，这无疑是一种“失败”。&lt;/p>
 &lt;h3 id="棋子">棋子&lt;/h3>
 &lt;blockquote>
-&lt;p>“赛博朋克的风格主线，就是反映出科技高度发展的人类文明，与脆弱渺小的人类个体之间的强烈反差，同时外界与内在，钢铁与肉体，过去与未来，现实与虚幻等矛盾在其中交织。看似对立，宿命却链接在一起。把人异化物化成为资源、工具，改造人成为主题。”——&lt;a href="https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B">维基百科&lt;/a>&lt;/p>
-&lt;/blockquote>
+&lt;p>“赛博朋克的风格主线，就是反映出科技高度发展的人类文明，与脆弱渺小的人类个体之间的强烈反差，同时外界与内在，钢铁与肉体，过去与未来，现实与虚幻等矛盾在其中交织。看似对立，宿命却链接在一起。把人异化物化成为资源、工具，改造人成为主题。”——&lt;a href="https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B">维基百科&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>在往日之影中，制作组对赛博朋克的核心进行了更深层次的挖掘，总统迈尔斯代表着体制，而百灵鸟、李德和亚历克斯则是其麾下的三枚棋子，简单来说故事讲述的是三枚棋子如何面对体制，每个角色因其独特的背景、信仰和困境，做出了不同的选择，这些选择进一步塑造了他们的命运。&lt;/p>
 &lt;p>首先是百灵鸟，作品用了最多的篇幅来塑造，角色形象最为突出。她和体制的关系也比较清晰，从一开始的被迫入局，到后来完全不相信并痛恨体制，在出现生命危机后，不惜一切代价想要逃离，她展现了赛博朋克中最为核心的反叛精神。她的决策和行动，很多时候都与V相似。&lt;/p>
 &lt;p>其次是亚历克斯，相较之下就微妙很多。她看透体制的丑陋，联情局会先给出承诺并且兑现，但突然有一天命根子就被捏手上，从而不得自已。不过因为她没有像百灵鸟那样直接的生命危机，就选择了更为保守的策略，留在狗镇。虽然就算逃回去也只会被上级骂，还是选择留下，她知道回去后自己还是棋子任总统摆布，因此她是在等待一个转机，希望能从中找到自己的出路。&lt;/p>
@@ -574,8 +566,7 @@
 &lt;p>而如果杀死李德，就会掉落他的枪，枪名为“弃子”，在棋局中，弃子代表被舍弃的、不再有价值的棋子，暗示着其在大局中的可替代性与无足轻重。这与李德的命运有着高度的一致性。这个细节也让我们深思，在这样一个充满控制、资本、政治和权力斗争的赛博朋克世界中，每个个体是否都如同“弃子”一样，不可避免地受制于更大的权力机构？&lt;/p>
 &lt;h3 id="phantom-liberty">Phantom Liberty&lt;/h3>
 &lt;blockquote>
-&lt;p>“《往日之影》是十分文艺的翻译，Phantom Liberty——Phantom即为幻影的意思：something that appears or seems to exist but is not real or is imagined 意味着某些事物的出现和存在只不过是不真实或者是幻想。与其说是往日之影，不如说是虚妄的自由。”&lt;/p>
-&lt;/blockquote>
+&lt;p>“《往日之影》是十分文艺的翻译，Phantom Liberty——Phantom即为幻影的意思：something that appears or seems to exist but is not real or is imagined 意味着某些事物的出现和存在只不过是不真实或者是幻想。与其说是往日之影，不如说是虚妄的自由。”&lt;/p>&lt;/blockquote>
 &lt;p>Phantom暗示的是某种存在但又难以触及或实质化的事物。就如同幻影，它虽然清晰可见，但当你试图触及它时，它便会消散。这里的“Liberty”指那种表面上的、看似真实但实则难以达到的自由。在一个赛博朋克的世界中，真正的自由反而变得更加遥远和虚无。游戏中的每一位角色，不论是百灵鸟、亚历克斯还是李德，他们的命运与这“虚妄的自由”息息相关。&lt;/p>
 &lt;p>对百灵鸟来说，她追求的“自由”意味着摆脱联情局的束缚。但这只是一种短暂的解脱，当火箭冲上天际，强尼说她自由了，但她真的自由了吗？或者还是会成为夜式公司的“小白鼠”？&lt;/p>
 &lt;p>对于亚历克斯，“虚妄的自由”似乎是与体制达成的某种暂时的和解，期望在完成任务后能够安然退休。但这种期望完全依赖于联情局的承诺，而这个承诺是飘渺而不确定的，随时都可能收回去。&lt;/p>
@@ -587,8 +578,7 @@
 &lt;p>最后，想要用《地海古墓》的一段话作结，也是献给百灵鸟，飞吧，飞往自由的天空。“她渐渐认识到「自由」的沉重。自由是重担，对心灵而言是硕大无朋的奇特负荷，一点也不轻松。它不是白白赠予的礼物，而是一项选择，而且可能是艰难的选择。自由之路是爬坡路，上接光明，但负重的旅者可能永远到不了那个终点。”&lt;/p>
 &lt;h3 id="后记">后记&lt;/h3>
 &lt;blockquote>
-&lt;p>“但人只去向理念寻求答案，故事就变成了空洞的程序，允许无限试错，但永远没有敬畏与惊奇。”&lt;/p>
-&lt;/blockquote>
+&lt;p>“但人只去向理念寻求答案，故事就变成了空洞的程序，允许无限试错，但永远没有敬畏与惊奇。”&lt;/p>&lt;/blockquote>
 &lt;p>已经很长时间没有严肃地写东西了，特别是如此深度的命题。我的能力有限，很多想法无法完美地表达出来。
 在回顾自己的游戏、阅读和观影经历时，我发现我通常更多地依赖直觉判断而非纯粹的理性分析，也更容易与角色产生共鸣，看重作品传达的精神内核和深层意义，而不是过分钻研情节的逻辑严密性。
 每个人对于艺术的接受和欣赏都有自己独特的方式，这也是我们作为独立个体的魅力之一。&lt;/p>
@@ -884,8 +874,7 @@
 &lt;p>文章翻译来自微博WeFm字幕组，字幕组在两年前就停止更新。原文是一张长图，阅读和检索起来比较麻烦，于是将其转成文字&lt;/p>
 &lt;blockquote>
 &lt;p>August 8, 2016 by Melissa A. Fabello and Aaminah Khan&lt;/p>
-&lt;p>翻译：爱大圣 校对：elbereth 美工：茄茄&lt;/p>
-&lt;/blockquote>
+&lt;p>翻译：爱大圣 校对：elbereth 美工：茄茄&lt;/p>&lt;/blockquote>
 &lt;p>当一个男人自称女权主义者时，对一个女人来说，他潜在的危险性是最大的。&lt;/p>
 &lt;p>但是，很多女权主义者，甚至其他女性都不以为然。他们说：“你怎么能分化自己的同盟呢？”、“你希望他们能有多完美？”、“为什么你总是不信任别人？”、“你是受过多大心理创伤？”&lt;/p>
 &lt;p>但是，如果你是个女权主义者，正在追求与男性的恋爱及性关系，那么在约会时小心一点是很有必要的。这是一个需要注意的问题，保持警愓很重要。&lt;/p>
@@ -1014,8 +1003,7 @@
 &lt;blockquote>
 &lt;p>&lt;a href="http://everydayfeminism.com/2016/OB/reasons--to-beware--feminist--men/">原文&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://share.api.weibo.cn/share/313491653,4170499758030405.html?weibo_id=4170499758030405">翻译原文&lt;/a>&lt;/p>
-&lt;p>侵删&lt;/p>
-&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>我和她的故事</title><link>https://zdaneel.github.io/posts/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/</guid><pubDate>Fri, 03 Jun 2022 20:54:42 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>这是我三年前写的文章，也是我之前博客里的第一篇文章。前段时间服务器出了问题，重装了服务器，博客也相应没了，虽然做了备份，但懒得去弄回来了。&lt;/p>
+&lt;p>侵删&lt;/p>&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>我和她的故事</title><link>https://zdaneel.github.io/posts/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/</link><guid isPermaLink="true">https://zdaneel.github.io/posts/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/</guid><pubDate>Fri, 03 Jun 2022 20:54:42 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>这是我三年前写的文章，也是我之前博客里的第一篇文章。前段时间服务器出了问题，重装了服务器，博客也相应没了，虽然做了备份，但懒得去弄回来了。&lt;/p>
 &lt;p>重读文章，感觉很怪，但很喜欢自己那时的表达，流水账写法，直白没有太多修饰。&lt;/p>
 &lt;hr>
 &lt;p>不知不觉间，发现我的耳机ref陪伴我一年了，值得写一下我和她的故事。&lt;/p>
@@ -1042,8 +1030,7 @@
 &lt;p>之前在读李银河的《女性主义》时发现，很多的理论知识读过就忘，没有消化，很长的时间里我都在和理论的东西打交道，但我缺少让理论扎根的土壤，即厚重的生活，女权主义不能仅仅停留在理论，这更应该是一种生命的体验，是一种对更美好生活的探索。&lt;/p>
 &lt;p>明年会把重心放到对母系社会与历史的研究中去，这段时间常常能在时间线上看到友邻在讨论，因为年底实在是很忙，只能等到期末之后再来慢慢了解了。&lt;/p>
 &lt;blockquote>
-&lt;p>如果我们是被生出来的婴儿和男人，我们就总把生看做是被动的。需要一点努力才能理解重育而不是重生，重育是主动的、一种母性的方式：不再像苹果，而是像一棵苹果树那样思考。——《孩子、女人、男人和龙》&lt;/p>
-&lt;/blockquote>
+&lt;p>如果我们是被生出来的婴儿和男人，我们就总把生看做是被动的。需要一点努力才能理解重育而不是重生，重育是主动的、一种母性的方式：不再像苹果，而是像一棵苹果树那样思考。——《孩子、女人、男人和龙》&lt;/p>&lt;/blockquote>
 &lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112310100625.png" alt="截屏2021-12-31 上午1.00.11">&lt;/p>
 &lt;p>不久前我整理了一些读过的书籍和资料，放到了这个网页里：&lt;a href="https://zdaneel.github.io/femi/feminism/">Feminsm Learning&lt;/a>&lt;/p>
 &lt;h2 id="三折纸">三、折纸&lt;/h2>
@@ -1055,8 +1042,7 @@
 &lt;p>她陪伴我度过了今年最黑暗的一段时光，很多夜里都贴着她哭泣。她也带来了无数的欢乐，给原本死气沉沉的家中注入了活力，陪伴的美好时光难以用文字进行表达。返校后很久都没有回去，前不久回家，她还记得我，不断过来闻我，没过多久就抱上了，那一晚她特别兴奋，本来睡觉的时间都在跑酷。&lt;/p>
 &lt;p>&lt;img src="https://cdn.jsdelivr.net/gh/ZDaneel/cloudimg@main/img/202112302031979.jpeg" alt="小妮 ">&lt;/p>
 &lt;blockquote>
-&lt;p>拍摄：我爸&lt;/p>
-&lt;/blockquote>
+&lt;p>拍摄：我爸&lt;/p>&lt;/blockquote>
 &lt;h2 id="五新学期">五、新学期&lt;/h2>
 &lt;p>去年7月份时候，成功降级转专业到了计算机，因为很多修过的课程不用再修，于是这一个学年的时间特别充裕，跟现在期末的忙碌形成了强烈的对比。年初在歌德学院报了周末的德语班，每周末坐高铁去上课，上课的形式跟我之前上的课有挺大的不同，绝大多数的时间都在口语练习玩游戏，虽然起初我不太适应，但也慢慢接受了，也打好了一个基础。把未来留学的目标定在了德国，其中原因之一是不用交学费，此外，德国也是相对性别平等，女权在那边是一个基础的价值观，之前有想去日本，但是日本的性别状况比大陆还要糟糕。&lt;/p>
 &lt;p>现在回想，挺后悔当时没有更加好好去玩、去享受空闲的时光，那时候周末的很多时间还是待在了旅馆，计划去的一些博物馆、艺术展览和酒吧都没有去成。&lt;/p>
@@ -1161,8 +1147,7 @@
 &lt;p>你男朋友熟读赵皓阳，自称马列主义者，认为生产力决定一切，最近湖畔大学改名了，只见你男朋友转发新闻并配一行字：资本家没有祖国！马云撮合共济会！阴谋已被粉碎！&lt;/p>
 &lt;p>你男朋友深谙国际局势，不光要在饭桌上侃侃而谈，连刷抖音时都不忘记，只见你男朋友点开一个讲巴以冲突的短视频，含泪在底下评论了一条：巴铁加油&lt;/p>
 &lt;blockquote>
-&lt;p>来源微博，侵删&lt;/p>
-&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>[分享]秋瑾-敬告中国二万万女同胞</title><link>https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</guid><pubDate>Sat, 18 Dec 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="敬告中国二万万女同胞">敬告中国二万万女同胞&lt;/h1>
+&lt;p>来源微博，侵删&lt;/p>&lt;/blockquote></description><category domain="https://zdaneel.github.io/femi/">femi</category></item><item><title>[分享]秋瑾-敬告中国二万万女同胞</title><link>https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E7%A7%8B%E7%91%BE-%E6%95%AC%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BA%8C%E4%B8%87%E4%B8%87%E5%A5%B3%E5%90%8C%E8%83%9E/</guid><pubDate>Sat, 18 Dec 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="敬告中国二万万女同胞">敬告中国二万万女同胞&lt;/h1>
 &lt;p>（1904年）&lt;/p>
 &lt;p>秋瑾&lt;/p>
 &lt;p>唉！世界上最不平的事，就是我们二万万女同胞了。从小生下来，遇着好老子，还说得过；遇着脾气杂冒、不讲情理的，满嘴连说：“晦气，又是一个没用的。”恨不得拿起来摔死。总抱着“将来是别人家的人”这句话，冷一眼、白一眼地看待；没到几岁，也不问好歹，就把一双雪白粉嫩的天足脚，用白布缠着，连睡觉的时候，也不许放松一点，到了后来肉也烂尽了，骨也折断了，不过讨亲戚、朋友、邻居们一声“某人家姑娘脚小”罢了。这还不说，到了择亲的时光，只凭着两个不要脸媒人的话，只要男家有钱有势，不问身家清白，男人的性情好坏、学问高低，就不知不觉应了。到了过门的时候，用一顶红红绿绿的花轿，坐在里面，连气也不能出。到了那边，要是遇着男人虽不怎么样，却还安分，这就算前生有福今生受了。遇着不好的，总不是说“前生作了孽”，就是说“运气不好”。要是说一二句抱怨的话，或是劝了男人几句，反了腔，就打骂俱下；别人听见还要说：“不贤惠，不晓得妇道呢！”诸位听听，这不是有冤没处诉么？还有一桩不公的事：男子死了，女子就要带三年孝，不许二嫁。女子死了，男人只带几根蓝辫线，有嫌难看的，连带也不带；人死还没三天，就出去偷鸡摸狗；七还未尽，新娘子早已进门了。上天生人，男女原没有分别。试问天下没有女人，就生出这些人来么？为什么这样不公道呢？那些男子，天天说“心是公的，待人是要和平的”，又为什么把女子当作非洲的黑奴一样看待。不公不平，直到这步田地呢？&lt;/p>
@@ -1459,8 +1444,7 @@ $$&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;a href="https://personalityjunkie.com/the-intp/">https://personalityjunkie.com/the-intp/&lt;/a>&lt;/p>
 &lt;p>By Dr. A.J. Drenth&lt;/p>
-&lt;p>翻译：豆瓣id 看狐狸的猫&lt;/p>
-&lt;/blockquote></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>[分享]对女性的蔑称</title><link>https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</guid><pubDate>Thu, 18 Nov 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="对女性的蔑称">对女性的蔑称&lt;/h1>
+&lt;p>翻译：豆瓣id 看狐狸的猫&lt;/p>&lt;/blockquote></description><category domain="https://zdaneel.github.io/posts/">posts</category></item><item><title>[分享]对女性的蔑称</title><link>https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</link><guid isPermaLink="true">https://zdaneel.github.io/femi/%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%9A%84%E8%94%91%E7%A7%B0/</guid><pubDate>Thu, 18 Nov 2021 13:31:41 +0800</pubDate><author>z1436910962@gmail.com (leenadz)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="对女性的蔑称">对女性的蔑称&lt;/h1>
 &lt;p>原文已经被微博屏蔽，侵删&lt;/p>
 &lt;p>还在娘胎里的时候，就是“赔钱货”、“讨债鬼”，扔粪坑里丢绿化带，摁进马桶溺死&lt;/p>
 &lt;p>出生以后，称之“小丫头片子”，从小就被培养做丫头服侍主子，得让着哥哥/弟弟&lt;/p>
